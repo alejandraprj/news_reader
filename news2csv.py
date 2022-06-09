@@ -1,46 +1,14 @@
 import feedparser
 import time
-import sys
 import pandas as pd
 import re
-import urllib
 import urllib.request as ur
 import argparse
-import bs4
-
-# Feed URL
-base_url = 'https://news.google.com/rss/search?q='
-
-# Get the parameters
+import pandas as pd
 
 parser = argparse.ArgumentParser()
-
-parser.add_argument('-q', action='append', dest='queries', nargs='+',
-                    default=[],
-                    help='Add all queries',
-                    )
-
-parser.add_argument('-l', action='store', dest='language',
-                    default="en",
-                    help='Store language')
-
-parser.add_argument('-p', action='append', dest='locations', nargs='+',
-                    default=[],
-                    help='Add all places')
-
-
-parser.add_argument('--version', action='version', version='%(prog)s 1.0')
-
-# Get Alexa Rank - remember it only works from USA so you need a proxy
-def getMetrics(url):
-    cleanDomain = '/'.join(url.split('/')[:3])
-    try:
-        alexa_rank = bs4.BeautifulSoup(ur.urlopen("http://data.alexa.com/data?cli=10&dat=s&url="+ url), "xml").find("REACH")["RANK"]
-    except:
-        alexa_rank = None
-    return alexa_rank
  
-# HTML cleanup function
+ # HTML cleanup function
 def cleanhtml(raw_html):
   cleanr = re.compile('<.*?>')
   cleantext = re.sub(cleanr, '', raw_html)
@@ -50,7 +18,7 @@ def cleanhtml(raw_html):
 d = []
 
 # Access the feed and store data in d
-def readFeed(url,query):
+def readFeed(url):
 
     feed = feedparser.parse(url)
 
@@ -65,64 +33,28 @@ def readFeed(url,query):
 
         description = cleanhtml(post.summary)
         source = post.source.title
-        # Get Alexa Rank
-        alexa_rank = getMetrics(link)
-        d.append((title, link, pubDate, description, source, query, alexa_rank))
-        print(d)
+        d.append((title, link, pubDate, description, source))
+        # print(d)
     
     # Add delay between calls
     time.sleep(2)
     return d
 
-# Get the parameters
-args = parser.parse_args()
+# Converts to CSV
+def tocsv(category, filename, url):
 
-# Set the language (default = "en")
-language = args.language.lower()
+    print("Reading now: ", category)
+    readFeed(url)
 
-# Make sure there is at least one query
-if len(args.queries) == 0:
-    print("Please add at least one query using the -q parameter")
-    exit
+    df = pd.DataFrame(d, columns=('Title', 'Link', 'pubDate', 'Description','Source'))
 
-# Looping the different combination of queries and places
+    # Remove all rows with the same link - you might want to comment this when using different keywords
+    df.drop_duplicates(subset ="Link", keep = False, inplace = True)
+            
+    # Store data to CSV
+    df.to_csv(filename, encoding='utf-8', index=False)
+    print(len(df), "Articles saved on ", filename)
 
-# Make sure there is at least one place
-if len(args.locations) > 0:
-    # Looping queries and places 
-    for a in args.queries:
-        for b in args.locations:
-            query = ''.join(map(str, a))
-            # URL encode the query and add quotes around it
-            encoded_query = '"' + urllib.parse.quote_plus(query) + '"'
-            place = urllib.parse.quote_plus(''.join(map(str, b)).upper() + ":" + ''.join(map(str, b)).lower()) 
-            # Compose the URL
-            url = base_url + encoded_query + "&hl=" + language + "&ceid=" + place 
-            print("Reading now: ", url)
-            # Read the Feed
-            readFeed(url, query)
-else: 
-    # Just use the query(ies)
-    for a in args.queries:   
-        query = ''.join(map(str, a))
-        # URL encode the query and add quotes around it
-        encoded_query = '"' + urllib.parse.quote_plus(query) + '"'        
-        # Compose the URL    
-        url = base_url + encoded_query
-        print("Reading now: ",url)
-        # Read the Feed
-        readFeed(url, query)
-
-# Set the file name
-cleanQuery = re.sub('\W+','', query)
-file_name = cleanQuery + ".csv"
-
-df = pd.DataFrame(d, columns=('Title', 'Link', 'pubDate', 'Description','Source', 'Query', 'Alexa Rank'))
-
-# Remove all rows with the same link - you might want to comment this when using different keywords
-df.drop_duplicates(subset ="Link", 
-                     keep = False, inplace = True)
-        
-# Store data to CSV
-df.to_csv(file_name, encoding='utf-8', index=False)
-print(len(df), "Articles saved on ", file_name)
+urls = pd.read_csv('feeds.csv', sep=',')
+for i, row in urls.iterrows():
+    tocsv(row[0], row[1], row[2])

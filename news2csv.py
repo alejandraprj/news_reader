@@ -3,8 +3,9 @@
   # and similar open access platforms
 # Execute  : In the command line, write: 
            # python3 news2csv.py <source> <path>
-# <source> : CSV source location for "Tag" and corresponding "Query"
-# <path>   : directory where CSV results files will be located in
+           # <source> : CSV source for "Tag" and corresponding "Query"
+           # <path>   : directory where CSV results files will go
+# Example  : python3 news2csv.py source.csv path
 # Author   : Alejandra J. Perea Rojas
 
 import pandas as pd
@@ -14,7 +15,11 @@ import sys
 import os
 from urllib.parse import quote
 
+# Printing to Log File
+log = open('logfile.txt', 'w+')
+
 base_url = "https://news.google.com/rss/search?q="
+og_url = "https://news.google.com/search?q="
 end_url = "&hl=en-US&gl=US&ceid=US%3Aen"
 
 try:
@@ -37,9 +42,10 @@ def cleanhtml(raw_html):
 # Merge encoded query to make RSS Feed Link
 def toRSS(tag, query):
   try:
-    RSS_url = base_url + quote(query) + end_url
-    return tag, RSS_url
-    # print(url)
+    encoded = quote(query) + end_url
+    RSS_url = base_url + encoded
+    og = og_url + encoded
+    return tag, RSS_url, og
   except TypeError:
     print("Missing query from", tag + ". Stopping now.\n") 
     sys.exit()
@@ -67,11 +73,13 @@ def readFeed(tag, RSS_url):
   return data
 
 # Converts to CSV
-def tocsv(tag, RSS_url):
+def tocsv(tag, RSS_url, og):
   
   path = dir + "/" + tag + ".csv"
   print("Reading now: ", tag)
-  print(RSS_url)
+  print("Reading now: ", tag, file=log)
+  print(og)
+  print(og, file=log)
 
   # Feed dataframe
   df = pd.DataFrame(readFeed(tag, RSS_url),\
@@ -85,9 +93,10 @@ def tocsv(tag, RSS_url):
   # Store CSV file
   df.to_csv(path, encoding='utf-8', index=False)
   print(len(df), "Articles saved on", tag + ".csv\n")
+  print(len(df), "Articles saved on", tag + ".csv\n", file=log)
 
 print("\n")
 # Iterate through each row and index
 for row in queries.index:
-  tag, RSS_url = toRSS(queries['Tag'][row], queries['Query'][row])
-  tocsv(tag, RSS_url)
+  tag, RSS_url, og = toRSS(queries['Tag'][row], queries['Query'][row])
+  tocsv(tag, RSS_url, og)

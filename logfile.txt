@@ -1,0 +1,144 @@
+Reading now:  Sensors
+https://news.google.com/search?q=Protected%20Areas%2C%20Conservation%2C%20Wildlife%20%22Sensors%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+41 Articles saved on Sensors.csv
+
+Reading now:  Sensors-Marine
+https://news.google.com/search?q=Marine%20OR%20Aquatic%20AND%20%28Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%29%20Sensing%20Technology%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Sensors-Marine.csv
+
+Reading now:  Sensors-Remote
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Remote%20Sensing%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+99 Articles saved on Sensors-Remote.csv
+
+Reading now:  Sensors-Wireless
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Wireless%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+42 Articles saved on Sensors-Wireless.csv
+
+Reading now:  Sensors-Optical
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Optical%22%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+32 Articles saved on Sensors-Optical.csv
+
+Reading now:  Sensors-Thermal
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Thermal%22%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+41 Articles saved on Sensors-Thermal.csv
+
+Reading now:  Sensors-Spectral
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Spectral%22%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+12 Articles saved on Sensors-Spectral.csv
+
+Reading now:  Sensors-Radar
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Radar%22%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+46 Articles saved on Sensors-Radar.csv
+
+Reading now:  Sensors-Lidar
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Lidar%22%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+47 Articles saved on Sensors-Lidar.csv
+
+Reading now:  Sensors-Motion
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Motion%22%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+75 Articles saved on Sensors-Motion.csv
+
+Reading now:  Sensors-Sonar
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Sonar%20Technology%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+24 Articles saved on Sensors-Sonar.csv
+
+Reading now:  Sensors-Vibration
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Vibration%22%20Sensors%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+8 Articles saved on Sensors-Vibration.csv
+
+Reading now:  Imagery-Remote
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Remote%22%20%22Imagery%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+69 Articles saved on Imagery-Remote.csv
+
+Reading now:  Fire-Monitoring
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Fire%20Monitoring%20Technology%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Fire-Monitoring.csv
+
+Reading now:  Vehicles
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Vehicles%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Vehicles.csv
+
+Reading now:  Tracking
+https://news.google.com/search?q=%28Wildlife%20Conservation%20OR%20Protected%20Areas%29%20%22Tracking%22%20OR%20%22Trackers%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Tracking.csv
+
+Reading now:  Camera-Traps
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Camera%20Traps%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Camera-Traps.csv
+
+Reading now:  Camera-Conservation
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Camera%20Traps%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Camera-Conservation.csv
+
+Reading now:  Sensors-Poaching
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Poaching%20Traps%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Sensors-Poaching.csv
+
+Reading now:  Telemetry
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%22Telemetry%22%20Equipment%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+19 Articles saved on Telemetry.csv
+
+Reading now:  Sensors-Radio
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Radio%20Technology%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Sensors-Radio.csv
+
+Reading now:  IoT-General
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20IoT%20Technology%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on IoT-General.csv
+
+Reading now:  Bioacoustics
+https://news.google.com/search?q=%22Bioacoustics%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Bioacoustics.csv
+
+Reading now:  Acoustics
+https://news.google.com/search?q=Wildlife%20OR%20Proteced%20Areas%20OR%20Conservation%20%22Acoustic%22%20Monitoring%20Classification%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+22 Articles saved on Acoustics.csv
+
+Reading now:  Acoustic-Passive
+https://news.google.com/search?q=Wildlife%20OR%20Proteced%20Areas%20OR%20Conservation%20%22Passive%20Acoustic%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+30 Articles saved on Acoustic-Passive.csv
+
+Reading now:  Acoustic-Ornitology
+https://news.google.com/search?q=Wildlife%20OR%20Proteced%20Areas%20OR%20Conservation%20%22Ornithology%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+99 Articles saved on Acoustic-Ornitology.csv
+
+Reading now:  AI-General
+https://news.google.com/search?q=Wildlife%20OR%20Proteced%20Areas%20OR%20Conservation%20%22Artificial%20intelligence%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on AI-General.csv
+
+Reading now:  AI-NeuralNetworks
+https://news.google.com/search?q=Wildlife%20OR%20Proteced%20Areas%20OR%20Conservation%20%22Neural%20Networks%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+22 Articles saved on AI-NeuralNetworks.csv
+
+Reading now:  AI-CNN
+https://news.google.com/search?q=Wildlife%20OR%20Proteced%20Areas%20OR%20Conservation%20%22Convolutional%20Neural%20Networks%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+36 Articles saved on AI-CNN.csv
+
+Reading now:  AI-Optimization
+https://news.google.com/search?q=Wildlife%20OR%20Proteced%20Areas%20OR%20Conservation%20%22Optimization%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+74 Articles saved on AI-Optimization.csv
+
+Reading now:  AI-Classification
+https://news.google.com/search?q=Proteced%20Areas%20OR%20Conservation%20Wildlife%20Classification%20Algorithms%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+39 Articles saved on AI-Classification.csv
+
+Reading now:  AI-LTS
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Long%20Term%20Support%20LTS%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on AI-LTS.csv
+
+Reading now:  AI-RL
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20Regression%20Learning%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+24 Articles saved on AI-RL.csv
+
+Reading now:  AI-GameTheory
+https://news.google.com/search?q=Protected%20Areas%20OR%20Conservation%20%22Wildlife%22%20%22Game%20Theory%22%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+2 Articles saved on AI-GameTheory.csv
+
+Reading now:  Drones
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%28Drones%20OR%20Aerial%20Survey%20Technology%29%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+100 Articles saved on Drones.csv
+
+Reading now:  Drones-Aircraft
+https://news.google.com/search?q=Wildlife%20OR%20Protected%20Areas%20OR%20Conservation%20%28UAV%20OR%20Unmanned%20Aerial%20Vehicles%20OR%20Unoccupied%20Aircraft%20Systems%29%20when%3A1y&hl=en-US&gl=US&ceid=US%3Aen
+38 Articles saved on Drones-Aircraft.csv
+

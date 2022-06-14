@@ -1,0 +1,1707 @@
+﻿TY  - JOUR
+AU  - Keeping, D
+AU  - Burger, JH
+AU  - Keitsile, AO
+AU  - Gielen, MC
+AU  - Mudongo, E
+AU  - Wallgren, M
+AU  - Skarpe, C
+AU  - Foote, AL
+TI  - Can trackers count free-ranging wildlife as effectively and efficiently as conventional aerial survey and distance sampling? Implications for citizen science in the Kalahari, Botswana
+T2  - BIOLOGICAL CONSERVATION
+LA  - English
+KW  - CAMERA TRAPS
+KW  - TRANSECT
+KW  - MAMMALS
+KW  - NEED
+KW  - MANAGEMENT
+KW  - OCCUPANCY
+KW  - DENSITIES
+KW  - ABUNDANCE
+KW  - ACCURACY
+KW  - DESIGN
+AB  - Estimating wildlife abundance is central to conservation. We compared two widely practiced standards for counting animals - aerial strip surveys and ground line transects - with interpreted counts of animal tracks. At equal sampling intensity in semiarid savanna with good visibility all three methods produced similar population estimates and precision for six large herbivores. This comparison adds empirical support for the use of track count data to estimate population density rather than being restricted to ambiguous indices of relative abundance. Although expected to capture more species than aerial surveys, we found line transects limiting because encounter rates by direct sightings were relatively low; a minimum threshold 40 observations was achieved for only 1/3 of antelope species in 648.4 km of transect. By contrast, animal track counts returned exceedingly high encounter rates that allowed estimation of abundance for the entire large predator-prey community and mapping density-distributions more completely. Unlike aerial surveys conducted by Botswana's wildlife authority, the track survey provided opportunity to involve local people in the research process. The track survey cost 40% less than the aerial survey, and could be reduced a further 3-fold if trackers collected data autonomously without motor vehicles. Counting animals by their tracks is ultimately constrained to regions with appropriate substrates. However, in suitable environments like the Kalahari, we suggest that a citizen science driven by expert local trackers could ultimately replace conventional wildlife counts, generating knock-on benefits to conservation beyond improved data.
+AD  - Univ Alberta, Dept Renewable Resources, 751 Gen Serv Bldg, Edmonton, AB T6G 2H1, CanadaAD  - Skylark Ecol Consulting, 626 Wells Rd, Nakusp, BC V0G 1R1, CanadaAD  - Dept Wildlife & Natl Pk, POB 131, Gaborone, BotswanaAD  - Cheetah Conservat Botswana, P Bag BO 284, Gaborone, BotswanaAD  - Univ Limpopo, Risk & Vulnerabil Sci Ctr, P Bag X1106, ZA-0727 Polokwane, South AfricaAD  - Swedish Univ Agr Sci, Dept Wildlife Fish & Environm Studies, SE-90183 Umea, SwedenAD  - Hedmark Univ Coll, Dept Forestry & Wildlife Management, NO-2480 Koppang, NorwayC3  - University of AlbertaC3  - University of LimpopoC3  - Swedish University of Agricultural SciencesC3  - Inland Norway University of Applied SciencesFU  - Comanis Foundation
+FX  - This study was supported by the Comanis Foundation. We are grateful to Botswana's Ministry of Environment, Wildlife and Tourism, the Department of Wildlife and National Parks, and Zutshwa's Qhaa Qhing Conservation Trust for both permission to conduct research in KM and for collaboration. The trackers of Zutshwa and other Kalahari villages are indispensible to tracking science. We exalt their discipline, great concern for data accuracy and completeness, and their continued enthusiasm for conservation despite present hardships. We thank them together with the volunteer drivers and scribes who conducted the ground surveys: Chuck Newyar, Chris Kolaczan, Pat Marklevitz, Valentin Gruener, Sarah Wriedt, Noel Ballard, Corinne Itten and Eckhart Piprek. We thank David R Roberts for help coding in R statistical environment, Antje Hellwig for assistance with graphics, and Gus and Margie Mills for sharing their detailed insights on life history and day ranges of Kalahari cheetahs. Finally, we thank Hugo Jachmann and 2 anonymous reviewers for comments improving the manuscript.
+CR  - Agrawal A., 2006, 26 WILDL CONS SOC
+CR  - Anderson DR, 2001, WILDLIFE SOC B, V29, P1294
+CR  - Barnes RFW, 2001, AFR J ECOL, V39, P1, DOI 10.1046/j.1365-2028.2001.00266.x
+CR  - Bobek B., 2014, Wildlife Biology in Practice, V10, P7
+CR  - Buckland S.T., 2001, pi
+CR  - Burnham KP, 1980, WILDL MONOGR, V72
+CR  - Carbone C, 2005, AM NAT, V165, P290, DOI 10.1086/426790
+CR  - CAUGHLEY G, 1974, J WILDLIFE MANAGE, V38, P921, DOI 10.2307/3800067
+CR  - Caughley G., 1994, WILDLIFE ECOLOGY MAN
+CR  - Challender D.W.S., 2014, SCALING PANGOLIN CON
+CR  - Chandler M, 2017, BIOL CONSERV, V213, P280, DOI 10.1016/j.biocon.2016.09.004
+CR  - Chase M., 2011, AFRICA GEOGRAPHIC, V19
+CR  - Cook CN, 2010, FRONT ECOL ENVIRON, V8, P181, DOI 10.1890/090020
+CR  - Danielsen F, 2005, BIODIVERS CONSERV, V14, P2507, DOI 10.1007/s10531-005-8375-0
+CR  - De Angelo C, 2010, J WILDLIFE MANAGE, V74, P1141, DOI 10.2193/2009-293
+CR  - Duckworth J. W., 1998, J ZOOL, V246, P443, DOI DOI 10.1017/S0952836998281210
+CR  - DWNP, 2015, AER SURV AN S W BOTS
+CR  - East R., 1999, IUCN SSC ANTELOPE SP
+CR  - Efron B, 1993, INTRO BOOTSTRAP
+CR  - Evans JW, 2009, J WILDLIFE MANAGE, V73, P426, DOI 10.2193/2007-514
+CR  - Fewster RM, 2009, BIOMETRICS, V65, P225, DOI 10.1111/j.1541-0420.2008.01018.x
+CR  - Fragoso JMV, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0152659
+CR  - Frederick PC, 2003, J FIELD ORNITHOL, V74, P281, DOI 10.1648/0273-8570-74.3.281
+CR  - Gifford J., 2013, OFFICIAL MAGAZINE RO
+CR  - Harris Richard B., 1996, Chinese Journal of Zoology, V31, P16
+CR  - Hayward MW, 2015, J APPL ECOL, V52, P286, DOI 10.1111/1365-2664.12408
+CR  - Heinrich S, 2016, GLOB ECOL CONSERV, V8, P241, DOI 10.1016/j.gecco.2016.09.007
+CR  - Helle P, 2016, CAN J FOREST RES, V46, P1491, DOI 10.1139/cjfr-2015-0454
+CR  - Hulme D., 2001, AFRICAN WILDLIFE LIV
+CR  - Huson LW, 2007, J MOD APPL STAT METH, V6, P530
+CR  - Jachmann H, 2002, J APPL ECOL, V39, P841, DOI 10.1046/j.1365-2664.2002.00752.x
+CR  - Jachmann H., 2001, ESTIMATING ABUNDANCE
+CR  - Jathanna D, 2003, J ZOOL, V261, P285, DOI 10.1017/S0952836903004278
+CR  - JOLLY G M, 1969, East African Agricultural and Forestry Journal, V34, P50
+CR  - Jousimo J, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0162447
+CR  - Keeping D, 2014, ANIM CONSERV, V17, P486, DOI 10.1111/acv.12113
+CR  - Keeping D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096598
+CR  - Kruger JM, 2008, WILDLIFE RES, V35, P371, DOI 10.1071/WR07084
+CR  - Li BBV, 2018, BIOL CONSERV, V218, P83, DOI 10.1016/j.biocon.2017.11.029
+CR  - Liebenberg L., 2013, ORIGIN SCI
+CR  - Liebenberg L, 2017, BIOL CONSERV, V208, P155, DOI 10.1016/j.biocon.2016.04.033
+CR  - Lyra-Jorge MC, 2008, EUR J WILDLIFE RES, V54, P739, DOI 10.1007/s10344-008-0205-8
+CR  - Mbaiwa JE, 2018, S AFR GEOGR J, V100, P41, DOI 10.1080/03736245.2017.1299639
+CR  - McKee ED, 1979, STUDY GLOBAL SAND SE
+CR  - Mills M. G. L., 1990, KALAHARI HYAENAS
+CR  - Mills MGL, 2017, KALAHARI CHEETAHS: ADAPTATIONS TO AN ARID REGION, P1
+CR  - Msoffe FU, 2010, AFR J ECOL, V48, P727, DOI 10.1111/j.1365-2028.2009.01170.x
+CR  - Nimmo DG, 2015, J APPL ECOL, V52, P281, DOI 10.1111/1365-2664.12369
+CR  - Norton-Griffiths M., 1978, HDB 1 AFRICAN WILDLI
+CR  - Ogutu JO, 2006, J ZOOL, V269, P149, DOI 10.1111/j.1469-7998.2006.00055.x
+CR  - Phuthego TC, 2004, APPL GEOGR, V24, P57, DOI 10.1016/j.apgeog.2003.10.001
+CR  - Pirie TJ, 2016, WILDLIFE BIOL, V22, P13, DOI 10.2981/wlb.00129
+CR  - POLLOCK KH, 1987, J WILDLIFE MANAGE, V51, P502, DOI 10.2307/3801040
+CR  - Pople AR, 1998, WILDLIFE RES, V25, P315, DOI 10.1071/WR97077
+CR  - Rovero F, 2004, TROP ZOOL, V17, P267, DOI 10.1080/03946975.2004.10531208
+CR  - Rowcliffe JM, 2008, J APPL ECOL, V45, P1228, DOI 10.1111/j.1365-2664.2008.01473.x
+CR  - Rowcliffe JM, 2017, REMOTE SENS ECOL CON, V3, P107, DOI 10.1002/rse2.65
+CR  - Sayre RG, 2013, AFRICAN GEOGRAPHICAL
+CR  - Schlossberg S, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0164904
+CR  - Sharma S, 2005, J ZOOL, V267, P9, DOI 10.1017/S0952836905007119
+CR  - Sharma V, 2000, NAT NEUROSCI, V3, P496, DOI 10.1038/74872
+CR  - Silveira L, 2003, BIOL CONSERV, V114, P351, DOI 10.1016/S0006-3207(03)00063-6
+CR  - Stander PE, 1997, J ZOOL, V242, P329
+CR  - Stander PE, 1998, J APPL ECOL, V35, P378, DOI 10.1046/j.1365-2664.1998.00313.x
+CR  - Stephens PA, 2006, ANIM CONSERV, V9, P339, DOI 10.1111/j.1469-1795.2006.00044.x
+CR  - Sutherland WJ, 2004, TRENDS ECOL EVOL, V19, P305, DOI 10.1016/j.tree.2004.03.018
+CR  - Thomas L, 2010, J APPL ECOL, V47, P5, DOI 10.1111/j.1365-2664.2009.01737.x
+CR  - Thorn M, 2011, BIOL CONSERV, V144, P1799, DOI 10.1016/j.biocon.2011.03.009
+CR  - Van der Weyde LK, 2018, BIOL CONSERV, V220, P21, DOI 10.1016/j.biocon.2018.01.033
+CR  - Verlinden A, 1998, AFR J ECOL, V36, P117
+CR  - Wallgren M, 2009, J ARID ENVIRON, V73, P314, DOI 10.1016/j.jaridenv.2008.09.019
+CR  - Waltert M, 2008, J WILDLIFE MANAGE, V72, P603, DOI 10.2193/2006-456
+CR  - Wint W., 2007, BOTSWANA AERIAL SURV
+CR  - Winterbach CW, 2016, PEERJ, V4, DOI 10.7717/peerj.2662
+CR  - Zielinski WJ, 2009, NORTHWEST SCI, V83, P299, DOI 10.3955/046.083.0401
+PU  - ELSEVIER SCI LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+DA  - JUL
+PY  - 2018
+VL  - 223
+SP  - 156
+EP  - 169
+DO  - 10.1016/j.biocon.2018.04.027
+AN  - WOS:000435061700017
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  75
+ER  -
+
+TY  - JOUR
+AU  - Kabir, RH
+AU  - Lee, KK
+TI  - Wildlife Monitoring Using a Multi-UAV System with Optimal Transport Theory
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - UAV
+KW  - unmanned aerial vehicle
+KW  - wildlife monitoring
+KW  - multi-UAV exploration
+KW  - collaborative monitoring
+KW  - animal detection
+KW  - time-varying estimation
+KW  - optimal transport
+KW  - ROBUSTNESS ANALYSIS
+KW  - BIODIVERSITY
+KW  - MOVEMENT
+KW  - IMPACTS
+KW  - ECOLOGY
+KW  - SCIENCE
+AB  - This paper addresses a wildlife monitoring problem using a team of unmanned aerial vehicles (UAVs) with the optimal transport theory. The state-of-the-art technology using UAVs has been an increasingly popular tool to monitor wildlife compared to the traditional methods such as satellite imagery-based sensing or GPS trackers. However, there still exist unsolved problems as to how the UAVs need to cover a spacious domain to detect animals as many as possible. In this paper, we propose the optimal transport-based wildlife monitoring strategy for a multi-UAV system, to prioritize monitoring areas while incorporating complementary information such as GPS trackers and satellite-based sensing. Through the proposed scheme, the UAVs can explore the large-size domain effectively and collaboratively with a given priority. The time-varying nature of wildlife due to their movements is modeled as a stochastic process, which is included in the proposed work to reflect the spatio-temporal evolution of their position estimation. In this way, the proposed monitoring plan can lead to wildlife monitoring with a high detection rate. Various simulation results including statistical data are provided to validate the proposed work. In all different simulations, it is shown that the proposed scheme significantly outperforms other UAV-based wildlife monitoring strategies in terms of the target detection rate up to 3.6 times.
+AD  - New Mexico Inst Min & Technol, Dept Mech Engn, Socorro, NM 87801 USAC3  - New Mexico Institute of Mining TechnologyFU  - New Mexico NASA EPSCoR Research Infrastructure Development (RID) Program [80NSSC19M0181]
+FX  - This work was supported by New Mexico NASA EPSCoR Research Infrastructure Development (RID) Program with Cooperative Agreement 80NSSC19M0181.
+CR  - Alvarez-Berrios N, 2016, TROP CONSERV SCI, V9, P832, DOI 10.1177/194008291600900216
+CR  - [Anonymous], 2003, MAMMALS PROGRAM
+CR  - Bergman CM, 2000, OECOLOGIA, V123, P364, DOI 10.1007/s004420051023
+CR  - Biggs J, 2015, BIOL CONSERV, V183, P19, DOI 10.1016/j.biocon.2014.11.029
+CR  - BOVET P, 1988, J THEOR BIOL, V131, P419, DOI 10.1016/S0022-5193(88)80038-9
+CR  - Chabot D, 2015, J UNMANNED VEH SYST, V3, P137, DOI 10.1139/juvs-2015-0021
+CR  - Deichmann JL, 2017, ECOL INDIC, V74, P39, DOI 10.1016/j.ecolind.2016.11.002
+CR  - Dufour S, 2013, KNOWL MANAG AQUAT EC, DOI 10.1051/kmae/2013068
+CR  - Evans LJ, 2015, HERPETOL CONSERV BIO, V10, P90
+CR  - Gardner TA, 2008, ECOL LETT, V11, P139, DOI 10.1111/j.1461-0248.2007.01133.x
+CR  - Gray M, 2013, BIOL CONSERV, V158, P230, DOI 10.1016/j.biocon.2012.09.018
+CR  - Halstead BJ, 2007, HERPETOLOGICA, V63, P472, DOI 10.1655/0018-0831(2007)63[472:AFTOJG]2.0.CO;2
+CR  - Ivosevic Bojana, 2015, Journal of Ecology and Environment, V38, P113, DOI 10.5141/ecoenv.2015.012
+CR  - Kadota M, 2011, FISHERIES SCI, V77, P993, DOI 10.1007/s12562-011-0415-y
+CR  - KAREIVA PM, 1983, OECOLOGIA, V56, P234, DOI 10.1007/BF00379695
+CR  - Kellenberger B, 2017, INT GEOSCI REMOTE SE, P866, DOI 10.1109/IGARSS.2017.8127090
+CR  - Koh LP, 2012, TROP CONSERV SCI, V5, P121, DOI 10.1177/194008291200500202
+CR  - Langrock R, 2014, METHODS ECOL EVOL, V5, P190, DOI 10.1111/2041-210X.12155
+CR  - Lee K., 2015, THESIS TEXAS A M U C
+CR  - Lee K, 2018, INT J CONTROL AUTOM, V16, P1323, DOI 10.1007/s12555-017-0530-3
+CR  - Lee K, 2014, 7TH ANNUAL DYNAMIC SYSTEMS AND CONTROL CONFERENCE, 2014, VOL 2
+CR  - Lee K, 2014, P AMER CONTR CONF, P2638, DOI 10.1109/ACC.2014.6859432
+CR  - Lee K, 2015, AUTOMATICA, V51, P341, DOI 10.1016/j.automatica.2014.10.080
+CR  - Li XH, 2020, 2020 AUSTRALIAN AND NEW ZEALAND CONTROL CONFERENCE (ANZCC 2020), P87, DOI 10.1109/ANZCC50923.2020.9318344
+CR  - Linchant J, 2015, MAMMAL REV, V45, P239, DOI 10.1111/mam.12046
+CR  - Lorah P., 2018, INT J GEOSPATIAL ENV, V5, P2
+CR  - Lu B, 2017, ISPRS J PHOTOGRAMM, V128, P73, DOI 10.1016/j.isprsjprs.2017.03.011
+CR  - Meijaard E, 2012, ANN NY ACAD SCI, V1249, P29, DOI 10.1111/j.1749-6632.2011.06288.x
+CR  - Murphy AJ, 2017, J MAMMAL, V98, P272, DOI 10.1093/jmammal/gyw168
+CR  - Palace M, 2008, BIOTROPICA, V40, P141, DOI 10.1111/J.1744-7429.2007.00353.x
+CR  - Paredes J.A., 2017, P 2017 IEEE 24 INT C, P1
+CR  - Rovero F., 2016, BEHAV STUDIES CAMERA, P142
+CR  - Stapleton S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0101513
+CR  - Tilman D, 2017, NATURE, V546, P73, DOI 10.1038/nature22900
+CR  - Valavanis K.P., 2015, HDB UNMANNED AERIAL, V1
+CR  - Valentini A, 2016, MOL ECOL, V25, P929, DOI 10.1111/mec.13428
+CR  - Villani C, 2009, GRUNDLEHR MATH WISS, V338, P5
+CR  - Zanol R, 2019, IEEE WCNC
+CR  - Zeng Y, 2019, P IEEE, V107, P2327, DOI 10.1109/JPROC.2019.2952892
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+DA  - MAY
+PY  - 2021
+VL  - 11
+IS  - 9
+DO  - 10.3390/app11094070
+AN  - WOS:000649863800001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  39
+ER  -
+
+TY  - JOUR
+AU  - Kavhu, B
+AU  - Mpakairi, KS
+TI  - Spatial Monitoring and Reporting Tool (SMART) in Mid-Zambezi Valley, Zimbabwe: Implementation challenges and practices
+T2  - CONSERVATION SCIENCE AND PRACTICE
+LA  - English
+KW  - LAW-ENFORCEMENT
+AB  - Biodiversity monitoring and data-management technologies can enhance the protection of persecuted species, such as African elephants (Loxodonta africana), through providing management-relevant information. Implementing these technologies, however, often presents several capacity and resource challenges for field staff in protected areas. In the Mid-Zambezi Valley, Zimbabwe, the Zimbabwe Parks and Wildlife Management Authority (ZPWMA) is in the process of adopting the Spatial Monitoring and Reporting Tool (SMART) as law enforcement and data management tool for adaptive management. With the support of several conservation partners, ZPWMA was able to acquire SMART equipment (computers and handheld cyber-tracker devices) as well as train rangers and officers on how to use SMART in the region. Following the training and provision of SMART equipment, most protected areas (6 out of 7) in the Mid-Zambezi Valley have adopted SMART for law enforcement and relevant data are being collected. This study draws from the first-hand experience of training workshops, interviews with field staff, observations from support visits, and discussions with conservation partners in the Zambezi Valley. We observed that the introduction of SMART was marred by (a) technical and capacity challenges, (b) behavioral and human dynamics challenges, and (c) resources challenges. These were linked to ineptness among patrol rangers and officers, discomfort with the new technology, and uneven distribution of resources to implement SMART. To help overcome some of the challenges, we propose the development of an integrated SMART implementation plan, motivation of field staff, learning from implementation models of institutions that have successfully implemented SMART, and the provision of more SMART equipment.
+AD  - Zimbabwe Parks & Wildlife Management Author, Sci Serv Unit, POB 140 Causeway, Harare, ZimbabweAD  - Stellenbosch Univ, Dept Geog & Environm Studies, Matieland, South AfricaAD  - Stellenbosch Univ, Ctr Sustainabil Transit, Stellenbosch, South AfricaAD  - Univ Western Cape, Dept Earth Sci, Inst Water Studies, Bellville, South AfricaC3  - Stellenbosch UniversityC3  - Stellenbosch UniversityC3  - University of the Western CapeCR  - Chimuti T., 2016, CAMBODIAN J NAT HIST
+CR  - Gray TNE, 2018, BIODIVERS CONSERV, V27, P1031, DOI 10.1007/s10531-017-1450-5
+CR  - Hotte MHH, 2016, INTEGR ZOOL, V11, P2, DOI 10.1111/1749-4877.12168
+CR  - Konate S, 2021, AFR J ECOL, V59, P132, DOI 10.1111/aje.12793
+CR  - Kuiper T, 2021, PEOPLE NAT, V3, P148, DOI 10.1002/pan3.10154
+CR  - Kuiper T, 2020, BIOL CONSERV, V243, DOI 10.1016/j.biocon.2020.108486
+CR  - Moreto William D, 2015, CRIME SCI, V4, P15, DOI DOI 10.1186/S40163-015-0030-9
+CR  - Riddle Heidi S., 2010, Journal of Threatened Taxa, V2, P653
+CR  - Sallee, 2002, UMAGTZ33
+CR  - Saunders L., 2011, THESIS
+CR  - Stokes EJ, 2010, INTEGR ZOOL, V5, P363, DOI 10.1111/j.1749-4877.2010.00223.x
+CR  - Wilfred P, 2019, AFR J ECOL, V57, P523, DOI 10.1111/aje.12634
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+DA  - SEP
+PY  - 2021
+VL  - 3
+IS  - 9
+DO  - 10.1111/csp2.492
+AN  - WOS:000668652900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  12
+ER  -
+
+TY  - JOUR
+AU  - Baumker, E
+AU  - Conrad, L
+AU  - Comella, LM
+AU  - Woias, P
+TI  - A Fully Featured Thermal Energy Harvesting Tracker for Wildlife
+T2  - ENERGIES
+LA  - English
+KW  - TEG
+KW  - thermoelectricity
+KW  - thermal energy harvesting
+KW  - tracker
+KW  - wildlife
+KW  - animal
+KW  - ultra low power
+KW  - BODY
+AB  - In this paper, we describe a novel animal-tracking-system, solely powered by thermal energy harvesting. The tracker achieves an outstanding 100 mu W of electrical power harvested over an area of only 2 times 20.5 cm(2), using the temperature difference between the animal's fur and the environment, with a total weight of 286 g. The steps to enhance the power income are presented and validated in a field-test, using a system that fulfills common tracking-tasks, including GPS with a fix every 1.1 h to 1.5 h, activity and temperature measurements, all data wirelessly transmitted via LoRaWAN at a period of 14 min. Furthermore, we describe our ultra low power design that achieves an overall sleep power consumption of only 8 mu W and is able to work down to temperature differences of 0.9 K applied to the TEGs.
+AD  - Univ Freiburg, Dept Microsyst Engn IMTEK, Lab Design Microsyst, D-79106 Freiburg, GermanyC3  - League of European Research Universities - LERUC3  - University of FreiburgFU  - Baden-Wuerttemberg Ministry of Science, Research and Art; University of Freiburg
+FX  - The article processing charge was funded by the Baden-Wuerttemberg Ministry of Science, Research and Art and the University of Freiburg in the funding program Open Access Publishing.
+CR  - Adu-Manu KS, 2018, ACM T SENSOR NETWORK, V14, DOI 10.1145/3183338
+CR  - Analog Devices Inc, 2019, ULTR VOLT STEP CONV
+CR  - [Anonymous], 2019, LIFETAG
+CR  - AVX Corporation, 2017, BESTCAP ULTR ESR HIG
+CR  - Baumker E, 2018, J PHYS CONF SER, V1052, DOI 10.1088/1742-6596/1052/1/012005
+CR  - Baumker E, 2020, ENERGIES, V13, DOI 10.3390/en13112769
+CR  - Brooks C, 2008, J WILDLIFE MANAGE, V72, P527, DOI 10.2193/2007-061
+CR  - CENA K, 1974, PHYS MED BIOL, V19, P51, DOI 10.1088/0031-9155/19/1/005
+CR  - Dagdeviren C, 2017, ANNU REV BIOMED ENG, V19, P85, DOI 10.1146/annurev-bioeng-071516-044517
+CR  - Fischer Elektronik GmbH Co. KG, 2020, DAT PROD ICK S 50 20
+CR  - Goodwin SD, 1998, CONTEMP TOP LAB ANIM, V37, P51
+CR  - Harrity EJ, 2020, J FIELD ORNITHOL, V91, P300, DOI 10.1111/jofo.12344
+CR  - Jain VR, 2008, ISSNIP 2008: PROCEEDINGS OF THE 2008 INTERNATIONAL CONFERENCE ON INTELLIGENT SENSORS, SENSOR NETWORKS, AND INFORMATION PROCESSING, P617, DOI 10.1109/ISSNIP.2008.4762058
+CR  - Knight C, 2008, SENSORS-BASEL, V8, P8037, DOI 10.3390/s8128037
+CR  - LAPIS Technology Co. Ltd., 2016, 64K 8192 WORD 8 BIT
+CR  - Latham ADM, 2015, NEW ZEAL J ECOL, V39, P143
+CR  - Loreti P, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19050985
+CR  - Luo Y., 2018, ABS180300106 ARXIV
+CR  - PENFIELD P, 1961, J APPL PHYS, V32, P1793, DOI 10.1063/1.1728450
+CR  - Peter P.D.I.W, 2012, Patent No. [DE DE102011014512A1, 102011014512]
+CR  - Rowe D.M., 2018, THERMOELECTRICS HDB
+CR  - Taylor PD, 2017, AVIAN CONSERV ECOL, V12, DOI 10.5751/ACE-00953-120108
+CR  - Terrasson G, 2016, IOP CONF SER-MAT SCI, V138, DOI 10.1088/1757-899X/138/1/012004
+CR  - Texas Instruments Incorporated, 2013, TPS6274 360NA IQ STE
+CR  - Texas Instruments Incorporated, 2014, MSP430FR596 MSP430FR
+CR  - Texas Instruments Incorporated, 2018, TMP117 HIGH ACC LOW
+CR  - u-blox, 2019, U BLOX M8 CONC GNSS
+CR  - Vishay Intertechnology Inc, 2017, SIP32431 SIP32432 10
+CR  - White PCL, 2009, WILDLIFE RES, V36, P275, DOI 10.1071/WRv36n4_ED
+CR  - Wijesundara M, 2016, IEEE GLOB COMM CONF
+CR  - Woias P, 2014, J PHYS CONF SER, V557, DOI 10.1088/1742-6596/557/1/012084
+CR  - Woias P, 2013, J PHYS CONF SER, V476, DOI 10.1088/1742-6596/476/1/012081
+CR  - Woias P., 2009, P POWERMEMS 2009 WAS, P209
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+DA  - OCT
+PY  - 2021
+VL  - 14
+IS  - 19
+DO  - 10.3390/en14196363
+AN  - WOS:000707855600001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  33
+ER  -
+
+TY  - CPAPER
+AU  - Imah, EM
+AU  - Wintarti, A
+AU  - Sulaiman, R
+AU  - Manuharawati, M
+ED  - Abdullah, AG
+ED  - Nandiyanto, ABD
+TI  - Automation animal tracker using complex value neural network
+T2  - 3RD ANNUAL APPLIED SCIENCE AND ENGINEERING CONFERENCE (AASEC 2018)
+LA  - English
+CP  - 3rd Annual Applied Science and Engineering Conference (AASEC)
+KW  - FEATURE-EXTRACTION
+KW  - CLASSIFICATION
+KW  - RECOGNITION
+AB  - Animal tracker is an important phase in animal behavior analysis. It leads to understanding how, when, and why the animal use the environmental resources, how, where, and when they interact with each other, with other species, and with their environment. Understanding the animal behavior is providing the link to population distribution which is essential for predicting the human-caused environmental change and guidance for conservation strategies. Tracking and detecting the animal is time and cost consuming. Machine Learning can relieve this burden by detecting animal automatically. Complex-Valued Neural Network is a method of Machine Learning that is challenging and interesting to be explored. This study applied of Complex-Valued Neural Network (CVNN) for animal tracking, especially in detecting the animal species. The experiment results present that CVNN is robust to recognition the animal automatically.
+AD  - Univ Negeri Surabaya, Math Dept, Surabaya, East Java, IndonesiaC3  - Universitas Negeri SurabayaCR  - Alvarado AH, 2014, ECOL EVOL, V4, P3456, DOI 10.1002/ece3.1205
+CR  - Amin MF, 2009, NEUROCOMPUTING, V72, P945, DOI 10.1016/j.neucom.2008.04.006
+CR  - Baruch IS, 2017, NEUROCOMPUTING, V233, P104, DOI 10.1016/j.neucom.2016.09.109
+CR  - Burghardt T., TRACKING ANIMALS WIL
+CR  - Cheng JK, 2012, BIOACOUSTICS, V21, P157, DOI 10.1080/09524622.2012.669664
+CR  - Dodge S, 2013, MOV ECOL, V1, DOI 10.1186/2051-3933-1-3
+CR  - Du JX, 2013, NEUROCOMPUTING, V116, P150, DOI 10.1016/j.neucom.2012.03.028
+CR  - Hinton GE, 2006, SCIENCE, V313, P504, DOI 10.1126/science.1127647
+CR  - Imah EM, 2013, INT J SMART SENS INT, V6, P1891
+CR  - Imah EM, 2011, 2011 IEEE REGION 10 CONFERENCE TENCON 2011, P5, DOI 10.1109/TENCON.2011.6129052
+CR  - Iosifidis A., 2016, NEUROCOMPUTING
+CR  - Kobayashi M., 2017, IEEE T NEURAL NETWOR, P1
+CR  - Lee YS, 2017, INT CONF ACOUST SPEE, P281, DOI 10.1109/ICASSP.2017.7952162
+CR  - Schneider R., 2007, DAUBECHIES WAVELETS, P1
+CR  - Schwager M, 2007, COMPUT ELECTRON AGR, V56, P46, DOI 10.1016/j.compag.2007.01.002
+CR  - Shao LZ, 2011, 2011 AASRI CONFERENCE ON ARTIFICIAL INTELLIGENCE AND INDUSTRY APPLICATION (AASRI-AIIA 2011), VOL 2, P140
+CR  - Wang X, 2014, DIGIT SIGNAL PROCESS, V34, P101, DOI 10.1016/j.dsp.2014.08.005
+CR  - Xu ZP, 2017, SCI REP-UK, V7, DOI 10.1038/srep42815
+PU  - E D P SCIENCES
+PI  - CEDEX A
+PA  - 17 AVE DU HOGGAR PARC D ACTIVITES COUTABOEUF BP 112, F-91944 CEDEX A, FRANCE
+PY  - 2018
+VL  - 197
+DO  - 10.1051/matecconf/201819703020
+AN  - WOS:000567661500045
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  18
+ER  -
+
+TY  - CPAPER
+AU  - Baumker, E
+AU  - Schule, F
+AU  - Woias, P
+A1  - IOP
+TI  - Development of a batteryless VHF-Beacon and tracker for mammals
+T2  - 17TH INTERNATIONAL CONFERENCE ON MICRO AND NANOTECHNOLOGY FOR POWER GENERATION AND ENERGY CONVERSION APPLICATIONS (POWERMEMS 2017)
+LA  - English
+CP  - 17th International Conference on Micro and Nanotechnology for Power Generation and Energy Conversion Applications (PowerMEMS)
+AB  - In this paper, we present the design, set-up and testing of a fully energy-autonomous wildlife tracking collar that is supplied by thermoelectric energy harvesting from the animal's body heat. Attached to the neck of a mammal, the device determines the animal's activity, body-temperature and its own energy state. The data is then transmitted in regular short beacons which are also used for triangulation of the animal position. The characterization in laboratory and a field test show that the system design with an ultra-low power switch and a low-voltage step-up-converter with over 42 % efficiency is capable to measure and transmit continuously in intervals of 25 s.
+AD  - Univ Freiburg, Dept Microsyst Engn IMTEK, Lab Design Microsyst, Georges Koehler Allee 102, D-79110 Freiburg, GermanyC3  - University of FreiburgCR  - ATS, 2017, TRANSM TRACK PROD ON
+CR  - Baumker E, 2017, MIKROSYSTEMTECHNIK K
+CR  - Biancuzzi G, 2012, Elektrische schaltung dE Patent App, Patent No. [DE201,110,014,512, 201110014512]
+CR  - Kenward R.E., 2000, MANUAL WILDLIFE RADI
+CR  - Reimoser F, 2015, OSTERREICHISCHE JAGE, V21, P1
+CR  - Stegmeir S, 2017, THESIS
+CR  - Woias P, 2013, J PHYS CONF SER, V476, DOI 10.1088/1742-6596/476/1/012081
+PU  - IOP PUBLISHING LTD
+PI  - BRISTOL
+PA  - DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+PY  - 2018
+VL  - 1052
+DO  - 10.1088/1742-6596/1052/1/012005
+AN  - WOS:000442553700005
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  7
+ER  -
+
+TY  - JOUR
+AU  - Killion, AK
+AU  - Roloff, GJ
+AU  - Mayhew, S
+AU  - Campa, H
+AU  - Winterstein, S
+TI  - Implementing and Evaluating a Citizen-Science Program to Support Wildlife Management: MI-MAST
+T2  - WILDLIFE SOCIETY BULLETIN
+LA  - English
+KW  - acorns
+KW  - berries
+KW  - citizen science
+KW  - fruits
+KW  - mast production
+KW  - Michigan
+KW  - MI-MAST
+KW  - wildlife food
+KW  - BREEDING BIRD SURVEY
+KW  - DATA QUALITY
+KW  - VOLUNTEERS
+KW  - CONSERVATION
+KW  - PARTICIPATION
+KW  - BIODIVERSITY
+KW  - RELIABILITY
+KW  - POPULATIONS
+KW  - PERFORMANCE
+KW  - OCCUPANCY
+AB  - Citizen science is increasingly being used by natural resource professionals to monitor the environment at large spatial or temporal extents. Developing, initiating, and sustaining an effective citizen-science program requires careful planning, marketing, and engagement. We describe the development, implementation, and evaluation of a citizen-science program for quantifying mast production (called MI-MAST: Wildlife Food Tracker), and offer recommendations on marketing, recruitment of volunteers, and ways to sustain programs. In 2014, MI-MAST was introduced to approximately 150 potential participants to test technology and capabilities of volunteers. In 2015, we worked with project partners to market MI-MAST to approximately 500 additional potential participants throughout Michigan, USA. From 2014 to 2017, 510 people registered for a MI-MAST account, but only 57 people submitted data. On average, each person that submitted data entered 4 instances of mast production. We randomly field-validated 60 mast observations submitted by 15 different participants throughout the study region and found that 100% of the plant species were correctly identified and 97% of the records describing mast amounts were accurate. The majority (61%) of registered users listed hunting as a primary outdoor interest. Interactions with participants revealed that using MI-MAST to evaluate mast production on their own property was a primary attraction for enrollment and participation. We recommend that effective citizen-science programs are marketed to provide personal benefits and tangible outputs to individual users. We found the biggest challenges facing a natural resource agency implementing a citizen-science program to be recruitment and retention of participants across spatial and temporal extents that are ecologically meaningful. (C) 2018 The Wildlife Society.
+AD  - Michigan State Univ, Dept Fisheries & Wildlife, E Lansing, MI 48824 USAAD  - Michigan Dept Nat Resources, Wildlife Div, Lansing, MI 48910 USAAD  - Boise State Univ, Human Environm Syst Ctr, Boise, ID 83706 USAC3  - Michigan State UniversityC3  - Boise State UniversityFU  - Michigan Department of Natural Resources-Wildlife Division; Federal Pittman-Robertson Wildlife Restoration Act [W-155-R]; Safari Club International-Michigan Involvement Committee; College of Agriculture and Natural Resources at Mich igan State University
+FX  - This project was funded by the Michigan Department of Natural Resources-Wildlife Division with funds from the Federal Pittman-Robertson Wildlife Restoration Act grant administered by the U.S. Fish and Wildlife Service (W-155-R: Michigan's Statewide Wildlife Research, Surveys, and Monitoring Program), Safari Club International-Michigan Involvement Committee, and the College of Agriculture and Natural Resources at Mich igan State University. We would like to thank D. Youngdyke, A. Mitterling, M. Donovan, and K. Carter for their efforts in volunteer recruitment and marketing; A. Tiernan for the branding design; and A. Ziegler, G. Carballo, and C. Peterson for their work in developing online tools. We would also like to thank the Associate Editor and 2 anonymous reviewers for their constructive feedback.
+CR  - Aceves-Bueno E, 2015, ECOSYSTEMS, V18, P493, DOI 10.1007/s10021-015-9842-4
+CR  - Bart J, 1995, AUK, V112, P758
+CR  - Bell S, 2008, BIODIVERS CONSERV, V17, P3443, DOI 10.1007/s10531-008-9357-9
+CR  - Bloniarz David V., 1996, Journal of Arboriculture, V22, P75
+CR  - Bonney R, 2009, BIOSCIENCE, V59, P977, DOI 10.1525/bio.2009.59.11.9
+CR  - Brandon A, 2003, NAT AREA J, V23, P254
+CR  - Chase SK, 2016, CONSERV BIOL, V30, P456, DOI 10.1111/cobi.12697
+CR  - Crall AW, 2011, CONSERV LETT, V4, P433, DOI 10.1111/j.1755-263X.2011.00196.x
+CR  - Crowl TA, 2008, FRONT ECOL ENVIRON, V6, P238, DOI 10.1890/070151
+CR  - Darwall WRT, 1996, BIOL CONSERV, V78, P223, DOI 10.1016/0006-3207(95)00147-6
+CR  - DAUBENMIRE R., 1959, NORTHWEST SCI, V33, P43
+CR  - Davis MT, 2006, 2006 IEEE INTERNATIONAL PROFESSIONAL COMMUNICATION CONFERENCE, P144, DOI 10.1109/IPCC.2006.320376
+CR  - Dickinson JL, 2010, ANNU REV ECOL EVOL S, V41, P149, DOI 10.1146/annurev-ecolsys-102209-144636
+CR  - Dillon J, 2016, CONSERV BIOL, V30, P450, DOI 10.1111/cobi.12689
+CR  - Evans C, 2005, CONSERV BIOL, V19, P589, DOI 10.1111/j.1523-1739.2005.00s01.x
+CR  - Finkelstien MA, 2009, PERS INDIV DIFFER, V46, P653, DOI 10.1016/j.paid.2009.01.010
+CR  - Fitzpatrick MC, 2009, ECOL APPL, V19, P1673, DOI 10.1890/09-0265.1
+CR  - Fuccillo KK, 2015, INT J BIOMETEOROL, V59, P917, DOI 10.1007/s00484-014-0892-7
+CR  - Galloway AWE, 2006, WILDLIFE SOC B, V34, P1425, DOI 10.2193/0091-7648(2006)34[1425:TROCSA]2.0.CO;2
+CR  - Greenberg CH, 2007, J WILDLIFE MANAGE, V71, P1654, DOI 10.2193/2006-295
+CR  - Hall DM, 2016, J CLEAN PROD, V133, P725, DOI 10.1016/j.jclepro.2016.05.170
+CR  - Haywood BK, 2016, CONSERV BIOL, V30, P476, DOI 10.1111/cobi.12702
+CR  - Hobbs SJ, 2012, J NAT CONSERV, V20, P364, DOI 10.1016/j.jnc.2012.08.002
+CR  - Howe EJ, 2010, URSUS, V21, P131, DOI 10.2192/09GR013.1
+CR  - Inman RM, 2002, URSUS, V13, P57
+CR  - Jordan RC, 2012, ENVIRON MANAGE, V49, P425, DOI 10.1007/s00267-011-9789-y
+CR  - Kadoya T, 2009, BIOL CONSERV, V142, P1011, DOI 10.1016/j.biocon.2009.01.012
+CR  - Kelly D, 2002, ANNU REV ECOL SYST, V33, P427, DOI 10.1146/annurev.ecolsys.33.020602.095433
+CR  - Kendall WL, 1996, AUK, V113, P823, DOI 10.2307/4088860
+CR  - Killion A. K., 2016, THESIS
+CR  - Kobori H, 2016, ECOL RES, V31, P1, DOI 10.1007/s11284-015-1314-y
+CR  - Koren E., 2016, MSTA J, V612, P57
+CR  - Lashley MA, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096898
+CR  - Lashley MA, 2011, J WILDLIFE MANAGE, V75, P1467, DOI 10.1002/jwmg.176
+CR  - Lawrence A, 2006, ETHICS POLICY ENV, V9, P279, DOI 10.1080/13668790600893319
+CR  - Link WA, 1999, J AGRIC BIOL ENVIR S, V4, P116, DOI 10.2307/1400592
+CR  - Lukyanenko R, 2016, CONSERV BIOL, V30, P447, DOI 10.1111/cobi.12706
+CR  - Lukyanenko R, 2014, INFORM SYST RES, V25, P669, DOI 10.1287/isre.2014.0537
+CR  - Lusk JJ, 2007, FOREST ECOL MANAG, V242, P656, DOI 10.1016/j.foreco.2007.01.084
+CR  - Martin AC, 1951, AM WILDLIFE PLANTS G
+CR  - McCarty JP, 2002, FOREST ECOL MANAG, V164, P277, DOI 10.1016/S0378-1127(01)00612-0
+CR  - McShea WJ, 2000, ECOLOGY, V81, P228, DOI 10.1890/0012-9658(2000)081[0228:TIOACO]2.0.CO;2
+CR  - Michigan United Conservation Clubs [MUCC], 2018, MUCC AB PAG
+CR  - Newman C, 2003, BIOL CONSERV, V113, P189, DOI 10.1016/S0006-3207(02)00374-9
+CR  - Ostfeld RS, 1996, BIOSCIENCE, V46, P323, DOI 10.2307/1312946
+CR  - Parr C., 2012, P ACM 2012 C COMP SU, P217, DOI DOI 10.1145/2145204.2145238
+CR  - Parsons J, 2011, NATURE, V471, P37, DOI 10.1038/471037a
+CR  - Penner LA, 2002, J SOC ISSUES, V58, P447, DOI 10.1111/1540-4560.00270
+CR  - PENROSE D, 1995, J N AM BENTHOL SOC, V14, P203, DOI 10.2307/1467735
+CR  - Richmond E. S., 2015, W VIRGINIA DIVISION, V15-3
+CR  - Robertson MP, 2010, DIVERS DISTRIB, V16, P363, DOI 10.1111/j.1472-4642.2010.00639.x
+CR  - Roupa Z., 2010, HLTH SCI J, V4, P118, DOI [10.1080/10400435.2019.1691085, DOI 10.1080/10400435.2019.1691085]
+CR  - Ryan CW, 2007, URSUS, V18, P46, DOI 10.2192/1537-6176(2007)18[46:IOMPOB]2.0.CO;2
+CR  - Ryan R.L., 2001, J ENV PLANNING MANAG, V44, P629, DOI DOI 10.1080/09640560120079948
+CR  - SAUER JR, 1994, AUK, V111, P50, DOI 10.2307/4088504
+CR  - Shaw CE, 2010, J FISH WILDL MANAG, V1, P64, DOI 10.3996/102009-JFWM-016
+CR  - Shirk JL, 2012, ECOL SOC, V17, DOI 10.5751/ES-04705-170229
+CR  - Silvertown J., 2013, KEY TOP CONSERV BIOL, P127, DOI DOI 10.1002/9781118520178.CH8
+CR  - Silvertown J, 2009, TRENDS ECOL EVOL, V24, P467, DOI 10.1016/j.tree.2009.03.017
+CR  - Sullivan BL, 2009, BIOL CONSERV, V142, P2282, DOI 10.1016/j.biocon.2009.05.006
+CR  - Swanson A, 2016, CONSERV BIOL, V30, P520, DOI 10.1111/cobi.12695
+CR  - Tye CA, 2017, J APPL ECOL, V54, P628, DOI 10.1111/1365-2664.12682
+CR  - UHLIG HG, 1952, J WILDLIFE MANAGE, V16, P338, DOI 10.2307/3796648
+CR  - Vianna GMS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0095565
+CR  - Villard MA, 1999, CONSERV BIOL, V13, P774, DOI 10.1046/j.1523-1739.1999.98059.x
+CR  - Wald DM, 2016, CONSERV BIOL, V30, P562, DOI 10.1111/cobi.12627
+CR  - Webb TJ, 2007, J ANIM ECOL, V76, P123, DOI 10.1111/j.1365-2656.2006.01192.x
+CR  - West S., 2016, CITIZEN SCI THEORY P, V1, P15
+CR  - Whitehead C.J., 1969, OAK MAST YIELDS WILD
+CR  - Worthington JP, 2012, METHODS ECOL EVOL, V3, P303, DOI 10.1111/j.2041-210X.2011.00164.x
+CR  - Wu Y., 2015, VOLUNTAS, V27, P1266
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+DA  - SEP
+PY  - 2018
+VL  - 42
+IS  - 3
+SP  - 518
+EP  - 527
+DO  - 10.1002/wsb.903
+AN  - WOS:000445451900018
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  71
+ER  -
+
+TY  - JOUR
+AU  - Fischer, M
+AU  - Parkins, K
+AU  - Maizels, K
+AU  - Sutherland, DR
+AU  - Allan, BM
+AU  - Coulson, G
+AU  - Di Stefano, J
+TI  - Biotelemetry marches on: A cost-effective GPS device for monitoring terrestrial wildlife
+T2  - PLOS ONE
+LA  - English
+KW  - GLOBAL POSITIONING SYSTEM
+KW  - GPS/GSM-COLLARS
+KW  - MOVEMENT
+KW  - TRACKING
+KW  - ORIENTATION
+AB  - The availability of low-cost wildlife trackers increases the capacity to collect valuable ecological data when research budgets are limited. We converted a commercially available global positioning system (GPS) product into a low-cost tracking device that sends data via the mobile phone network, and assessed its performance under varying conditions. We established a stationary test, deploying devices along a continuum from open urban areas to topographically and structurally complex forested sites. We tested three features of the device: (a) the GPS, by measuring fix success rate, fix precision and horizontal dilution of precision (HDOP), (b) remote download capacity via the mobile phone network and (c) battery drain. Measures of GPS performance demonstrated high fix success rates and precision. HDOP values were influenced by habitat type and topographical position, but generally remained very low, giving an acceptable degree of error for most applications in wildlife research. Devices experienced delayed data transmission at sites with less phone reception, and faster battery drain at sites with denser vegetation. We recorded device malfunctions in 8.2% of the 110 sampling locations, but these were not associated with habitat type or topography. Our device was effective under a wide range of conditions, and the development process we used provides guidance to other researchers aiming to develop cost-effective wildlife trackers. Reducing the financial and labour costs of acquiring high-quality movement data will improve the capacity to increase sample size in animal movement studies.
+AD  - Univ Melbourne, Sch Ecosyst & Forest Sci, Creswick, Vic, AustraliaAD  - Phillip Isl Nat Pk, Conservat Dept, Cowes, Vic, AustraliaAD  - Kean Elect, Mt Kuring Gai, NSW, AustraliaAD  - Deakin Univ, Sch Life & Environm Sci, Burwood, Vic, AustraliaAD  - Univ Melbourne, Dept BioSci, Parkville, Vic, AustraliaC3  - University of MelbourneC3  - Deakin UniversityC3  - University of MelbourneFU  - Phillip Island Nature Parks [60-625]; Holsworth Wildlife Research Endowment [HWRE2016R2041CONT]; Phillip Island Nature Parks
+FX  - This work was supported by Phillip Island Nature Parks (60-625, https://www.penguins.org.au/) and Holsworth Wildlife Research Endowment (HWRE2016R2041CONT, http://www.eqt.com.au/charities-and-not-for-profits/grants/animals-and-environment-grants). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Kean Electronics (Kean Maizels) provided support in the form of software, review, and editing processes. The specific roles of this author are articulated in the 'author contributions' section.
+FX  - We are thankful for the support by the Phillip Island Nature Parks for our research. We acknowledge UniTraQ (UniTraQ International Corp., Taiwan) for assisting in software modifications. In particular, we want to thank Lachlan Sipthorp for his help with building wildlife trackers and collecting data. Further, we gratefully acknowledge the farmers and residents of Phillip Island who allowed access to their properties. This work was conducted under ethics approval from Phillip Island Nature Parks' Animal Ethics Committee permit number 10007655.
+CR  - Allan BM, 2013, WILDLIFE RES, V40, P345, DOI 10.1071/WR13069
+CR  - Belant JL, 2009, NORTHEAST NAT, V16, P577, DOI 10.1656/045.016.n407
+CR  - Benhamou S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0014592
+CR  - Burnham KP., 2002, MODEL SELECTION MULT
+CR  - Clark PE, 2006, RANGELAND ECOL MANAG, V59, P334, DOI 10.2111/05-162R.1
+CR  - D'Eon RG, 2005, J APPL ECOL, V42, P383, DOI 10.1111/j.1365-2664.2005.01010.x
+CR  - D'Eon RG, 2002, WILDLIFE SOC B, V30, P430
+CR  - Dettki Holger, 2004, Alces, V40, P13
+CR  - Esri A. D., 2011, RELEASE 10 DOCUMENTA
+CR  - Fahrig L, 2007, FUNCT ECOL, V21, P1003, DOI 10.1111/j.1365-2435.2007.01326.x
+CR  - Forin-Wiart MA, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0129271
+CR  - Juang P, 2002, ACM SIGPLAN NOTICES
+CR  - Lehrke RM, 2017, WILDLIFE RES, V44, P558, DOI 10.1071/WR17064
+CR  - Matthews A, 2013, AUST MAMMAL, V35, P65, DOI 10.1071/AM12021
+CR  - Merrill SB, 1998, WILDLIFE SOC B, V26, P830
+CR  - MuMIn K., 2013, MULT INF R PACK VERS
+CR  - Nakagawa S, 2013, METHODS ECOL EVOL, V4, P133, DOI 10.1111/j.2041-210x.2012.00261.x
+CR  - Nathan R, 2008, P NATL ACAD SCI USA, V105, P19052, DOI 10.1073/pnas.0800375105
+CR  - Pepin D, 2004, J MAMMAL, V85, P774, DOI 10.1644/BER-022
+CR  - Pinheiro J., 2016, PACKAGE NLME
+CR  - Quaglietta L, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029235
+CR  - Rahimi S, 2007, S AFR J WILDL RES, V37, P143, DOI 10.3957/0379-4369-37.2.143
+CR  - Team R. C, 2014, R LANG ENV STAT COMP
+CR  - Thomas B, 2011, WILDLIFE RES, V38, P653, DOI 10.1071/WR10211
+CR  - Tomkiewicz SM, 2010, PHILOS T R SOC B, V365, P2163, DOI 10.1098/rstb.2010.0090
+CR  - Zucco CA, 2009, J WILDLIFE MANAGE, V73, P452, DOI 10.2193/2007-492
+CR  - Zuur Alain F., 2009, P1
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+DA  - JUL 31
+PY  - 2018
+VL  - 13
+IS  - 7
+DO  - 10.1371/journal.pone.0199617
+AN  - WOS:000440300500007
+N1  - Times Cited in Web of Science Core Collection:  14
+Total Times Cited:  15
+Cited Reference Count:  27
+ER  -
+
+TY  - JOUR
+AU  - Bohnett, E
+AU  - Coulibaly, A
+AU  - Hulse, D
+AU  - Hoctor, T
+AU  - Ahmad, B
+AU  - An, L
+AU  - Lewison, R
+TI  - Corporate responsibility and biodiversity conservation: challenges and opportunities for companies participating in China's Belt and Road Initiative
+T2  - ENVIRONMENTAL CONSERVATION
+LA  - English
+KW  - Belt and Road Initiative
+KW  - biodiversity conservation
+KW  - Chinese overseas investment
+KW  - corporate accountability
+KW  - corporate environmental responsibility
+KW  - sustainable development
+KW  - ENVIRONMENTAL RISKS
+KW  - ECOSYSTEM SERVICES
+KW  - GOVERNANCE
+KW  - PERFORMANCE
+KW  - DISCLOSURE
+KW  - FRAMEWORK
+AB  - China's Belt and Road Initiative (BRI), designed to build critical infrastructure and coordinate economic growth, is the most significant development initiative in modern history. The BRI has a documented vision for sustainability, including environmental impact assessments and responsibility tenets. Despite this, a growing body of literature has found adverse effects of BRI projects on protected land and species. To understand corporate responsibility and regulations for companies participating in the BRI, we gathered information on 260 BRI companies using the Refinitiv Eikon BRI Connect database and the China Global Investment Tracker. The results revealed a significant gap in corporate responsibility reporting for biodiversity impacts, environmental restoration, environmental project financing and the United Nations' Sustainable Development Goals (SDG) 14 'Life below Water' and 15 'Life on Land'. The modest fraction of companies that we found to report biodiversity accountability highlights the need to restructure and incentivize the reporting of environmental and biodiversity risks. The current evidence of limited adherence to responsibility measures highlights a clear opportunity to align BRI development with the BRI's vision for sustainability, and to strengthen links for policy engagement within Chinese regulatory frameworks and international obligations at the United Nations within its SDG framework.
+AD  - San Diego State Univ, Dept Biol, San Diego, CA 92182 USAAD  - San Diego State Univ, Ctr Complex Human Environm Syst, San Diego, CA 92182 USAAD  - Univ Florida, Dept Landscape Architecture, Gainesville, FL 32611 USAAD  - Univ Florida, Florida Inst Built Environm Resilience, Gainesville, FL 32611 USAAD  - Beihang Univ, Dept Stat, Beijing, Peoples R ChinaAD  - Univ Swat, Inst Agr Sci & Forestry, Swat, PakistanAD  - San Diego State Univ, Dept Geog, San Diego, CA 92182 USAC3  - California State University SystemC3  - San Diego State UniversityC3  - California State University SystemC3  - San Diego State UniversityC3  - State University System of FloridaC3  - University of FloridaC3  - State University System of FloridaC3  - University of FloridaC3  - Beihang UniversityC3  - California State University SystemC3  - San Diego State UniversityFU  - National Science Foundation [1826839]
+FX  - This work was partially funded by National Science Foundation Grant CNH-L: People, Place, and Payments in Complex Human-Environment Systems (Award ID 1826839).
+CR  - Addison PFE, 2020, BUS STRATEG ENVIRON, V29, P3303, DOI 10.1002/bse.2573
+CR  - Addison PFE, 2019, CONSERV BIOL, V33, P307, DOI 10.1111/cobi.13190
+CR  - Adler R, 2018, ACCOUNT AUDIT ACCOUN, V31, P787, DOI 10.1108/AAAJ-03-2016-2490
+CR  - Alamgir M, 2017, CURR BIOL, V27, pR1130, DOI 10.1016/j.cub.2017.08.067
+CR  - American Enterprise Institute, 2020, CHINA GLOBAL INVESTM
+CR  - Ascensao F, 2018, NAT SUSTAIN, V1, P206, DOI 10.1038/s41893-018-0059-3
+CR  - Atkins J., 2021, SOCIAL ENV ACCOUNTAB, V41, P8
+CR  - Atkins J, 2018, ACCOUNT AUDIT ACCOUN, V31, P750, DOI 10.1108/AAAJ-06-2017-2957
+CR  - Aung TS, 2020, ENVIRON IMPACT ASSES, V81, DOI 10.1016/j.eiar.2019.106361
+CR  - Boiral O, 2017, ENVIRON SCI POLICY, V77, P77, DOI 10.1016/j.envsci.2017.07.012
+CR  - Bongaarts J, 2019, POPUL DEV REV, V45, P680, DOI 10.1111/padr.12283
+CR  - BRIGC, 2020, GREEN DEV GUID BRI P
+CR  - Cardinale BJ, 2012, NATURE, V486, P59, DOI 10.1038/nature11148
+CR  - Ceballos G, 2002, SCIENCE, V296, P904, DOI 10.1126/science.1069349
+CR  - Chang YY, 2021, J CONTEMP ACCOUNT EC, V17, DOI 10.1016/j.jcae.2020.100239
+CR  - China WTO. Tribune  GoldenBee Management Consulting Co. Ltd, GOLDENBEE CSR IND RE
+CR  - Cho CH, 2007, ACCOUNT ORG SOC, V32, P639, DOI 10.1016/j.aos.2006.09.009
+CR  - de Silva GC, 2019, BUS STRATEG ENVIRON, V28, P1481, DOI 10.1002/bse.2379
+CR  - Dempsey J, 2020, CONSERV LETT, V13, DOI 10.1111/conl.12705
+CR  - Dolinina Y, 2018, PRACT GEOGR 21 CENT
+CR  - Dolinina Y, 2017, INT GEOGR UN THEM C
+CR  - Dong SD, 2021, SUSTAIN ACCOUNT MANA, V12, P353, DOI 10.1108/SAMPJ-10-2018-0273
+CR  - Greenfield K., 2013, U ST THOMAS LJ, V10, P960
+CR  - Hassan A, 2022, BUS STRATEG ENVIRON, V31, P326, DOI 10.1002/bse.2890
+CR  - Horsley Jamie P., 2016, CHINAS FOIA TURNS 8
+CR  - Horsley JP, 2018, CHALLENGING CHINA MA
+CR  - Hughes AC, 2020, TRENDS ECOL EVOL, V35, P583, DOI 10.1016/j.tree.2020.02.005
+CR  - Hughes AC, 2019, CONSERV BIOL, V33, P883, DOI 10.1111/cobi.13317
+CR  - Ibisch PL, 2016, SCIENCE, V354, P1423, DOI 10.1126/science.aaf7166
+CR  - International Finance Corporation, 2011, SUSTAINABILITY REPOR
+CR  - Islam, 2019, EARTH SPACE SCI OPEN, DOI [10.1002/essoar.10501221.1, DOI 10.1002/ESSOAR.10501221.1]
+CR  - Khalid F, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su13074020
+CR  - Laurance W., 2019, ECOL CITIZ, V3, P59
+CR  - Laurance WF, 2020, NAT ECOL EVOL, V4, P1438, DOI 10.1038/s41559-020-1263-x
+CR  - Lechner AM, 2018, NAT ECOL EVOL, V2, P408, DOI 10.1038/s41559-017-0452-8
+CR  - Lees AC, 2020, NAT ECOL EVOL, V4, P1440, DOI 10.1038/s41559-020-01285-z
+CR  - Li G, 2019, REMARKS PLENARY SESS
+CR  - Li Q, 2013, BUS ETHICS, V22, P159, DOI 10.1111/beer.12013
+CR  - Liu JJ, 2020, TRENDS ECOL EVOL, V35, P679, DOI 10.1016/j.tree.2020.03.004
+CR  - Liu JG, 2015, ECOL SOC, V20, DOI 10.5751/ES-07868-200344
+CR  - Lu FF, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9101800
+CR  - Lu MX, 2020, CHINESE J ENV LAW, V4, P182, DOI 10.1163/24686042-12340057
+CR  - Maroun W, 2018, ACCOUNT FORUM, V42, P102, DOI 10.1016/j.accfor.2017.12.001
+CR  - Meng XH, 2013, J BUS ETHICS, V116, P217, DOI 10.1007/s10551-012-1462-8
+CR  - Monday LO, 2019, DEFORESTATION RISKS
+CR  - Nabi G, 2017, BIODIVERS CONSERV, V26, P3003, DOI 10.1007/s10531-017-1402-0
+CR  - Narain D, 2020, NAT SUSTAIN, V3, P650, DOI 10.1038/s41893-020-0528-3
+CR  - Ng L, 2020, BIOL CONSERV, V248, DOI 10.1016/j.biocon.2020.108691
+CR  - Ongaro E, 2019, PUBLIC POLICY ADMIN, V34, P105, DOI 10.1177/0952076718799397
+CR  - Oran, 2021, NONSTATE ACTORS CHIN, P125
+CR  - Papoutsi A, 2020, J CLEAN PROD, V260, DOI 10.1016/j.jclepro.2020.121049
+CR  - Pike L, 2019, GREEN BELT ROAD SPOT
+CR  - Plumptre AJ, 2021, ORYX, V55, P302, DOI 10.1017/S0030605319000218
+CR  - Refinitiv, 2020, ENV SOC GOV ESG SCOR
+CR  - Roberts L, 2021, BUS STRATEG ENVIRON, V30, P705, DOI 10.1002/bse.2649
+CR  - Samkin G, 2014, ACCOUNT AUDIT ACCOUN, V27, P527, DOI 10.1108/AAAJ-10-2013-1496
+CR  - Sivaraman MR, 2019, INT J ENVIRON STUD, V76, P1050
+CR  - Sloan S., 2019, PLOS ONE, V14, P0221947, DOI [10.1371/journal.pone.0221947, DOI 10.1371/JOURNAL.PONE.0221947]
+CR  - Sloan S, 2019, ENVIRON SCI POLICY, V92, P98, DOI 10.1016/j.envsci.2018.11.011
+CR  - Sloan S, 2017, AFR J ECOL, V55, P731, DOI 10.1111/aje.12377
+CR  - Smith T, 2019, ENVIRON POLICY GOV, V29, P3, DOI 10.1002/eet.1839
+CR  - Teo HC, 2019, ENVIRONMENTS, V6, DOI 10.3390/environments6060072
+CR  - Thompson BS, 2019, BUS STRATEG ENVIRON, V28, P497, DOI 10.1002/bse.2260
+CR  - Tracy EF, 2017, EURASIAN GEOGR ECON, V58, P56, DOI 10.1080/15387216.2017.1295876
+CR  - Turschwell MP, 2020, MAR POLICY, V112, DOI 10.1016/j.marpol.2019.103791
+CR  - UN Environment Programme UNEP Finance Initiative Global Canopy, 2020, BUS US BIOD TARG FIN
+CR  - United Nations, 2019, UN REP NAT DANG DECL
+CR  - Van Den Burg S., 2013, J SUSTAIN DEV, V6, P1, DOI DOI 10.5539/JSD.V6N9P1
+CR  - van Zanten JA, 2018, J INT BUS POLICY, V1, P208, DOI 10.1057/s42214-018-0008-x
+CR  - Wang XQ, 2020, TRANSPORT RES A-POL, V139, P189, DOI 10.1016/j.tra.2020.03.001
+CR  - WWF, 2018, BELT ROAD IN WWF REC
+CR  - Xiheng J, 2019, IDS BULL-I DEV STUD, V50
+CR  - Yang N, 2020, ARCH ENVIRON OCCUP H, V75, P445, DOI 10.1080/19338244.2020.1743959
+CR  - Yang Y., 2021, BUS SOC, V60, P1738, DOI [10.1177/0007650319831632, DOI 10.1177/0007650319831632]
+CR  - Yin W, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11246991
+CR  - Zhang J, 2020, NATURAL RESOURCES EN, V35, P1
+CR  - Zhou YL, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su13042262
+PU  - CAMBRIDGE UNIV PRESS
+PI  - NEW YORK
+PA  - 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+DA  - MAR
+PY  - 2022
+VL  - 49
+IS  - 1
+SP  - 42
+EP  - 52
+DO  - 10.1017/S0376892921000436
+AN  - WOS:000742210700001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  77
+ER  -
+
+TY  - JOUR
+AU  - Baumker, E
+AU  - Beck, P
+AU  - Woias, P
+TI  - Thermoelectric Harvesting Using Warm-Blooded Animals in Wildlife Tracking Applications
+T2  - ENERGIES
+LA  - English
+CP  - 19th International Conference on Micro and Nano Technology for Power Generation and Energy Conversion Applications (Power MEMS)
+KW  - tracker
+KW  - wildlifetracking
+KW  - heat flux
+KW  - thermal resistance
+KW  - thermal conductance
+KW  - thermal energy harvesting
+KW  - endothermic animal
+KW  - fur
+KW  - ENERGY
+KW  - COATS
+KW  - HEAT
+AB  - This paper focuses on the design of an optimized thermal interface for a thermoelectric energy harvesting system mounted at endothermic animals. In this application scenario the mammal's fur reduces the heat flux from the animal's body through a thermoelectric generator (TEG) to the ambient air. This requires an adapted design of the thermal interface between TEG and body surface, to increase its thermal conductivity without harming the animal. For this purpose the thermal conductivity through a mammal's fur is determined with a specially designed heatsink. An analytical model is built to predict the resulting thermal resistances and is validated with experimental results for two different fur lengths. We show that an optimized design of the thermal interface reduces its thermal resistance up to 38% compared to a trivial design while lowering its weight for about 23%. It is found that the most important design parameter of such a thermal connector is the ability to slide into the fur.
+AD  - Univ Freiburg, Lab Design Microsyst IMTEK, Georges Koehler Allee 102, D-79110 Freiburg, GermanyC3  - League of European Research Universities - LERUC3  - University of FreiburgFU  - Baden-Wuerttemberg Ministry of Science, Research and Art; University of Freiburg
+FX  - The article processing charge was funded by the Baden-Wuerttemberg Ministry of Science, Research and Art and the University of Freiburg in the funding program Open Access Publishing.
+CR  - [Anonymous], 2018, VERT PLUS DAT
+CR  - [Anonymous], 2019, LIFETAGTM
+CR  - CENA K, 1975, PROC R SOC SER B-BIO, V188, P377, DOI 10.1098/rspb.1975.0026
+CR  - CENA K, 1974, PHYS MED BIOL, V19, P51, DOI 10.1088/0031-9155/19/1/005
+CR  - CENA K, 1975, PROC R SOC SER B-BIO, V188, P395, DOI 10.1098/rspb.1975.0027
+CR  - GATENBY RM, 1983, AGR METEOROL, V29, P1, DOI 10.1016/0002-1571(83)90071-7
+CR  - Kjaergaard M. B., 2009, P 7 INT C MOB SYST A
+CR  - Leonov V, 2007, IEEE SENS J, V7, P650, DOI 10.1109/JSEN.2007.894917
+CR  - Moser A, 2012, J ELECTRON MATER, V41, P1653, DOI 10.1007/s11664-011-1894-4
+CR  - Settaluri KT, 2012, J ELECTRON MATER, V41, P984, DOI 10.1007/s11664-011-1834-3
+CR  - Sodeikat S. J., 2008, NNA SONDERHEFT, P43
+CR  - Spies P., 2015, HDB ENERGY HARVESTIN, V1st
+CR  - Thielen M, 2017, ENERG CONVERS MANAGE, V131, P44, DOI 10.1016/j.enconman.2016.11.005
+CR  - Woias P, 2014, J PHYS CONF SER, V557, DOI 10.1088/1742-6596/557/1/012084
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+DA  - JUN
+PY  - 2020
+VL  - 13
+IS  - 11
+DO  - 10.3390/en13112769
+AN  - WOS:000545401100096
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  14
+ER  -
+
+TY  - JOUR
+AU  - Allan, BM
+AU  - Nimmo, DG
+AU  - Arnould, JPY
+AU  - Martin, JK
+AU  - Ritchie, EG
+TI  - The secret life of possums: data loggers reveal the movement ecology of an arboreal mammal
+T2  - JOURNAL OF MAMMALOGY
+LA  - English
+KW  - accelerometer
+KW  - animal behavior and activity
+KW  - biodiversity conservation
+KW  - environmental change
+KW  - GPS tracking
+KW  - habitat fragmentation
+KW  - home range
+KW  - mammal
+KW  - niche
+KW  - Trichosurus cunninghami
+KW  - MOUNTAIN BRUSHTAIL POSSUM
+KW  - BOBUCK TRICHOSURUS-CUNNINGHAMI
+KW  - GLIDER PETAURUS-NORFOLCENSIS
+KW  - HOME RANGES
+KW  - CERVUS-ELAPHUS
+KW  - MATING SYSTEM
+KW  - HABITAT
+KW  - BEHAVIOR
+KW  - POPULATION
+KW  - LANDSCAPE
+AB  - Understanding animal movement patterns is fundamental to ecology, as it allows inference about species' habitat preferences and their niches. Such knowledge also underpins our ability to predict how animals may respond to environmental change, including habitat loss and modification. Data-logging devices such as GPS trackers and accelerometers are rapidly becoming cheaper and smaller, allowing movement at fine scales to be recorded on a broad range of animal species. We examined movement patterns of an arboreal mammal (bobuck, Trichosurus cunninghami) in a highly fragmented forest ecosystem. The GPS data showed males travelled greater distances than females in linear roadside strip habitats, but not in forest fragments. The accelerometer data showed that both sexes exhibited higher activity levels in roadside habitats compared to forest fragments. By coupling GPS and accelerometer data, we uncovered for this species an ecological pattern similar to other mammals: that male bobucks had higher activity levels than females for a given distance travelled. Our findings also suggest that habitat fragmentation changes the amount and type of activity bobucks perform while moving, and that linear forest strips could be considered energetically challenging habitats, which informs how we should manage the spatial distribution of key supplementary resources for this species such as nest sites and minimum fragment sizes.
+AD  - Ctr Integrat Ecol, Sch Life & Environm Sci, Melbourne Burwood Campus,221 Burwood Highway, Burwood, Vic 3125, AustraliaAD  - Charles Sturt Univ, Inst Land Water & Soc, Albury, NSW 2640, AustraliaAD  - Univ Melbourne, Sch Biosci, Melbourne, Vic 3010, AustraliaC3  - Charles Sturt UniversityC3  - University of MelbourneFU  - Holsworth Wildlife Research Endowment; Centre for Integrative Ecology at Deakin University; Deakin University
+FX  - We thank the land owners, Department of Environment, Land, Water, and Planning (DELWP), and Parks Victoria for access to study sites and logistical support, and A. Hoskins for assistance with statistical script. Funding for this project was provided by the Holsworth Wildlife Research Endowment, the Centre for Integrative Ecology at Deakin University, and Deakin University. Lastly, many thanks to the volunteers who assisted with fieldwork.
+CR  - Allan BM, 2013, WILDLIFE RES, V40, P345, DOI 10.1071/WR13069
+CR  - Anthony RM, 1997, ARCTIC, V50, P147
+CR  - Aresco MJ, 2005, BIOL CONSERV, V123, P37, DOI 10.1016/j.biocon.2004.10.006
+CR  - Asari Yumiko, 2010, Australian Mammalogy, V32, P10, DOI 10.1071/AM08017
+CR  - Baguette M, 2007, LANDSCAPE ECOL, V22, P1117, DOI 10.1007/s10980-007-9108-4
+CR  - Beck CA, 2003, J ANIM ECOL, V72, P280, DOI 10.1046/j.1365-2656.2003.00704.x
+CR  - Beier P, 1998, CONSERV BIOL, V12, P1241, DOI 10.1046/j.1523-1739.1998.98036.x
+CR  - Berry LE, 2016, INT J WILDLAND FIRE, V25, P1291, DOI 10.1071/WF15204
+CR  - Bidder OR, 2012, ZOOLOGY, V115, P58, DOI 10.1016/j.zool.2011.09.003
+CR  - Bonnot N, 2013, EUR J WILDLIFE RES, V59, P185, DOI 10.1007/s10344-012-0665-8
+CR  - Brearley G, 2013, BIOL REV, V88, P427, DOI 10.1111/brv.12009
+CR  - Brearley G, 2012, LANDSCAPE ECOL, V27, P1407, DOI 10.1007/s10980-012-9790-8
+CR  - Brown D.D., 2013, ANIM BIOTELEM, V1, P20, DOI [10.1186/2050-3385-1-20, DOI 10.1186/2050-3385-1-20]
+CR  - Cattarino L, 2016, J ANIM ECOL, V85, P168, DOI 10.1111/1365-2656.12427
+CR  - Christiansen F, 2013, BEHAV ECOL, V24, P1415, DOI 10.1093/beheco/art086
+CR  - Claridge Andrew W., 1998, Victorian Naturalist (Blackburn), V115, P88
+CR  - Cooke R, 2006, WILDLIFE RES, V33, P199, DOI 10.1071/WR05058
+CR  - Dahle B, 2003, J ZOOL, V260, P329, DOI 10.1017/S0952836903003753
+CR  - Doherty TS, 2015, BIOL CONSERV, V190, P60, DOI 10.1016/j.biocon.2015.05.013
+CR  - Downes SJ, 1997, CONSERV BIOL, V11, P718, DOI 10.1046/j.1523-1739.1997.96094.x
+CR  - Duckworth J. W., 1998, J ZOOL, V246, P443, DOI DOI 10.1017/S0952836998281210
+CR  - Elliott KH, 2013, BIOL LETTERS, V9, DOI 10.1098/rsbl.2012.0919
+CR  - Estrada A, 2002, BIOL CONSERV, V106, P199, DOI 10.1016/S0006-3207(01)00246-4
+CR  - Fahrig L, 2001, BIOL CONSERV, V100, P65, DOI 10.1016/S0006-3207(00)00208-1
+CR  - Fahrig L, 2007, FUNCT ECOL, V21, P1003, DOI 10.1111/j.1365-2435.2007.01326.x
+CR  - Frair JL, 2005, LANDSCAPE ECOL, V20, P273, DOI 10.1007/s10980-005-2075-8
+CR  - Fryxell JM, 2008, P NATL ACAD SCI USA, V105, P19114, DOI 10.1073/pnas.0801737105
+CR  - Gautestad AO, 2013, J ANIM ECOL, V82, P572, DOI 10.1111/1365-2656.12027
+CR  - Gleiss AC, 2011, METHODS ECOL EVOL, V2, P23, DOI 10.1111/j.2041-210X.2010.00057.x
+CR  - Haan DM, 2015, AM MIDL NAT, V174, P302
+CR  - Halsey LG, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0010170
+CR  - HOW RA, 1981, AUST J ZOOL, V29, P205, DOI 10.1071/ZO9810205
+CR  - Jedrzejewski W, 2001, CAN J ZOOL, V79, P1993, DOI [10.1139/cjz-79-11-1993, 10.1139/z01-147]
+CR  - Jennions MD, 2003, BEHAV ECOL, V14, P438, DOI 10.1093/beheco/14.3.438
+CR  - Johnson DS, 2008, ECOLOGY, V89, P1208, DOI 10.1890/07-1032.1
+CR  - Johnstone CP, 2012, J COMP PHYSIOL B, V182, P861, DOI 10.1007/s00360-012-0656-9
+CR  - Lenth RV, 2016, J STAT SOFTW, V69, P1, DOI 10.18637/jss.v069.i01
+CR  - Lindenmayer D, 2008, ECOL LETT, V11, P78, DOI 10.1111/j.1461-0248.2007.01114.x
+CR  - LINDENMAYER DB, 1990, AUST WILDLIFE RES, V17, P467, DOI 10.1071/WR9900467
+CR  - Lindenmayer DB, 2002, AUST J ZOOL, V50, P369, DOI 10.1071/ZO01047
+CR  - Maroli M, 2015, ECOHEALTH, V12, P421, DOI 10.1007/s10393-015-1038-z
+CR  - Martin JK, 2007, J ZOOL, V271, P375, DOI 10.1111/j.1469-7998.2006.00207.x
+CR  - Martin JK, 2007, OECOLOGIA, V154, P227, DOI 10.1007/s00442-007-0823-y
+CR  - Martin JK, 2007, AUSTRAL ECOL, V32, P686, DOI 10.1111/j.1442-9993.2007.01763.x
+CR  - Naito Y, 2010, POLAR SCI, V4, P309, DOI 10.1016/j.polar.2010.05.009
+CR  - Nakagawa S, 2007, BIOL REV, V82, P591, DOI 10.1111/j.1469-185X.2007.00027.x
+CR  - NAMS V. O, 2014, ECOLOGY LETT
+CR  - Nathan R, 2008, P NATL ACAD SCI USA, V105, P19052, DOI 10.1073/pnas.0800375105
+CR  - Newbold T, 2015, NATURE, V520, P45, DOI 10.1038/nature14324
+CR  - PAUSAS JG, 1995, FOREST ECOL MANAG, V78, P39, DOI 10.1016/0378-1127(95)03598-5
+CR  - Pereira M, 2010, J APPL ECOL, V47, P611, DOI 10.1111/j.1365-2664.2010.01804.x
+CR  - Qasem L, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0031187
+CR  - R Core Development Team, 2014, LANG ENV STAT COMP
+CR  - RONCE O, 2007, ANNU REV ECOL EVOL S, V38, P251
+CR  - ROSE B, 1981, ECOLOGY, V62, P706, DOI 10.2307/1937739
+CR  - Rothermel BB, 2002, CONSERV BIOL, V16, P1324, DOI 10.1046/j.1523-1739.2002.01085.x
+CR  - Rothwell ES, 2011, ZOO BIOL, V30, P579, DOI 10.1002/zoo.20364
+CR  - Ryan MA, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0080366
+CR  - SAKAMOTO K. Q, 2009, PLOS ONE, V4, P12
+CR  - Schmidt K, 2003, J ZOOL, V261, P273, DOI 10.1017/S0952836903004205
+CR  - Shamoun-Baranes J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0037997
+CR  - Shepard Emily L. C., 2010, Endangered Species Research, V10, P47, DOI 10.3354/esr00084
+CR  - Sikes RS, 2016, J MAMMAL, V97, P663, DOI 10.1093/jmammal/gyw078
+CR  - SMITH AP, 1988, AUST WILDLIFE RES, V15, P347
+CR  - Soltis Joseph, 2012, Endangered Species Research, V18, P255, DOI 10.3354/esr00452
+CR  - Thompson GG, 1999, AUST J ECOL, V24, P117, DOI 10.1046/j.1442-9993.1999.241952.x
+CR  - Tscharntke T, 2005, ECOL LETT, V8, P857, DOI 10.1111/j.1461-0248.2005.00782.x
+CR  - van der Ree R, 2003, J ZOOL, V259, P327, DOI 10.1017/S0952836902003229
+CR  - van der Ree R, 2002, WILDLIFE RES, V29, P329, DOI 10.1071/WR01095
+CR  - Van Meter PE, 2009, HORM BEHAV, V55, P329, DOI 10.1016/j.yhbeh.2008.11.001
+CR  - van Moorter B, 2013, J ANIM ECOL, V82, P770, DOI 10.1111/1365-2656.12045
+CR  - Vasudev D, 2015, BIOL CONSERV, V181, P124, DOI 10.1016/j.biocon.2014.11.021
+CR  - Wang YW, 2015, MOV ECOL, V3, DOI 10.1186/s40462-015-0030-0
+CR  - WILLIAMS D. M, 2012, PLOS ONE, V7
+CR  - Williams TM, 2014, SCIENCE, V346, P81, DOI 10.1126/science.1254885
+CR  - Wilson RP, 2006, J ANIM ECOL, V75, P1081, DOI 10.1111/j.1365-2656.2006.01127.x
+CR  - WINTER JW, 1980, AUST WILDLIFE RES, V7, P359, DOI 10.1071/WR9800359
+CR  - Zschille J, 2012, EUR J WILDLIFE RES, V58, P955, DOI 10.1007/s10344-012-0638-y
+CR  - Zuur Alain F., 2009, P1
+PU  - OXFORD UNIV PRESS INC
+PI  - CARY
+PA  - JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+DA  - FEB 28
+PY  - 2019
+VL  - 100
+IS  - 1
+SP  - 158
+EP  - 168
+DO  - 10.1093/jmammal/gyy154
+AN  - WOS:000463005900016
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  79
+ER  -
+
+TY  - JOUR
+AU  - Ruesch, A
+AU  - McKnight, JC
+AU  - Fahlman, A
+AU  - Shinn-Cunningham, BG
+AU  - Kainerstorfer, JM
+TI  - Near-Infrared Spectroscopy as a Tool for Marine Mammal Research and Care
+T2  - FRONTIERS IN PHYSIOLOGY
+LA  - English
+KW  - near-infrared spectroscopy
+KW  - marine mammals
+KW  - physio-logging
+KW  - wearable
+KW  - vital signs
+KW  - diving physiology
+KW  - DEPLETION
+AB  - Developments in wearable human medical and sports health trackers has offered new solutions to challenges encountered by eco-physiologists attempting to measure physiological attributes in freely moving animals. Near-infrared spectroscopy (NIRS) is one such solution that has potential as a powerful physio-logging tool to assess physiology in freely moving animals. NIRS is a non-invasive optics-based technology, that uses non-ionizing radiation to illuminate biological tissue and measures changes in oxygenated and deoxygenated hemoglobin concentrations inside tissues such as skin, muscle, and the brain. The overall footprint of the device is small enough to be deployed in wearable physio-logging devices. We show that changes in hemoglobin concentration can be recorded from bottlenose dolphins and gray seals with signal quality comparable to that achieved in human recordings. We further discuss functionality, benefits, and limitations of NIRS as a standard tool for animal care and wildlife tracking for the marine mammal research community.
+AD  - Carnegie Mellon Univ, Neurosci Inst, Pittsburgh, PA 15213 USAAD  - Univ St Andrews, Sea Mammal Res Unit, St Andrews, Fife, ScotlandAD  - Fdn Oceanog Comunitat Valenciana, Valencia, SpainAD  - Kolmarden Wildlife Pk, Kolmarden, SwedenAD  - Carnegie Mellon Univ, Dept Biomed Engn, Pittsburgh, PA 15213 USAC3  - Carnegie Mellon UniversityC3  - University of St AndrewsC3  - Carnegie Mellon UniversityFU  - Department for Business, Energy and Industrial Strategy Offshore Energy Strategic Environmental Assessment Programme; US Office of Naval Research (ONR) [N00014-18-1-2062, N00014-20-1-2709, N00014-19-1-2560, N00014-19-1-1223]
+FX  - This project was partially funded by the Department for Business, Energy and Industrial Strategy Offshore Energy Strategic Environmental Assessment Programme. Supplementary funding supporting JM was provided by the US Office of Naval Research (ONR) grant nos. N00014-18-1-2062 and N00014-20-1-2709. Supplementary funding supporting AF and JM was provided by the US Office of Naval Research (ONR) grant no. N00014-19-1-2560. Supplementary funding supporting BS-C, JK, and AR was provided by the US Office of Naval Research (ONR) grant no. N00014-19-1-1223.
+CR  - Aasted CM, 2015, NEUROPHOTONICS, V2, DOI 10.1117/1.NPh.2.2.020801
+CR  - Bigio I. J., 2016, QUANTITATIVE BIOMEDI
+CR  - Blawas AM, 2021, PHILOS T R SOC B, V376, DOI 10.1098/rstb.2020.0223
+CR  - Boezeman RPE, 2016, MICROVASC RES, V104, P11, DOI 10.1016/j.mvr.2015.11.004
+CR  - BUTLER PJ, 1980, J EXP BIOL, V85, P213
+CR  - Dehghani H, 2009, COMMUN NUMER METH EN, V25, P711, DOI 10.1002/cnm.1162
+CR  - Fahlman A, 2021, FRONT PHYSIOL, V12, DOI 10.3389/fphys.2021.669158
+CR  - Fahlman A, 2021, FRONT MAR SCI, V8, DOI 10.3389/fmars.2021.598633
+CR  - Fahlman A, 2020, FRONT PHYSIOL, V11, DOI 10.3389/fphys.2020.604018
+CR  - Fahlman A, 2020, J EXP BIOL, V223, DOI 10.1242/jeb.226365
+CR  - Fahlman A, 2019, J EXP BIOL, V222, DOI 10.1242/jeb.192211
+CR  - Fantini S., 2002, HDB OPTICAL BIOMEDIC, P1, DOI [10.1017/CBO9781107415324.004, DOI 10.1017/CBO9781107415324.004]
+CR  - Fantini S, 2020, FRONT NEUROSCI-SWITZ, V14, DOI 10.3389/fnins.2020.00300
+CR  - Fishburn FA, 2019, NEUROIMAGE, V184, P171, DOI 10.1016/j.neuroimage.2018.09.025
+CR  - Hou X, 2021, NEUROPHOTONICS, V8, DOI 10.1117/1.NPh.8.1.010802
+CR  - Jacques SL, 2013, PHYS MED BIOL, V58, pR37, DOI 10.1088/0031-9155/58/11/R37
+CR  - JOBSIS FF, 1977, SCIENCE, V198, P1264, DOI 10.1126/science.929199
+CR  - Khan B, 2012, BIOMED OPT EXPRESS, V3, P878, DOI 10.1364/BOE.3.000878
+CR  - McDonald BI, 2013, J EXP BIOL, V216, P3332, DOI 10.1242/jeb.085985
+CR  - McKnight JC, 2021, PHILOS T R SOC B, V376, DOI 10.1098/rstb.2020.0224
+CR  - McKnight JC, 2021, PHILOS T R SOC B, V376, DOI 10.1098/rstb.2020.0349
+CR  - McKnight JC, 2019, PLOS BIOL, V17, DOI 10.1371/journal.pbio.3000306
+CR  - Meir JU, 2009, AM J PHYSIOL-REG I, V297, pR927, DOI 10.1152/ajpregu.00247.2009
+CR  - Obrig H, 2014, NEUROIMAGE, V85, P535, DOI 10.1016/j.neuroimage.2013.03.045
+CR  - Pinti P, 2020, ANN NY ACAD SCI, V1464, P5, DOI 10.1111/nyas.13948
+CR  - Pollonini L, 2016, BIOMED OPT EXPRESS, V7, P5104, DOI 10.1364/BOE.7.005104
+CR  - Ponganis PJ, 2007, J EXP BIOL, V210, P4279, DOI 10.1242/jeb.011221
+CR  - Ponganis PJJ, 2021, FRONT PHYSIOL, V12, DOI 10.3389/fphys.2021.721381
+CR  - Prahl S, 1999, OPTICAL ABSORPTION H
+CR  - Quaresima V, 2019, PHOTONICS-BASEL, V6, DOI 10.3390/photonics6030087
+CR  - Robertson FC, 2010, IEEE T BIO-MED ENG, V57, P1377, DOI 10.1109/TBME.2009.2038667
+CR  - Santosa H, 2018, ALGORITHMS, V11, DOI 10.3390/a11050073
+CR  - Sassaroli A, 2004, PHYS MED BIOL, V49, pN255, DOI 10.1088/0031-9155/49/14/N07
+CR  - THOMPSON D, 1993, J EXP BIOL, V174, P139
+CR  - Trondrud LM, 2021, PHILOS T R SOC B, V376, DOI 10.1098/rstb.2020.0215
+CR  - Virtanen J, 2011, J BIOMED OPT, V16, DOI 10.1117/1.3606576
+CR  - Williams Cassondra L, 2021, Compr Physiol, V11, P1979, DOI 10.1002/cphy.c200005
+CR  - Williams CL, 2021, PHILOS T R SOC B, V376, DOI 10.1098/rstb.2020.0211
+CR  - Williams H.J., 2021, Royal Society Philosophical Transactions Biological Sciences, V376, P20200230, DOI 10.1098/rstb.2020.0230
+CR  - Yang MY, 2019, FRONT NEUROL, V10, DOI 10.3389/fneur.2019.00058
+CR  - Yucel MA, 2021, NEUROPHOTONICS, V8, DOI 10.1117/1.NPh.8.1.012101
+PU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+DA  - JAN 17
+PY  - 2022
+VL  - 12
+DO  - 10.3389/fphys.2021.816701
+AN  - WOS:000752758500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Fragoso, JMV
+AU  - Goncalves, F
+AU  - Oliveira, LFB
+AU  - Overman, H
+AU  - Levi, T
+AU  - Silvius, KM
+TI  - Visual encounters on line transect surveys under-detect carnivore species: Implications for assessing distribution and conservation status
+T2  - PLOS ONE
+LA  - English
+KW  - CAMERA-TRAP
+KW  - MAMMAL POPULATIONS
+KW  - DENSITIES
+KW  - WILDLIFE
+KW  - VERTEBRATES
+KW  - PATTERNS
+KW  - COUNTS
+KW  - CENSUS
+KW  - SCALE
+KW  - DUNG
+AB  - We compared the distribution and occurrence of 15 carnivore species with data collected monthly over three years by trained native trackers using both sign surveys and an encounter-based, visual-distance method in a well-preserved region of southern Guyana (Amazon / Guiana Shield). We found that a rigorously applied sign-based method was sufficient to describe the status of most carnivore species populations, including rare species such as jaguar and bush dog. We also found that even when accumulation curves for direct visual encounter data reached an asymptote, customarily an indication that sufficient sampling has occurred to describe populations, animal occurrence and distribution were grossly underestimated relative to the results of sign data. While other researchers have also found that sign are better than encounters or camera traps for large felids, our results are important in documenting the failure of even intensive levels of effort to raise encounter rates sufficiently to enable statistical analysis, and in describing the relationship between encounter and sign data for an entire community of carnivores including felids, canids, procyonids, and mustelids.
+AD  - Stanford Univ, Stanford, CA 94305 USAAD  - Univ Fed Rio de Janeiro, Museu Nacl, Dept Vertebrados, Rio de Janeiro, RJ, BrazilAD  - SUNY Coll Environm Sci & Forestry, Environm & Forest Biol, Syracuse, NY 13210 USAAD  - Oregon State Univ, Dept Fisheries & Wildlife, Corvallis, OR 97331 USAAD  - Virginia Tech, Dept Forest Resources & Environm Conservat, Blacksburg, VA USAAD  - Calif Acad Sci, Inst Biodivers Sci & Sustainabil, San Francisco, CA 94118 USAAD  - Inst Nacl Pesquisas Amazonia INPA MCTIC, Manaus, Amazonas, BrazilAD  - Univ Brasilia, Inst Ciencias Biol, Brasilia, DF, BrazilAD  - Univ Estadual Paulista, Dept Ecol, Inst Biociencias, Lab Biol Conservacao LaBiC, Sao Paulo, BrazilAD  - Univ Cambridge, Dept Zool, Conservat Sci Grp, Cambridge, EnglandC3  - Stanford UniversityC3  - Universidade Federal do Rio de JaneiroC3  - State University of New York (SUNY) SystemC3  - State University of New York (SUNY) College of Environmental Science & ForestryC3  - Oregon State UniversityC3  - Virginia Polytechnic Institute & State UniversityC3  - California Academy of SciencesC3  - Universidade de BrasiliaC3  - Universidade de Sao PauloC3  - Universidade Estadual PaulistaC3  - League of European Research Universities - LERUC3  - University of CambridgeFU  - National Science Foundation [BE/CNH 0508094]; Gordon and Betty Moore Foundation [2054.01]; National Council of Technological and Scientific Development (CNPq-Brazil) [202214/2015-0]; Stanford University [51211805202]; Sao Paulo Research Foundation (FAPESP) [2017/24252-0, 2019/00648-7]
+FX  - The National Science Foundation (Grant BE/CNH 0508094) and the Gordon and Betty Moore Foundation (Grant 2054.01) provided funding for this project. The National Council of Technological and Scientific Development (CNPqBrazil) provided a scholarship to F.G. (process 202214/2015-0) and Stanford University provided additional financial support (process 51211805202). F.G. was also supported by Grant 2017/24252-0 and 2019/00648-7 by Sao Paulo Research Foundation (FAPESP). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+FX  - We thank Guyana's Environmental Protection Agency and Ministry of Amerindian Affairs for project permitting. The Iwokrama International Centre for Rainforest Conservation, the North Rupununi District Development Board, and the Deep South Toshaos's Council, acted as in-country collaborators and provided invaluable logistical support. We are grateful to Mike Williams and Wilson Lorentino for invaluable help in negotiations. We thank the Makushi, Wapishana and Wai-Wai technicians whose hard work and dedication made the research possible, as well as the leaders and members of all of our partner communities for their participation, trust, feedback, and innumerable contributions to the project. We thank the graduate students, post-docs, data transcribers, and volunteers who are not authors on this article but who contributed essential work and ideas to the project. We also thank Rodolfo Dirzo for providing a home during the writing of a first draft of the paper to J.M.V.F. and F.G. The National Science Foundation (Grant BE/CNH 0508094) and the Gordon and Betty Moore Foundation (Grant 2054.01) provided funding for this project. The National Council of Technological and Scientific Development (CNPq-Brazil) provided a scholarship to F.G. (process 202214/2015-0) and Stanford University provided additional financial support (process 51211805202). F.G. was also supported by Grant 2017/24252-0 and 2019/00648-7 by Sao Paulo Research Foundation (FAPESP).
+CR  - Alexander JS, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0134815
+CR  - Apps P, 2018, AFR J ECOL, V56, P710, DOI 10.1111/aje.12573
+CR  - Athreya V, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0057872
+CR  - Ball I.R., 2009, SPATIAL CONSERVATION, P185, DOI DOI 10.1111/EVA.12631
+CR  - Balme G.A., 2007, J WILDLIFE MANAGE, V73, P433
+CR  - Balme GA, 2009, J WILDLIFE MANAGE, V73, P433, DOI 10.2193/2007-368
+CR  - Barea-Azcon JM, 2007, BIODIVERS CONSERV, V16, P1213, DOI 10.1007/s10531-006-9114-x
+CR  - Barnes RFW, 2001, AFR J ECOL, V39, P1, DOI 10.1046/j.1365-2028.2001.00266.x
+CR  - Beirne C, 2019, BIOL CONSERV, V233, P228, DOI 10.1016/j.biocon.2019.02.035
+CR  - Benchimol M, 2017, ENVIRON MANAGE, V60, P476, DOI 10.1007/s00267-017-0888-2
+CR  - Bovolo CI, 2012, INT J CLIMATOL, V32, P1665, DOI 10.1002/joc.2387
+CR  - Brassine E, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0142508
+CR  - Carreras-Duro J, 2016, MAMM BIOL, V81, P205, DOI 10.1016/j.mambio.2015.12.003
+CR  - Carrillo E, 2000, CONSERV BIOL, V14, P1580, DOI 10.1046/j.1523-1739.2000.99103.x
+CR  - Carroll C, 2001, ECOL APPL, V11, P961, DOI 10.2307/3061005
+CR  - Carter NH, 2012, P NATL ACAD SCI USA, V109, P15360, DOI 10.1073/pnas.1210490109
+CR  - Chao A, 2009, ECOLOGY, V90, P1125, DOI 10.1890/07-2147.1
+CR  - Cummings AR, 2015, INT J APPL GEOSPAT R, V6, P118, DOI 10.4018/ijagr.2015010107
+CR  - Di Bitetti MS, 2008, BIOTROPICA, V40, P636, DOI 10.1111/j.1744-7429.2008.00413.x
+CR  - Dobbins MT, 2018, ORYX, V52, P276, DOI 10.1017/S0030605317000308
+CR  - Duckworth JW, 1998, J ZOOL, V246, P466, DOI 10.1111/j.1469-7998.1998.tb00183.x
+CR  - Eisenberg Cristinia, 2014, CARNIVORE WAY COEXIS
+CR  - Eisenberg J. F., 1989, MAMMALS NEOTROPICS, V3
+CR  - Espartosa KD, 2011, BIODIVERS CONSERV, V20, P2815, DOI 10.1007/s10531-011-0110-4
+CR  - Fragoso JMV, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0152659
+CR  - Gaidet-Drapier N, 2006, BIODIVERS CONSERV, V15, P735, DOI 10.1007/s10531-004-1063-7
+CR  - Galetti M, 2013, SCIENCE, V342, P930, DOI 10.1126/science.342.6161.930-a
+CR  - Gompper ME, 2006, WILDLIFE SOC B, V34, P1142, DOI 10.2193/0091-7648(2006)34[1142:ACONTT]2.0.CO;2
+CR  - Gopalaswamy AM, 2012, ANIM CONSERV, V15, P669, DOI 10.1111/j.1469-1795.2012.00565.x
+CR  - Gu WD, 2004, BIOL CONSERV, V116, P195, DOI 10.1016/S0006-3207(03)00190-3
+CR  - Hill K, 1997, CONSERV BIOL, V11, P1339, DOI 10.1046/j.1523-1739.1997.96048.x
+CR  - Jennelle CS, 2002, ANIM CONSERV, V5, P119, DOI 10.1017/S1367943002002160
+CR  - Johnson CJ, 2004, J APPL ECOL, V41, P238, DOI 10.1111/j.0021-8901.2004.00899.x
+CR  - JULIENLAFERRIERE D, 1993, J TROP ECOL, V9, P19, DOI 10.1017/S0266467400006908
+CR  - Karanth KU, 2004, P NATL ACAD SCI USA, V101, P4854, DOI 10.1073/pnas.0306210101
+CR  - Karanth KU, 2003, ANIM CONSERV, V6, P141, DOI 10.1017/S1367943003003184
+CR  - Keeping D, 2014, ANIM CONSERV, V17, P486, DOI 10.1111/acv.12113
+CR  - Keeping D, 2018, BIOL CONSERV, V223, P156, DOI 10.1016/j.biocon.2018.04.027
+CR  - Keeping D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0096598
+CR  - Kramer-Schadt S, 2013, DIVERS DISTRIB, V19, P1366, DOI 10.1111/ddi.12096
+CR  - Kruuk H, 2003, HUNTER HUNTED
+CR  - LAAKE JL, 1979, USERS MANUAL PROGRAM
+CR  - Laing SE, 2003, J APPL ECOL, V40, P1102, DOI 10.1111/j.1365-2664.2003.00861.x
+CR  - Constantino PDL, 2008, BIOL CONSERV, V141, P2718, DOI 10.1016/j.biocon.2008.08.008
+CR  - Luzar JB, 2011, BIOSCIENCE, V61, P771, DOI 10.1525/bio.2011.61.10.7
+CR  - Mackenzie D.I., 2006, OCCUPANCY ESTIMATION
+CR  - McNeilage A, 2001, ORYX, V35, P39, DOI 10.1017/S0030605300031525
+CR  - Mendoza E, 2011, J WILDLIFE MANAGE, V75, P973, DOI 10.1002/jwmg.120
+CR  - Moilanen A, 2002, OIKOS, V96, P516, DOI 10.1034/j.1600-0706.2002.960313.x
+CR  - Munari DP, 2011, MAMM BIOL, V76, P401, DOI 10.1016/j.mambio.2011.02.007
+CR  - Nchanji AC, 2001, AFR J ECOL, V39, P24, DOI 10.1046/j.1365-2028.2001.00265.x
+CR  - Cordeiro JLP, 2016, PEERJ, V4, DOI 10.7717/peerj.2456
+CR  - Pfeifer M, 2017, NATURE, V551, P187, DOI 10.1038/nature24457
+CR  - Preisser EL, 2003, ECOLOGY, V84, P869, DOI 10.1890/0012-9658(2003)084[0869:FEFARC]2.0.CO;2
+CR  - Ramsey DSL, 2018, ECOL EVOL, V8, P732, DOI 10.1002/ece3.3694
+CR  - Ray J., 2013, LARGE CARNIVORES CON
+CR  - Richard-Hansen C, 2015, J TROP ECOL, V31, P423, DOI 10.1017/S0266467415000255
+CR  - Richard-Hansen C, 2014, MAMMALIA, V78, P291, DOI 10.1515/mammalia-2013-0087
+CR  - Ripple WJ, 2006, BIOL CONSERV, V133, P397, DOI 10.1016/j.biocon.2006.07.002
+CR  - Ripple WJ, 2014, SCIENCE, V343, P151, DOI 10.1126/science.1241484
+CR  - Roopsind A, 2018, GLOBAL CHANGE BIOL, V24, P2862, DOI 10.1111/gcb.14155
+CR  - Rowcliffe JM, 2008, J APPL ECOL, V45, P1228, DOI 10.1111/j.1365-2664.2008.01473.x
+CR  - Silveira L, 2003, BIOL CONSERV, V114, P351, DOI 10.1016/S0006-3207(03)00063-6
+CR  - Silvy N.J, 2012, WILDLIFE TECHNIQUES, V7th
+CR  - SMALLWOOD KS, 1995, BIOL CONSERV, V71, P251, DOI 10.1016/0006-3207(94)00034-N
+CR  - Steenweg R, 2018, ECOLOGY, V99, P172, DOI 10.1002/ecy.2054
+CR  - Terborgh JW, 2015, P NATL ACAD SCI USA, V112, P11415, DOI 10.1073/pnas.1501070112
+CR  - Trolle M, 2007, BIODIVERS CONSERV, V16, P1197, DOI 10.1007/s10531-006-9105-y
+CR  - Tucker MA, 2018, SCIENCE, V26, P359
+CR  - Tyre AJ, 2003, ECOL APPL, V13, P1790, DOI 10.1890/02-5078
+CR  - Voss Robert S., 1996, Bulletin of the American Museum of Natural History, V230, P1
+CR  - Wallace R. B., 2003, Mastozoologia Neotropical, V10, P133
+CR  - Wilson DE, 2005, MAMMAL SPECIES WORLD
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+DA  - OCT 30
+PY  - 2019
+VL  - 14
+IS  - 10
+DO  - 10.1371/journal.pone.0223922
+AN  - WOS:000495703800001
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Yu, H
+AU  - Deng, J
+AU  - Leen, T
+AU  - Li, GZ
+AU  - Klaassen, M
+TI  - Continuous on-board behaviour classification using accelerometry: A case study with a new GPS-3G-Bluetooth system in Pacific black ducks
+T2  - METHODS IN ECOLOGY AND EVOLUTION
+LA  - English
+KW  - accelerometer
+KW  - machine learning
+KW  - time-activity budget
+KW  - wildlife tracking
+KW  - XGBoost
+AB  - Over the past two decades, accelerometer (ACC) data have been increasingly used to study animal behaviours and energetics. However, the large amount of raw ACC data can be a burden to device storage and power consumption and in many cases may also require device retrieval for data collection. On-board data processing to reduce data volume and power consumption for data transmission may hold promise to alleviate these problems and allow for next-generation, smart trackers. We developed a tracking system processing raw ACC data on-board of trackers into behaviours using an XGBoost machine learning model. We used this system on six free-ranging Pacific black ducks Anas superciliosa to study eight behaviours every 2 s. The on-board XGBoost model for behaviour classification had 92.04% overall accuracy. One day of continuous behaviour records was compressed on-board to as little as 17.28 kB for routine transmission via the 3G network. We received behaviour data from the six ducks continuously for periods ranging between 56 days and 14 months. On-board processing of raw ACC data and data transmission proofed highly energy efficient and came at a minimal weight cost to the trackers, providing great potential to open up new areas in ecological and behavioural research.
+AD  - Deakin Univ, Ctr Integrat Ecol, Sch Life & Environm Sci, Geelong, Vic, AustraliaAD  - Druid Technol Co Ltd, Chengdu, Peoples R ChinaAD  - Geelong Field & Game, Balliang East, Vic, AustraliaAD  - Wetlands Environm Taskforce, Seymour, Vic, AustraliaAD  - Chinese Acad Sci, Northwest Inst Ecoenvironm & Resources, Lanzhou, Peoples R ChinaC3  - Deakin UniversityC3  - Chinese Academy of SciencesCR  - Chapa JM, 2020, BEHAV PROCESS, V181, DOI 10.1016/j.beproc.2020.104262
+CR  - Cox SL, 2018, METHODS ECOL EVOL, V9, P64, DOI 10.1111/2041-210X.12845
+CR  - Cumming GS, 2011, AFR ZOOL, V46, P425, DOI 10.3377/004.046.0223
+CR  - Gilbert NI, 2016, MOV ECOL, V4, DOI 10.1186/s40462-016-0070-0
+CR  - Haghi M, 2017, HEALTHC INFORM RES, V23, P4, DOI 10.4258/hir.2017.23.1.4
+CR  - Hicks O, 2017, J EXP BIOL, V220, P1875, DOI 10.1242/jeb.152710
+CR  - Korpela J, 2020, COMMUN BIOL, V3, DOI 10.1038/s42003-020-01356-8
+CR  - Mcnally J., 1953, EMU AUSTRAL ORNITHOL, V53, P51, DOI DOI 10.1071/MU953051
+CR  - Nuijten RJM, 2020, J ANIM ECOL, V89, P237, DOI 10.1111/1365-2656.13164
+CR  - Radin JM, 2020, LANCET DIGIT HEALTH, V2, pE85, DOI 10.1016/S2589-7500(19)30222-5
+CR  - Ropert-Coudert Y, 2005, FRONT ECOL ENVIRON, V3, P437, DOI 10.1890/1540-9295(2005)003[0437:TAPIAR]2.0.CO;2
+CR  - Roux S.R.L., 2017, ANIM BIOTELEM, V5, P1
+CR  - Seshadri DR, 2019, NPJ DIGIT MED, V2, DOI 10.1038/s41746-019-0149-2
+CR  - Weegman MD, 2017, CURR ZOOL, V63, P667, DOI 10.1093/cz/zox056
+CR  - Williams HJ, 2020, J ANIM ECOL, V89, P186, DOI 10.1111/1365-2656.13094
+CR  - Williams TM, 2014, SCIENCE, V346, P81, DOI 10.1126/science.1254885
+CR  - Wilson R., 2019, Estimates for energy expenditure in free-living animals using acceleration proxies: A reappraisal., V89, P161
+CR  - Wilson RP, 2006, J ANIM ECOL, V75, P1081, DOI 10.1111/j.1365-2656.2006.01127.x
+CR  - Yu H., 2022, PACIFIC BLACK DUCKS, DOI [10.5061/dryad.rbnzs7hd5, DOI 10.5061/DRYAD.RBNZS7HD5]
+CR  - Yu H, 2021, ECOL EVOL, V11, P12364, DOI 10.1002/ece3.7937
+CR  - Yu H, 2021, MOV ECOL, V9, DOI 10.1186/s40462-021-00245-x
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+DO  - 10.1111/2041-210X.13878
+AN  - WOS:000794063500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  21
+ER  -
+
+TY  - JOUR
+AU  - DeGregorio, BA
+AU  - Ravesi, M
+AU  - Sperry, JH
+AU  - Tetzlaff, SJ
+AU  - Josimovich, J
+AU  - Matthews, M
+AU  - Kingsbury, BA
+TI  - DAILY AND SEASONAL ACTIVITY PATTERNS OF THE MASSASAUGA (SISTRURUS CATENATUS): AN AUTOMATED RADIO-TELEMETRY STUDY
+T2  - HERPETOLOGICAL CONSERVATION AND BIOLOGY
+LA  - English
+KW  - conservation
+KW  - crepuscular
+KW  - diurnal
+KW  - movement patterns
+KW  - nocturnal activity
+KW  - snake behavior
+KW  - spatial ecology
+KW  - EASTERN MASSASAUGA
+KW  - NOCTURNAL ACTIVITY
+KW  - SPATIAL ECOLOGY
+KW  - SNAKES
+KW  - TEMPERATURE
+KW  - RATTLESNAKE
+KW  - SERPENTES
+KW  - MOVEMENTS
+KW  - TELEMETRY
+KW  - HABITAT
+AB  - Many snake species substantially shift their daily activity patterns throughout the year. Understanding if, when, and why these changes occur can improve our understanding of snake ecology and conservation. However, quantifying these fine-scale activity shifts is logistically difficult as manual radio-telemetry provides little information on what animals are doing between intermittent tracking events. Furthermore, newer tracking technology (i.e., satellite or global positioning trackers) often cannot be used for snakes due to size or shape constraints. We used automated radio-telemetry to assess fine-scale daily and seasonal activity patterns of the Massasauga (Sistmriis catenatus) at a site in northern Michigan, USA. During the active seasons (April to October) of 2015 to 2017, we recorded 16,816 detections of nine adult Massasaugas and found that, on average, an individual was actively moving during 15% (range: 3-27%) of detections. Massasaugas were principally diurnal at this site with 73% of the 960 recorded movements occurring during daylight hours. However, Massasaugas were more frequently active around sunset during the warmest months of the summer. These results suggest that Massasaugas at northern latitudes need only make minor shifts in activity from day to evening to avoid hot summer temperatures rather than shifting to nocturnal activity as has been reported for other snake species. Snakes showed a clear seasonal pattern in activity with a peak in summer, presumably corresponding with reproductive behavior. Our studyhighlights the value of using automated radio-telemetry to monitor fine-scale activity patterns of free-ranging inconspicuous wildlife.
+AD  - US Army Corps Engineers, ERDC CERL, 2902 Newmark Dr, Champaign, IL 61821 USAAD  - Camp Grayling Joint Maneuver Training Ctr, Michigan Dept Vet Affairs, Bldg 100A, Grayling, MI 49738 USAAD  - Univ Illinois, Dept Nat Resources & Environm Sci, 1102 South Goodwin Dr, Urbana, IL 61801 USAAD  - Indiana Purdue Univ Ft Wayne, Biol Dept, Ft Wayne, IN 46805 USAC3  - United States Department of DefenseC3  - United States ArmyC3  - U.S. Army Corps of EngineersC3  - U.S. Army Engineer Research & Development Center (ERDC)C3  - Construction Engineering Research Laboratory (CERL)C3  - University of Illinois SystemC3  - University of Illinois Urbana-ChampaignC3  - Purdue University SystemC3  - Indiana University Purdue University Fort WayneFU  - U.S. Army Corps of Engineers ERDC-CERL; Michigan Department of Veterans Affairs; state of Michigan [1585]; federal government [TE25784C-0]
+FX  - We are especially grateful to Mike Ward for his expertise with ARTS programming and maintenance and Pat Wolff for his assistance with data manipulation. Funding for the purchase of ARTS was provided by the U.S. Army Corps of Engineers ERDC-CERL. The Michigan Department of Veterans Affairs provided funding for study of the Massasauga. We thank Emma Browning, Cod Ewers, and Jessica Hinson for their help capturing snakes and maintaining ARTS. We appreciate the help of John Hunt and Larry Jacobs in securing access to Camp Grayling. All research was performed under appropriate permits from the state of Michigan (# 1585) and the federal government (TE25784C-0).
+CR  - Abom R, 2012, BIOTROPICA, V44, P554, DOI 10.1111/j.1744-7429.2012.00853.x
+CR  - Cagnacci F, 2010, PHILOS T R SOC B, V365, P2157, DOI 10.1098/rstb.2010.0107
+CR  - COCHRAN WW, 1965, BIOSCIENCE, V15, P98, DOI 10.2307/1293346
+CR  - DeGregorio BA, 2016, ECOL EVOL, V6, P2034, DOI 10.1002/ece3.1992
+CR  - DeGregorio BA, 2015, ETHOLOGY, V121, P1225, DOI 10.1111/eth.12435
+CR  - Degregorio BA, 2011, HERPETOLOGICA, V67, P71, DOI 10.1655/09-049R1.1
+CR  - Dorcas ME, 1998, HERPETOLOGICA, V54, P88
+CR  - Dorcas Michael E., 2009, P5
+CR  - Dreslik M. J., 2005, THESIS
+CR  - DURNER GM, 1993, J WILDLIFE MANAGE, V57, P812, DOI 10.2307/3809084
+CR  - GIBBONS J W, 1987, P396
+CR  - Harvey D.S., 2010, CAN J ZOOL, V89, P60
+CR  - Jellen BC, 2007, J HERPETOL, V41, P451, DOI 10.1670/0022-1511(2007)41[451:MMABSA]2.0.CO;2
+CR  - Kays R, 2011, COMPUT J, V54, P1931, DOI 10.1093/comjnl/bxr072
+CR  - Lillywhite HB, 2012, J ZOOL, V286, P194, DOI 10.1111/j.1469-7998.2011.00866.x
+CR  - Marques OAV, 1998, AMPHIBIA-REPTILIA, V19, P311, DOI 10.1163/156853898X00214
+CR  - Marshall JC, 2006, HERPETOLOGICA, V62, P141, DOI 10.1655/04-12.1
+CR  - MOORE RG, 1978, COPEIA, P439
+CR  - REINERT HK, 1982, J HERPETOL, V16, P162, DOI 10.2307/1563809
+CR  - REINERT HK, 1982, COPEIA, P702, DOI 10.2307/1444674
+CR  - Riley JL, 2017, WILDLIFE SOC B, V41, P132, DOI 10.1002/wsb.748
+CR  - Rodgers Arthur R., 2001, P79, DOI 10.1016/B978-012497781-5/50005-0
+CR  - SEIGEL RA, 1986, BIOL CONSERV, V35, P333, DOI 10.1016/0006-3207(86)90093-5
+CR  - Shepard DB, 2008, COPEIA, P350, DOI 10.1643/CE-06-276
+CR  - SHINE R, 1979, HERPETOLOGICA, V35, P1
+CR  - SLIP DJ, 1988, AUST WILDLIFE RES, V15, P515
+CR  - Sperry JH, 2013, J HERPETOL, V47, P105, DOI 10.1670/11-325
+CR  - Ward MP, 2013, J HERPETOL, V47, P337, DOI 10.1670/12-018
+CR  - Weatherhead PJ, 2012, J THERM BIOL, V37, P273, DOI 10.1016/j.jtherbio.2011.03.008
+PU  - HERPETOLOGICAL CONSERVATION & BIOLOGY
+PI  - CORVALLIS
+PA  - C/O R BRUCE BURY, USGS FOREST & RANGELAND, CORVALLIS, OR 00000 USA
+DA  - APR
+PY  - 2018
+VL  - 13
+IS  - 1
+SP  - 10
+EP  - 16
+AN  - WOS:000433024200002
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  29
+ER  -
+
+TY  - JOUR
+AU  - Lafortune, G
+AU  - Fuller, G
+AU  - Schmidt-Traub, G
+AU  - Kroll, C
+TI  - How Is Progress towards the Sustainable Development Goals Measured? Comparing Four Approaches for the EU
+T2  - SUSTAINABILITY
+LA  - English
+KW  - Sustainable Development Goals
+KW  - Agenda 2030
+KW  - European Union
+KW  - statistics
+KW  - international spillovers
+KW  - transboundary impacts
+KW  - policy trackers
+KW  - MARINE PROTECTED AREAS
+AB  - Evidence-based policymaking must be rooted in sound data to inform policy priorities, budget allocations, and tracking of progress. This is especially true in the case of the Sustainable Development Goals (SDGs), as they provide the policy framework that all 193 UN member states have pledged to achieve by 2030. Good data and clear metrics are critical for each country to take stock of where it stands, devise pathways for achieving the goals, and track progress. Current assessments of the EU's performance on the SDGs, however, tend to reach different findings and policy conclusions on where the priorities for further action lie, which can be confusing for researchers and policymakers. In order to demystify the drivers of such differences and make them transparent, this paper compares and contrasts the results obtained by four SDG monitoring approaches. We identify three main elements that are responsible for most of the differences: (i) the use of pre-defined targets for calculating baseline assessments and countries' trajectories; (ii) the inclusion of measures that track not only domestic performance, but also the EU's transboundary impacts on the rest of the world; and (iii) the use of non-official statistics to bridge data gaps, especially for biodiversity goals. This paper concludes that there is not one "correct" way of providing an assessment of whether the EU and EU member states are on track to achieve the goals, but we illustrate how the different results are the outcomes of certain methodological choices. More "forward-looking" policy trackers are needed to assess implementation efforts on key SDG transformations.
+AD  - Sustainable Dev Solut Network, F-75009 Paris, FranceAD  - Bertelsmann Stiftung, SDG Index & Dashboards, D-10117 Berlin, GermanyCR  - Agardy T, 2011, MAR POLICY, V35, P226, DOI 10.1016/j.marpol.2010.10.006
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], 2019, SUMM POL GLOB ASS RE
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], 2019, GOLD STANDARD GUIDAN
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], 2018, CLIMATE ACTION TRACK
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - [Anonymous], **NON-TRADITIONAL**
+CR  - ASviS, 2020, EUR UN SUST DEV GOAL
+CR  - Bernlohr M., 2019, INT SPILLOVERS SUSTA
+CR  - Brundtland G.H, 1987, WORLD COMMISSION ENV
+CR  - Cling J.-P., 2019, DIFFERENCE EU COUNTR
+CR  - Copernicus, 2018, COPERNICUS DOES COPE
+CR  - Costanza R, 2016, ECOL ECON, V130, P350, DOI 10.1016/j.ecolecon.2016.07.009
+CR  - Davis A, 2015, LANCET, V386, P221, DOI 10.1016/S0140-6736(15)61081-9
+CR  - European Commission, 2019, REFL PAP SUST EUR 20
+CR  - Eurostat, 2018, UN MON REP PROGR SDG, V2018
+CR  - Eurostat, 2017, UN MON REP PROGR SDG
+CR  - Eurostat, 2019, UN MON REP PROGR SDG, V2019
+CR  - FINGO, 2019, FINGO POLICY RECOMME
+CR  - Gomez-Paredes J., 2018, TRACKING SUSTAINABLE
+CR  - Hickel J, 2020, ECOL ECON, V167, DOI 10.1016/j.ecolecon.2019.05.011
+CR  - Holden E, 2014, GLOBAL ENVIRON CHANG, V26, P130, DOI 10.1016/j.gloenvcha.2014.04.006
+CR  - IAEG-SDGs, 2020, TIER CLASS GLOB SDG
+CR  - IAEG-SDGs, 2016, REP INT EXP GROUP SU
+CR  - IAEG-SDGs, 2020, REP INT EXP GROP SUS
+CR  - Kearney R, 2012, MAR POLICY, V36, P1064, DOI 10.1016/j.marpol.2012.02.024
+CR  - Kroll C., 2015, SUSTAINABLE DEV GOAL
+CR  - Lafortune G., 2019, SDG INDEX DASHBOARDS
+CR  - Lafortune G., 2018, SDG INDEX DASHBOARDS
+CR  - Lafortune G., 2019, EXPOSING EU POLICY G
+CR  - Lenzen M, 2012, NATURE, V486, P109, DOI 10.1038/nature11145
+CR  - Lenzen M, 2013, ECON SYST RES, V25, P20, DOI 10.1080/09535314.2013.769938
+CR  - Malik A, 2019, J IND ECOL, V23, P300, DOI 10.1111/jiec.12771
+CR  - Diaz-Sarachaga JM, 2018, SUSTAIN DEV, V26, P663, DOI 10.1002/sd.1735
+CR  - McArthur JW, 2018, WORLD DEV, V105, P132, DOI 10.1016/j.worlddev.2017.12.030
+CR  - Miola A, 2019, ECOL ECON, V164, DOI 10.1016/j.ecolecon.2019.106373
+CR  - Niklasson L., 2019, IMPROVING SUSTAINABL
+CR  - OECD, 2020, TERR APPR SUST DEV G
+CR  - OECD, 2008, HDB CONSTRUCTING COM
+CR  - OECD, 2019, MEAS DIST SDG TARG 2
+CR  - OECD, 2016, MEAS DIST SDGS TARG
+CR  - OECD, 2017, MEAS DIST SDG TARG A
+CR  - Risse N., 2018, MAIN MESSAGES 35 VNR
+CR  - Sachs J., 2016, SDG INDEX DASHBOARDS
+CR  - Sachs J., 2018, SDG INDEX DASHBOARDS
+CR  - Sachs J., 2017, SDG INDEX DASHBOARDS
+CR  - Sachs J.D., 2020, SUSTAINABLE DEV REPO
+CR  - Sachs J.D., 2015, AGE SUSTAINABLE DEV
+CR  - Sachs J.D., 2019, TRANSFORMATIONS ACHI
+CR  - Sachs JD, 2019, NAT SUSTAIN, V2, P805, DOI 10.1038/s41893-019-0352-9
+CR  - Schmidt-Traub G, 2017, NAT GEOSCI, V10, P547, DOI 10.1038/NGEO2985
+CR  - SDG Watch Europe, 2019, WATCH EUR WHO IS PAY
+CR  - SDG Watch Europe, 2017, WATCH EUR NOT FIT PU
+CR  - SDG Watch Europe, 2019, WATCH EUR 2019 EUR S
+CR  - SDSN & IEEP, 2019, EUR SUST DEV REP
+CR  - SDSN (Sustainable Development Solutions Network), 2015, INDICATORS MONITORIN
+CR  - Simon B., 2017, EVALUATION MISSED OP
+CR  - Stiglitz J., 2009, REPORT COMMISSION ME
+CR  - UNDESA, 2019, SUST DEV GOALS PROGR
+CR  - UNECE, 2014, C EUR STAT REC MEAS
+CR  - UNECE OECD Eurostat, 2008, MEAS SUST DEV REP JO
+CR  - Von der Leyen U, 2019, UNION STRIVES MORE
+CR  - WBA, 2019, CLIM EN BENCHM MEAS
+CR  - WBCSD, 2018, SDG SECT ROADM LEV P
+CR  - Weitz N, 2018, SUSTAIN SCI, V13, P531, DOI 10.1007/s11625-017-0470-0
+CR  - Zeng YW, 2020, NAT SUSTAIN, V3, P795, DOI 10.1038/s41893-020-0555-0
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+DA  - SEP
+PY  - 2020
+VL  - 12
+IS  - 18
+DO  - 10.3390/su12187675
+AN  - WOS:000584266200001
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+Cited Reference Count:  77
+ER  -
+
+TY  - JOUR
+AU  - Kays, R
+AU  - Davidson, SC
+AU  - Berger, M
+AU  - Bohrer, G
+AU  - Fiedler, W
+AU  - Flack, A
+AU  - Hirt, J
+AU  - Hahn, C
+AU  - Gauggel, D
+AU  - Russell, B
+AU  - Kolzsch, A
+AU  - Lohr, A
+AU  - Partecke, J
+AU  - Quetting, M
+AU  - Safi, K
+AU  - Scharf, A
+AU  - Schneider, G
+AU  - Lang, I
+AU  - Schaeuffelhut, F
+AU  - Landwehr, M
+AU  - Storhas, M
+AU  - van Schalkwyk, L
+AU  - Vinciguerra, C
+AU  - Weinzierl, R
+AU  - Wikelski, M
+TI  - The Movebank system for studying global animal movement and demography
+T2  - METHODS IN ECOLOGY AND EVOLUTION
+LA  - English
+KW  - animal behaviour
+KW  - animal tracking
+KW  - bio-logging
+KW  - cyberinfrastructure
+KW  - FAIR data
+KW  - GPS
+KW  - live data
+KW  - movement
+KW  - TRACKING DATA
+KW  - MIGRATION
+KW  - ECOLOGY
+AB  - Quantifying movement and demographic events of free-ranging animals is fundamental to studying their ecology, evolution and conservation. Technological advances have led to an explosion in sensor-based methods for remotely observing these phenomena. This transition to big data creates new challenges for data management, analysis and collaboration. We present the Movebank ecosystem of tools used by thousands of researchers to collect, manage, share, visualize, analyse and archive their animal tracking and other animal-borne sensor data. Users add sensor data through file uploads or live data streams and further organize and complete quality control within the Movebank system. All data are harmonized to a data model and vocabulary. The public can discover, view and download data for which they have been given access to through the website, the Animal Tracker mobile app or by API. Advanced analysis tools are available through the EnvDATA System, the MoveApps platform and a variety of user-developed applications. Data owners can share studies with select users or the public, with options for embargos, licenses and formal archiving in a data repository. Movebank is used by over 3,100 data owners globally, who manage over 6 billion animal location and sensor measurements across more than 6,500 studies, with thousands of active tags sending over 3 million new data records daily. These data underlie >700 published papers and reports. We present a case study demonstrating the use of Movebank to assess life-history events and demography, and engage with citizen scientists to identify mortalities and causes of death for a migratory bird. A growing number of researchers, government agencies and conservation organizations use Movebank to manage research and conservation projects and to meet legislative requirements. The combination of historic and new data with collaboration tools enables broad comparative analyses and data acquisition and mapping efforts. Movebank offers an integrated system for real-time monitoring of animals at a global scale and represents a digital museum of animal movement and behaviour. Resources and coordination across countries and organizations are needed to ensure that these data, including those that cannot be made public, remain accessible to future generations.
+AD  - North Carolina Museum Nat Sci, Raleigh, NC 27601 USAAD  - North Carolina State Univ, Dept Forestry & Environm Resources, Raleigh, NC 27695 USAAD  - Smithsonian Trop Res Inst, Balboa, PanamaAD  - Max Plank Inst Anim Behav, Dept Anim Migrat, Radolfzell am Bodensee, GermanyAD  - Univ Konstanz, Dept Biol, Constance, GermanyAD  - Ohio State Univ, Civil Environm & Geodet Engn, Columbus, OH 43210 USAAD  - Schauffelhut Berger GmbH, Munich, GermanyAD  - Univ Konstanz, Ctr Adv Study Collect Behav, Constance, GermanyAD  - Couchbits GmbH, Constance, GermanyAD  - Univ Konstanz, Commun Informat Media Ctr, Constance, GermanyAD  - Dept Agr Land Reform & Rural Dev, Skukuza, South AfricaAD  - Univ Pretoria, Fac Vet Sci, Dept Vet Trop Dis, Onderstepoort, South AfricaAD  - Fugsee 29, Seehausen, GermanyC3  - University of North CarolinaC3  - North Carolina State UniversityC3  - Smithsonian InstitutionC3  - Smithsonian Tropical Research InstituteC3  - University of KonstanzC3  - Ohio State UniversityC3  - University of KonstanzC3  - University of KonstanzC3  - University of PretoriaFU  - Deutsches Zentrum fur Luft-und Raumfahrt [50JR1601]; Deutsche Forschungsgemeinschaft [EXC 2117-422037984]; Directorate for Biological Sciences [1560727]; Knobloch Family Foundation; Division of Integrative Organismal Systems [1823498]; Division of Biological Infrastructure [1564380]; National Aeronautics and Space Administration [80NSSC21K1182, NNX11AP61G, NNX15AT91A]; Ministerium fur Wissenschaft, Forschung und Kunst Baden-Wurttemberg
+FX  - Deutsches Zentrum fur Luft-und Raumfahrt, Grant/Award Number: 50JR1601; Deutsche Forschungsgemeinschaft, Grant/Award Number: EXC 2117-422037984; Directorate for Biological Sciences, Grant/Award Number: 1560727; Knobloch Family Foundation; Division of Integrative Organismal Systems, Grant/Award Number: 1823498; Division of Biological Infrastructure, Grant/Award Number: 1564380; National Aeronautics and Space Administration, Grant/Award Number: 80NSSC21K1182, NNX11AP61G and NNX15AT91A; Ministerium fur Wissenschaft, Forschung und Kunst Baden-Wurttemberg
+CR  - Abrahms B, 2017, MOV ECOL, V5, DOI 10.1186/s40462-017-0104-2
+CR  - Bird Life International, 2020, BIRD SPEC DISTR MAPS
+CR  - Block B.A., 2016, ANIM TELEM, V4, P6, DOI [10.1186/s40317-015-0092-1, DOI 10.1186/S40317-015-0092-1]
+CR  - Brimley, 1902, ANN REPORTS FILE NCS
+CR  - Brown DR, 2013, APL MATER, V1, DOI 10.1063/1.4827595
+CR  - Campbell H.A., 2016, ANIM TELEM, V4, P96, DOI [10.1186/s40317-015-0096-x, DOI 10.1186/S40317-015-0096-X]
+CR  - Cochran W. W., 1963, Journal of Wildlife Management, V27, P9, DOI 10.2307/3797775
+CR  - Collins C, 2011, ANIM CONSERV, V14, P474, DOI 10.1111/j.1469-1795.2011.00458.x
+CR  - Crossin GT, 2017, ECOL APPL, V27, P1031, DOI 10.1002/eap.1533
+CR  - Davidson SC, 2020, SCIENCE, V370, P712, DOI 10.1126/science.abb7080
+CR  - Dodge S, 2014, PHILOS T R SOC B, V369, DOI 10.1098/rstb.2013.0195
+CR  - Dodge S, 2013, MOV ECOL, V1, DOI 10.1186/2051-3933-1-3
+CR  - Douglas DC, 2012, METHODS ECOL EVOL, V3, P999, DOI 10.1111/j.2041-210X.2012.00245.x
+CR  - Estep, 2020, SATELLITE TRAC UNPUB
+CR  - Farley SS, 2018, BIOSCIENCE, V68, P563, DOI 10.1093/biosci/biy068
+CR  - Fink D.T., 2020, EBIRD STATUS TRENDS
+CR  - FLEISHMAN E, 2016, COLLABRA, V0002
+CR  - Joo R, 2020, J ANIM ECOL, V89, P248, DOI 10.1111/1365-2656.13116
+CR  - Kays R, 2020, DIVERS DISTRIB, V26, P644, DOI 10.1111/ddi.12993
+CR  - Kays R, 2015, SCIENCE, V348, DOI 10.1126/science.aaa2478
+CR  - Kochert MN, 2011, CONDOR, V113, P89, DOI 10.1525/cond.2011.090243
+CR  - Kranstauber B, 2011, ENVIRON MODELL SOFTW, V26, P834, DOI 10.1016/j.envsoft.2010.12.005
+CR  - Lennox RJ, 2020, BIOSCIENCE, V70, P468, DOI 10.1093/biosci/biaa035
+CR  - Lisovski S, 2020, J ANIM ECOL, V89, P221, DOI 10.1111/1365-2656.13036
+CR  - LORD RD, 1962, SCIENCE, V137, P39, DOI 10.1126/science.137.3523.39
+CR  - Mandel JT, 2011, ECOL APPL, V21, P2258, DOI 10.1890/10-1651.1
+CR  - Max Planck Institute of Animal Behavior, 2021, MOV ATTR DICT
+CR  - Nathan R, 2008, P NATL ACAD SCI USA, V105, P19052, DOI 10.1073/pnas.0800375105
+CR  - Picardi S, 2020, MOV ECOL, V8, DOI 10.1186/s40462-020-00201-1
+CR  - Rauch, 2017, URTEIL GEGEN WALDRAP
+CR  - Rutz C, 2020, NAT ECOL EVOL, V4, P1156, DOI 10.1038/s41559-020-1237-z
+CR  - Safi K., 2021, MOVEBANK DATA REPOSI, DOI [10.5441/001/1.7tq16jr8, DOI 10.5441/001/1.7TQ16JR8]
+CR  - Sequeira AMM, 2021, METHODS ECOL EVOL, V12, P996, DOI 10.1111/2041-210X.13593
+CR  - Sheppard J.K., 2015, ANIM BIOTELEM, V3, P43, DOI 10.1186/s40317-015-0087-y
+CR  - Stache, 2009, 9 EUR ROE DEER M ED
+CR  - Treep J, 2016, B AM METEOROL SOC, V97, P951, DOI 10.1175/BAMS-D-14-00234.1
+CR  - Tucker MA, 2018, SCIENCE, V359, P466, DOI 10.1126/science.aam9712
+CR  - Urbano F, 2010, PHILOS T R SOC B, V365, P2177, DOI 10.1098/rstb.2010.0081
+CR  - Wald C, 2012, NATURE NEWS, V490, P1, DOI [10.1038/nature.2012.11621, DOI 10.1038/NATURE.2012.11621]
+CR  - WARD J. STUART, 2013, UNDEFINED DATA SURVE
+CR  - Weiser AW, 2016, 2016 15TH ACM/IEEE INTERNATIONAL CONFERENCE ON INFORMATION PROCESSING IN SENSOR NETWORKS (IPSN)
+CR  - Wikelski M, 2003, NATURE, V423, P704, DOI 10.1038/423704a
+CR  - Wikelski M., 2021, MOVEBANK DATA REPOSI, DOI [10.5441/001/1.h4c0p8bv, DOI 10.5441/001/1.H4C0P8BV]
+CR  - Wilkinson Mark D, 2016, Sci Data, V3, P160018, DOI 10.1038/sdata.2016.18
+CR  - Wilmers CC, 2015, ECOLOGY, V96, P1741, DOI 10.1890/14-1401.1
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+DA  - FEB
+PY  - 2022
+VL  - 13
+IS  - 2
+SP  - 419
+EP  - 431
+DO  - 10.1111/2041-210X.13767
+AN  - WOS:000729314200001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  45
+ER  -
+
+TY  - JOUR
+AU  - Cliff, OM
+AU  - Saunders, DL
+AU  - Fitch, R
+TI  - Robotic ecology: Tracking small dynamic animals with an autonomous aerial vehicle
+T2  - SCIENCE ROBOTICS
+LA  - English
+KW  - ACTIVE LOCALIZATION
+KW  - TAGGED FISH
+KW  - SATELLITE
+KW  - MIGRATION
+KW  - DISTANCE
+KW  - SEARCH
+KW  - SYSTEM
+AB  - Understanding animal movements that underpin ecosystem processes is fundamental to ecology. Recent advances in animal tags have increased the ability to remotely locate larger species; however, this technology is not suitable for up to 70% of the world's bird and mammal species. The most widespread technique for tracking small animals is to manually locate low-power radio transmitters from the ground with handheld equipment. Despite this labor-intensive technique being used for decades, efforts to reduce or automate this process have had limited success. Here, we present an approach for tracking small radio-tagged animals by using an autonomous and lightweight aerial robot. We present experimental results where we used the robot to locate critically endangered swift parrots (Lathamus discolor) within their winter range. The system combines a miniaturized sensor with newly developed estimation algorithms to yield unambiguous bearing- and range-based measurements with associated measures of uncertainty. We incorporated these measurements into Bayesian data fusion and information-based planning algorithms to control the position of the robot as it collected data. We report estimated positions that lie within about 50 meters of the true positions of the birds on average, which are sufficiently accurate for recapture or observation. Further, in comparison with experienced human trackers from locations where the signal was detectable, the robot produced a correct estimate as fast or faster than the human. These results provide validation of robotic systems for wildlife radio telemetry and suggest a way for widespread use as human-assistive or autonomous devices.
+AD  - Univ Sydney, Australian Ctr Field Robot, Sydney, NSW, AustraliaAD  - Australian Natl Univ, Fenner Sch, Canberra, ACT, AustraliaAD  - Univ Technol Sydney, Ctr Autonomous Syst, Sydney, NSW, AustraliaC3  - University of SydneyC3  - Australian National UniversityC3  - University of Technology SydneyFU  - Riverina Local Land Services [RV01221]; Australian Centre for Field Robotics; New South Wales State Government
+FX  - This work was supported, in part, by the Riverina Local Land Services (project number RV01221), the Australian Centre for Field Robotics, and the New South Wales State Government.
+CR  - Arulampalam MS, 2002, IEEE T SIGNAL PROCES, V50, P174, DOI 10.1109/78.978374
+CR  - BAJCSY R, 1988, P IEEE, V76, P996, DOI 10.1109/5.5968
+CR  - Bajcsy R., 2017, AUTON ROBOT, P177
+CR  - Bayram Haluk, 2017, 2017 International Symposium on Multi-Robot and Multi-Agent Systems (MRS), P97, DOI 10.1109/MRS.2017.8250937
+CR  - Bayram H, 2016, IEEE ROBOT AUTOM LET, V1, P369, DOI 10.1109/LRA.2016.2521387
+CR  - Berthold P, 2004, J ORNITHOL, V145, P356, DOI 10.1007/s10336-004-0049-2
+CR  - Best G, 2019, INT J ROBOT RES, V38, P316, DOI 10.1177/0278364918755924
+CR  - Block BA, 2011, NATURE, V475, P86, DOI 10.1038/nature10082
+CR  - Bridge ES, 2011, BIOSCIENCE, V61, P689, DOI 10.1525/bio.2011.61.9.7
+CR  - Brooker G., 2009, INTRO SENSORS RANGIN
+CR  - Caballero F, 2008, IEEE INT CONF ROBOT, P596, DOI 10.1109/ROBOT.2008.4543271
+CR  - Chabot D, 2015, J UNMANNED VEH SYST, V3, P137, DOI 10.1139/juvs-2015-0021
+CR  - Cliff O., 2015, ROBOTICS SCI SYSTEMS, P42, DOI DOI 10.15607/RSS.2015.XI.042
+CR  - Dos Santos Gilberto Antonio Marcon, 2014, 2014 IEEE 11th International Conference on Mobile Ad-Hoc and Sensor Systems (MASS), P761, DOI 10.1109/MASS.2014.48
+CR  - Garg S., 2014, P ROB SCI SYST RSS, DOI [10.15607/RSS.2014.X.038, DOI 10.15607/RSS.2014.X.038]
+CR  - Gonzalez LF, 2016, SENSORS-BASEL, V16, DOI 10.3390/s16010097
+CR  - Grocholsky B., 2002, THESIS
+CR  - Hefferan B., 2016, P ARAA AUSTR C ROB A
+CR  - Hoffmann GM, 2010, IEEE T AUTOMAT CONTR, V55, P32, DOI 10.1109/TAC.2009.2034206
+CR  - Hussey NE, 2015, SCIENCE, V348, DOI 10.1126/science.1255642
+CR  - Jensen A, 2013, INT CONF UNMAN AIRCR, P1144
+CR  - Jensen AM, 2014, J INTELL ROBOT SYST, V74, P287, DOI 10.1007/s10846-013-9949-9
+CR  - Kays R, 2015, SCIENCE, V348, DOI 10.1126/science.aaa2478
+CR  - Kays R, 2011, COMPUT J, V54, P1931, DOI 10.1093/comjnl/bxr072
+CR  - Kessler AE, 2013, J AVIAN BIOL, V44, P311, DOI 10.1111/j.1600-048X.2013.00072.x
+CR  - Klesh AT, 2008, P AMER CONTR CONF, P1991, DOI 10.1109/ACC.2008.4586785
+CR  - Korner Fabian, 2010, 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2010), P107, DOI 10.1109/IROS.2010.5654385
+CR  - Krause A, 2011, ACM T INTEL SYST TEC, V2, DOI 10.1145/1989734.1989736
+CR  - Leonardo M, 2014, PROCEEDINGS OF THE ASME INTERNATIONAL DESIGN ENGINEERING TECHNICAL CONFERENCES AND COMPUTERS AND INFORMATION IN ENGINEERING CONFERENCE, 2013, VOL 4
+CR  - Liu YG, 2013, J INTELL ROBOT SYST, V72, P147, DOI 10.1007/s10846-013-9822-x
+CR  - LORD RD, 1962, SCIENCE, V137, P39, DOI 10.1126/science.137.3523.39
+CR  - Mulero-Pazmany M, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0178448
+CR  - Mulero-Pazmany M, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0083873
+CR  - Nathan R, 2008, P NATL ACAD SCI USA, V105, P19052, DOI 10.1073/pnas.0800375105
+CR  - Nguyen J, 2013, IEEE INT CONF ROBOT, P3825, DOI 10.1109/ICRA.2013.6631115
+CR  - Noori N, 2016, IEEE T ROBOT, V32, P261, DOI 10.1109/TRO.2015.2513751
+CR  - Oppel S, 2008, CONDOR, V110, P296, DOI 10.1525/cond.2008.8502
+CR  - Panigada S, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-03560-9
+CR  - Patten T, 2016, IEEE ROBOT AUTOM LET, V1, P73, DOI 10.1109/LRA.2015.2506901
+CR  - Posch A., 2009, P ARAA AUSTR C ROB A, P107
+CR  - PRIEDE IG, 1984, FISH RES, V2, P201, DOI 10.1016/0165-7836(84)90003-1
+CR  - Quigley M., 2009, P IEEE INT C ROB AUT
+CR  - Ryan A, 2010, ROBOT AUTON SYST, V58, P574, DOI 10.1016/j.robot.2010.01.001
+CR  - Skoglar P, 2006, 2006 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, VOLS 1-12, P2436, DOI 10.1109/IROS.2006.281685
+CR  - Stone LD, 2014, ARTECH HSE RADAR LIB, P1
+CR  - Tang WH, 1975, PROBABILITY CONCEPTS, V1
+CR  - Thrun S., 2005, PROBABILISTIC ROBOTI
+CR  - Tisdale J, 2009, IEEE ROBOT AUTOM MAG, V16, P35, DOI 10.1109/MRA.2009.932529
+CR  - Tokekar P, 2013, IEEE ROBOT AUTOM MAG, V20, P33, DOI 10.1109/MRA.2012.2220506
+CR  - Tokekar P, 2010, J FIELD ROBOT, V27, P779, DOI 10.1002/rob.20364
+CR  - Vander Hook J, 2015, IEEE T ROBOT, V31, P864, DOI 10.1109/TRO.2015.2432612
+CR  - Vander Hook J, 2014, J FIELD ROBOT, V31, P296, DOI 10.1002/rob.21499
+CR  - Yu JJ, 2015, IEEE T ROBOT, V31, P521, DOI 10.1109/TRO.2015.2409453
+CR  - Zhao K, 2016, SCI REP-UK, V6, DOI 10.1038/srep31967
+PU  - AMER ASSOC ADVANCEMENT SCIENCE
+PI  - WASHINGTON
+PA  - 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+DA  - OCT 31
+PY  - 2018
+VL  - 3
+IS  - 23
+DO  - 10.1126/scirobotics.aat8409
+AN  - WOS:000448624000001
+N1  - Times Cited in Web of Science Core Collection:  33
+Total Times Cited:  33
+Cited Reference Count:  54
+ER  -
+
+TY  - JOUR
+AU  - Takahashi, R
+AU  - Todo, Y
+AU  - Funaki, Y
+TI  - How Can We Motivate Consumers to Purchase Certified Forest Coffee? Evidence From a Laboratory Randomized Experiment Using Eye-trackers
+T2  - ECOLOGICAL ECONOMICS
+LA  - English
+KW  - Eye-tracking
+KW  - Visual attention
+KW  - Social experiment
+KW  - Sustainability labels
+KW  - Coffee certification
+KW  - FAIR-TRADE COFFEE
+KW  - WILLINGNESS-TO-PAY
+KW  - SHADE COFFEE
+KW  - CLIMATE-CHANGE
+KW  - BIODIVERSITY CONSERVATION
+KW  - SUSTAINABILITY LABELS
+KW  - CERTIFICATION PROGRAM
+KW  - DISAPPEARING REFUGE
+KW  - FOOD-PRODUCTS
+KW  - YOGURT LABELS
+AB  - By conducting a laboratory experiment, we investigate how consumers' purchasing behavior for certified forest coffee is affected by consumers' interest in environmental issues, the provision of information, and product labels. We contribute to the literature in the following three ways. First, we conduct a randomized controlled trial (RCT) to control biases due to endogeneity. Second, we utilize eye-trackers to examine how different product labels result in different visual attention. The combination of an RCT and eye-tracking techniques is new in the literature on purchasing behavior for environmentally friendly products. Third, our experiment measures participants' purchasing behavior that incurs actual costs rather than examining their willingness-to-pay (WTP) based on hypothetical questions. We find that concerns regarding environmental issues do not promote purchases of certified forest coffee. Information about certification programs does not have any effect on purchasing certified forest coffee unless information is provided to prior purchasers of certified forest coffee. By contrast, illustrations of forests on certified forest coffee labels attract participants' visual attention and further stimulate actual purchases of certified forest coffee, suggesting that a 1-second increase in visual attention increases the likelihood of purchasing certified forest coffee by 22 percentage points.
+AD  - Waseda Univ, Grad Sch Econ, Shinjuku Ku, 1-6-1 Nishi Waseda, Tokyo 1690051, JapanC3  - Waseda UniversityFU  - JSPS KAKENHI [15K21001, 25101003]
+FX  - This work was supported by JSPS KAKENHI Grant-in-Aid for Young Scientists (B) Number 15K21001 and Grant-in-Aid for Scientific Research on Innovative Areas Number 25101003. The authors would like to thank T. Arimura, A. Hino, and N. Uto for their constructive comments and support.
+CR  - Aerts R, 2011, FOREST ECOL MANAG, V261, P1034, DOI 10.1016/j.foreco.2010.12.025
+CR  - Ares G, 2014, FOOD QUAL PREFER, V31, P28, DOI 10.1016/j.foodqual.2013.07.005
+CR  - Ares G, 2013, J SENS STUD, V28, P138, DOI 10.1111/joss.12031
+CR  - Arnot C, 2006, CAN J AGR ECON, V54, P555, DOI 10.1111/j.1744-7976.2006.00066.x
+CR  - Balcombe K, 2015, J APPL ECONOMET, V30, P447, DOI 10.1002/jae.2383
+CR  - Basu AK, 2008, INT J CONSUM STUD, V32, P470, DOI 10.1111/j.1470-6431.2008.00715.x
+CR  - Bellard C, 2012, ECOL LETT, V15, P365, DOI 10.1111/j.1461-0248.2011.01736.x
+CR  - Bezencon V, 2011, PSYCHOL MARKET, V28, P682, DOI 10.1002/mar.20407
+CR  - Bialkova S, 2013, FOOD POLICY, V41, P65, DOI 10.1016/j.foodpol.2013.04.010
+CR  - Centola D, 2010, SCIENCE, V329, P1194, DOI 10.1126/science.1185231
+CR  - Cicia G., 2010, International Journal on Food System Dynamics, V1, P82
+CR  - Cookson R, 2003, HEALTH ECON, V12, P891, DOI 10.1002/hec.847
+CR  - Cranfield J, 2010, AGRIBUSINESS, V26, P307, DOI 10.1002/agr.20217
+CR  - de Ferran F, 2007, FOOD QUAL PREFER, V18, P218, DOI 10.1016/j.foodqual.2005.11.001
+CR  - De Pelsmacker P, 2005, J CONSUM AFF, V39, P363, DOI 10.1111/j.1745-6606.2005.00019.x
+CR  - Dholakia R. R., 1999, INT J RETAIL DISTRIB, V27, P154, DOI [DOI 10.1108/09590559910268499, 10.1108/09590559910268499]
+CR  - Duflo E., 2007, HDB DEV EC, V4, P3895, DOI DOI 10.1016/S1573-4471(07)04061-2
+CR  - Fleischer G., 2002, AGR TECH NOTES
+CR  - Galarraga I., 2011, AGRIC RESOUR ECON RE, V4, P109
+CR  - Giovannucci D, 2005, FOOD POLICY, V30, P284, DOI 10.1016/j.foodpol.2005.05.007
+CR  - Giovannucci D., 2003, STATE SUSTAINABLE CO
+CR  - Giovannucci D., 2001, SUSTAINABLE COFFEE S
+CR  - Golding K, 2005, SUSTAIN DEV, V13, P154, DOI 10.1002/sd.274
+CR  - Grunert K. G., 2011, International Journal on Food System Dynamics, V2, P207
+CR  - Grunert KG, 2014, FOOD POLICY, V44, P177, DOI 10.1016/j.foodpol.2013.12.001
+CR  - Grunert KG, 2010, J PUBLIC HEALTH-HEID, V18, P261, DOI 10.1007/s10389-009-0307-0
+CR  - Hansen J, 2012, P NATL ACAD SCI USA, V109, pE2415, DOI 10.1073/pnas.1205276109
+CR  - Hiscox M.J., 2011, CONSUMER DEMAND FAIR
+CR  - Imbens GW, 2009, J ECON LIT, V47, P5, DOI 10.1257/jel.47.1.5
+CR  - International Markets Bureau, 2013, COFF US SUST TRENDS
+CR  - Jha S, 2014, BIOSCIENCE, V64, P416, DOI 10.1093/biosci/biu038
+CR  - Kimura A, 2012, FOOD QUAL PREFER, V26, P204, DOI 10.1016/j.foodqual.2012.05.002
+CR  - Kirchner M, 2016, ECOL ECON, V123, P35, DOI 10.1016/j.ecolecon.2015.12.009
+CR  - Loureiro ML, 2005, ECOL ECON, V53, P129, DOI 10.1016/j.ecolecon.2004.11.002
+CR  - Market Intelligence C. B. I., 2016, CBI PRODUCT FACTSHEE
+CR  - Mas AH, 2004, ECOL APPL, V14, P642, DOI 10.1890/02-5225
+CR  - Moguel P, 1999, CONSERV BIOL, V13, P11, DOI 10.1046/j.1523-1739.1999.97153.x
+CR  - Nash HA, 2009, J CLEAN PROD, V17, P496, DOI 10.1016/j.jclepro.2008.08.020
+CR  - Pante S., 2004, STANDARDS SUSTAINABI
+CR  - Perfecto I, 2005, ECOL ECON, V54, P435, DOI 10.1016/j.ecolecon.2004.10.009
+CR  - Perfecto I, 1996, BIOSCIENCE, V46, P598, DOI 10.2307/1312989
+CR  - Philpott SM, 2003, CONSERV BIOL, V17, P1844, DOI 10.1111/j.1523-1739.2003.00150.x
+CR  - Potts J., 2014, STATE SUSTAINABILITY
+CR  - Rainforest Alliance, 2016, REQ GUID US RAINF AL
+CR  - Reinecke J, 2012, ORGAN STUD, V33, P791, DOI 10.1177/0170840612443629
+CR  - Robinson I., 2006, CONTEXTS, V5, P24
+CR  - Rogelj J, 2013, NATURE, V493, P79, DOI 10.1038/nature11787
+CR  - Rousseau S, 2015, FOOD QUAL PREFER, V44, P92, DOI 10.1016/j.foodqual.2015.04.002
+CR  - Rousseau S, 2013, FOOD POLICY, V40, P31, DOI 10.1016/j.foodpol.2013.01.006
+CR  - Rueda X., 2014, REG ENVIRON CHANGE
+CR  - Sirieix L, 2013, INT J CONSUM STUD, V37, P143, DOI 10.1111/j.1470-6431.2012.01109.x
+CR  - Stellmacher T., 2011, ZEF WORKING PAPER SE
+CR  - Stock J., 2005, IDENTIFICATION INFER
+CR  - Takahashi R, 2017, CLIM CHANG ECON, V8, DOI 10.1142/S2010007817500038
+CR  - Takahashi R, 2017, WORLD DEV, V92, P158, DOI 10.1016/j.worlddev.2016.12.001
+CR  - Takahashi R, 2014, ENVIRON IMPACT ASSES, V44, P76, DOI 10.1016/j.eiar.2013.10.002
+CR  - Takahashi R, 2013, J ENVIRON MANAGE, V130, P48, DOI 10.1016/j.jenvman.2013.08.025
+CR  - Taylor PL, 2005, J RURAL STUD, V21, P433, DOI 10.1016/j.jrurstud.2005.08.002
+CR  - Toledo VM, 2012, J SUSTAIN AGR, V36, P353, DOI 10.1080/10440046.2011.583719
+CR  - Urbany JE, 1996, J MARKETING, V60, P91, DOI 10.2307/1251933
+CR  - Valkila J, 2010, AGR HUM VALUES, V27, P321, DOI 10.1007/s10460-009-9208-7
+CR  - Van Loo EJ, 2015, ECOL ECON, V118, P215, DOI 10.1016/j.ecolecon.2015.07.011
+CR  - Varela P, 2014, FOOD RES INT, V64, P701, DOI 10.1016/j.foodres.2014.08.015
+CR  - Vidal L, 2013, J SENS STUD, V28, P370, DOI 10.1111/joss.12062
+CR  - Vlaeminck P, 2014, ECOL ECON, V108, P180, DOI 10.1016/j.ecolecon.2014.10.019
+CR  - Wass SV, 2014, INFANCY, V19, P427, DOI 10.1111/infa.12055
+CR  - Wedel M, 2008, REV MARKET ING RES, V4, P123, DOI [10.1108/S1548-6435(2008)0000004009, DOI 10.1108/S1548-6435(2008)0000004009]
+CR  - Yang S. H., 2012, Journal of Agricultural and Applied Economics, V44, P21
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+DA  - AUG
+PY  - 2018
+VL  - 150
+SP  - 107
+EP  - 121
+DO  - 10.1016/j.ecolecon.2018.04.010
+AN  - WOS:000444364000010
+N1  - Times Cited in Web of Science Core Collection:  14
+Total Times Cited:  15
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - John, C
+AU  - Post, E
+TI  - Seasonality, niche management and vertical migration in landscapes of relief
+T2  - ECOGRAPHY
+LA  - English
+KW  - altitudinal
+KW  - bathymetric
+KW  - climate change
+KW  - migration
+KW  - niche breadth
+KW  - seasonality
+KW  - PLANT PHENOLOGY
+KW  - ALTITUDINAL MIGRATION
+KW  - CLIMATE-CHANGE
+KW  - REPRODUCTIVE PHENOLOGY
+KW  - CHANGING CLIMATE
+KW  - LARVAL RELEASE
+KW  - MOVEMENTS
+KW  - EVOLUTION
+KW  - DEPTH
+KW  - MOUNTAINS
+AB  - Landscapes of vertical relief, such as mountains and continental slopes, intensify ecological and climatological variation within narrow spatial windows. Seasonal vertical migrants exploit this variation during their residence in, and movements between, vertically stratified seasonal ranges. Animals in terrestrial, marine and even human-ecological systems undergo similar patterns of seasonal vertical movements. The diversity of arenas in which vertical migration evolved lends insight to the factors promoting seasonal use of landscapes of relief. Because animals must contend with both endogenous circannual rhythms and exogenous environmental seasonality, vertical migrants may be sensitive to inconsistent change across stratified seasonal ranges under climate change. To better understand how ongoing and future climatic and environmental changes are likely to impact vertical migrants, we examine vertical migration in the context of niche tracking and niche switching. Whereas niche trackers minimize variation in realized environmental conditions throughout their seasonal movements, niche switchers undergo seasonal transitions in realized niche space. These strategies mediate the relationship between migrants and their changing environment, and can be used to forecast impacts of future change and effectively conserve systems of vertical migration. Niche tracking may be hindered by inconsistent or unpredictable environmental change along a single niche axis across strata, while niche switching may be sensitive to incongruous spatiotemporal change across factors. We suggest that climate change will affect seasonal patterns in vertical environments discontinuously across time, space and strata, and that vertical migrants are likely to face additional anthropogenic threats that interact with environmental seasonality. Conservation of vertical migrants should prioritize the availability of, and facilitate movement between, stratified seasonal ranges.
+AD  - Univ Calif Davis, Dept Wildlife Fish & Conservat Biol, Davis, CA 95616 USAC3  - University of California SystemC3  - University of California DavisFU  - NASA FINESST program [80NSSC19K1359]
+FX  - Support for this work was provided by the NASA FINESST program in a grant to CJ and EP (80NSSC19K1359).
+CR  - Aguzzi J, 2013, PROG OCEANOGR, V118, P210, DOI 10.1016/j.pocean.2013.07.025
+CR  - Aikens EO, 2020, CURR BIOL, V30, P3444, DOI 10.1016/j.cub.2020.06.032
+CR  - ALBON SD, 1992, OIKOS, V65, P502, DOI 10.2307/3545568
+CR  - Alerstam T, 2003, OIKOS, V103, P247, DOI 10.1034/j.1600-0706.2003.12559.x
+CR  - Amante C., 2008, NOAA TECHNICAL MEMOR, DOI [DOI 10.7289/V5C8276M, 10.7289/V5C8276M]
+CR  - Amorim E, 2016, J SEA RES, V107, P56, DOI 10.1016/j.seares.2015.07.005
+CR  - Aryal S, 2016, CLIM DEV, V8, P435, DOI 10.1080/17565529.2015.1040718
+CR  - Assuncao VA, 2014, AN ACAD BRAS CIENC, V86, P785, DOI 10.1590/0001-3765201420130042
+CR  - Bay RA, 2021, ECOL LETT, V24, P819, DOI 10.1111/ele.13706
+CR  - Beck L., 1991, NOMAD YEAR LIFE QASH
+CR  - Bigford T.E., 1979, SYNOPSIS BIOL DATA R
+CR  - BirdLife International BirdLife International, 2017, ANTHR RUBR IUCN RED
+CR  - Blake S, 2013, J ANIM ECOL, V82, P310, DOI 10.1111/1365-2656.12020
+CR  - Boyle WA, 2008, OECOLOGIA, V155, P397, DOI 10.1007/s00442-007-0897-6
+CR  - Boyle WA, 2017, AUK, V134, P443, DOI 10.1642/AUK-16-228.1
+CR  - Boyle WA, 2010, P ROY SOC B-BIOL SCI, V277, P2511, DOI 10.1098/rspb.2010.0344
+CR  - Brambilla M, 2009, ANIM CONSERV, V12, P71, DOI 10.1111/j.1469-1795.2008.00226.x
+CR  - Brown A, 2017, J EXP BIOL, V220, P3916, DOI 10.1242/jeb.158543
+CR  - Brown A, 2015, GLOBAL CHANGE BIOL, V21, P173, DOI 10.1111/gcb.12680
+CR  - Brown A, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0028562
+CR  - Buchanan GM, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0029080
+CR  - Burgess ND, 2000, OSTRICH, V71, P184, DOI 10.1080/00306525.2000.9639908
+CR  - Burkepile DE, 2020, BIOSCIENCE, V70, P647, DOI 10.1093/biosci/biaa063
+CR  - Capotondi A, 2012, J GEOPHYS RES-OCEANS, V117, DOI 10.1029/2011JC007409
+CR  - Carney RS, 2005, OCEANOGR MAR BIOL, V43, P211
+CR  - Ceresa F, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-62661-0
+CR  - Champion C, 2018, GLOBAL CHANGE BIOL, V24, P5440, DOI 10.1111/gcb.14398
+CR  - Chapman BB, 2011, OIKOS, V120, P1764, DOI 10.1111/j.1600-0706.2011.20131.x
+CR  - Cleland EE, 2007, TRENDS ECOL EVOL, V22, P357, DOI 10.1016/j.tree.2007.04.003
+CR  - COLWELL RK, 1974, ECOLOGY, V55, P1148, DOI 10.2307/1940366
+CR  - Colwell RK, 2009, P NATL ACAD SCI USA, V106, P19651, DOI 10.1073/pnas.0901650106
+CR  - COOPER RA, 1971, SCIENCE, V171, P288, DOI 10.1126/science.171.3968.288
+CR  - Costello MJ, 2010, ENVIRON SCI TECHNOL, V44, P8821, DOI 10.1021/es1012752
+CR  - Croll DA, 2005, MAR ECOL PROG SER, V289, P117, DOI 10.3354/meps289117
+CR  - Crossin GT, 1998, J EXP BIOL, V201, P365
+CR  - DELCROIX T, 1991, J GEOPHYS RES-OCEANS, V96, P22135, DOI 10.1029/91JC02124
+CR  - DENNISON WC, 1987, AQUAT BOT, V27, P15, DOI 10.1016/0304-3770(87)90083-0
+CR  - Deutsch C, 2015, SCIENCE, V348, P1132, DOI 10.1126/science.aaa1605
+CR  - Dingle H, 2007, BIOSCIENCE, V57, P113, DOI 10.1641/B570206
+CR  - Doi W, 2016, J CRUSTACEAN BIOL, V36, P279, DOI 10.1163/1937240X-00002427
+CR  - Elliott M, 2007, FISH FISH, V8, P241, DOI 10.1111/j.1467-2679.2007.00253.x
+CR  - Elsen PR, 2015, NAT CLIM CHANGE, V5, P772, DOI [10.1038/NCLIMATE2656, 10.1038/nclimate2656]
+CR  - FRENCH SP, 1994, BEARS - THEIR BIOLOGY AND MANAGEMENT, P389
+CR  - Frey SJK, 2016, DIVERS DISTRIB, V22, P944, DOI 10.1111/ddi.12456
+CR  - Geroy IJ, 2011, HYDROL PROCESS, V25, P3836, DOI 10.1002/hyp.8281
+CR  - Gomez C, 2016, P ROY SOC B-BIOL SCI, V283, DOI 10.1098/rspb.2015.2458
+CR  - GOMEZ JM, 1993, J ECOL, V81, P605, DOI 10.2307/2261659
+CR  - Grachev Y.A., 1976, NEW SER IUCN
+CR  - Griffiths RP, 2009, FOREST ECOL MANAG, V257, P1, DOI 10.1016/j.foreco.2008.08.010
+CR  - Hahn TP, 2004, AUK, V121, P1269, DOI 10.1642/0004-8038(2004)121[1269:FAMBMW]2.0.CO;2
+CR  - Hall J, 2009, BIOL CONSERV, V142, P2510, DOI 10.1016/j.biocon.2009.05.028
+CR  - Hammond JC, 2018, INT J CLIMATOL, V38, P4369, DOI 10.1002/joc.5674
+CR  - Hanson MA, 2012, SCIENCE, V335, P851, DOI [10.1126/science.1244693, 10.1126/science.1215904]
+CR  - Haroldson MA, 2002, URSUS, V13, P29
+CR  - Hock R., 2019, IPCC SPECIAL REPORT
+CR  - HOPKINS A. D., 1920, Journal of the Washington Academy of Sciences, V10, P34
+CR  - HORVATH EG, 1988, CONDOR, V90, P482, DOI 10.2307/1368577
+CR  - Hsiung AC, 2018, BIOL REV, V93, P2049, DOI 10.1111/brv.12435
+CR  - Hunt JH, 1999, BIOTROPICA, V31, P192
+CR  - Huthnance JM, 1995, PROG OCEANOGR, V35, P353, DOI 10.1016/0079-6611(95)00012-6
+CR  - Inouye DW, 2000, P NATL ACAD SCI USA, V97, P1630, DOI 10.1073/pnas.97.4.1630
+CR  - JACKSON MT, 1966, ECOLOGY, V47, P407, DOI 10.2307/1932980
+CR  - Jakoby O, 2019, GLOBAL CHANGE BIOL, V25, P4048, DOI 10.1111/gcb.14766
+CR  - Janzen D., 2004, BIODIVERSITY CONSERV, P80
+CR  - JANZEN DH, 1967, AM NAT, V101, P233, DOI 10.1086/282487
+CR  - Johnson CR, 2011, J EXP MAR BIOL ECOL, V400, P17, DOI 10.1016/j.jembe.2011.02.032
+CR  - Karagulle D, 2017, T GIS, V21, P1040, DOI 10.1111/tgis.12265
+CR  - Kerby J, 2013, PHILOS T R SOC B, V368, DOI 10.1098/rstb.2012.0484
+CR  - Kim DH, 2015, GEOPHYS RES LETT, V42, P3495, DOI 10.1002/2014GL062777
+CR  - Klemp S, 2003, IBIS, V145, P509, DOI 10.1046/j.1474-919X.2003.00194.x
+CR  - Klinges DH, 2021, AM NAT, V197, P75, DOI 10.1086/711873
+CR  - Korner C, 2007, TRENDS ECOL EVOL, V22, P569, DOI 10.1016/j.tree.2007.09.006
+CR  - Korner C, 2004, J BIOGEOGR, V31, P713, DOI 10.1111/j.1365-2699.2003.01043.x
+CR  - Korner C, 2004, AMBIO, P11
+CR  - Lapp S, 2005, INT J CLIMATOL, V25, P521, DOI 10.1002/joc.1140
+CR  - Largier JL, 2020, ANNU REV MAR SCI, V12, P415, DOI [10.1146/annurev-marine-010419-011020, 10.1146/annurev-marine-010419011020]
+CR  - Laube I, 2015, J BIOGEOGR, V42, P1896, DOI 10.1111/jbi.12565
+CR  - LOISELLE BA, 1991, ECOLOGY, V72, P180, DOI 10.2307/1938913
+CR  - MACDIARMID AB, 1991, MAR ECOL PROG SER, V70, P129, DOI 10.3354/meps070129
+CR  - Martinez-Meyer E, 2004, P ROY SOC B-BIOL SCI, V271, P1151, DOI 10.1098/rspb.2003.2564
+CR  - McInturff A, 2020, BIOSCIENCE, V70, P971, DOI 10.1093/biosci/biaa103
+CR  - Merkle JA, 2016, P ROY SOC B-BIOL SCI, V283, DOI 10.1098/rspb.2016.0456
+CR  - Middleton AD, 2018, OIKOS, V127, P1060, DOI 10.1111/oik.05227
+CR  - MUSSEHL THOMAS W., 1960, JOUR WILDLIFE MANAGEMENT, V24, P60, DOI 10.2307/3797357
+CR  - Mysterud A, 2001, J ANIM ECOL, V70, P915, DOI 10.1046/j.0021-8790.2001.00559.x
+CR  - NELSON R.A. G.E., 1983, BEARS THEIR BIOL MAN, V5, P284
+CR  - Neubaum DJ, 2006, J MAMMAL, V87, P470, DOI 10.1644/05-MAMM-A-252R1.1
+CR  - Nieves-Rivera AM, 2003, CRUSTACEANA, V76, P547, DOI 10.1163/156854003322316191
+CR  - Nio Taketo, 2019, Crustacean Research, V48, P67
+CR  - Paige C, 2008, LANDOWNERS GUIDE WIL
+CR  - Parmesan C, 2006, ANNU REV ECOL EVOL S, V37, P637, DOI 10.1146/annurev.ecolsys.37.091305.110100
+CR  - Paulmier A, 2009, PROG OCEANOGR, V80, P113, DOI 10.1016/j.pocean.2008.08.001
+CR  - Pecl G., 2009, E COAST TASMANIAN RO
+CR  - Pelren EC, 2001, NORTHWEST SCI, V75, P372
+CR  - Philippart CJM, 2014, J PLANKTON RES, V36, P1512, DOI 10.1093/plankt/fbu073
+CR  - Pigeon G, 2016, EVOL APPL, V9, P521, DOI 10.1111/eva.12358
+CR  - Pinsky ML, 2013, SCIENCE, V341, P1239, DOI 10.1126/science.1239352
+CR  - Ponti R, 2020, IBIS, V162, P318, DOI 10.1111/ibi.12784
+CR  - Post E., 2015, CLIM CHANGE RESPONSE, V2, P2, DOI [10.1186/s40665-015-0011-y, DOI 10.1186/S40665-015-0011-Y]
+CR  - Post E., 2019, TIME ECOLOGY THEORET
+CR  - PRUESS KP, 1967, ANN ENTOMOL SOC AM, V60, P910, DOI 10.1093/aesa/60.5.910
+CR  - Rehnus M, 2020, WILDLIFE BIOL, V2020, DOI 10.2981/wlb.00720
+CR  - Rehnus M, 2020, ECOSPHERE, V11, DOI 10.1002/ecs2.3144
+CR  - Rice CG, 2008, J WILDLIFE MANAGE, V72, P1706, DOI 10.2193/2007-584
+CR  - Riotte-Lambert L, 2020, TRENDS ECOL EVOL, V35, P163, DOI 10.1016/j.tree.2019.09.009
+CR  - Robertson CM, 2020, DEEP-SEA RES PT I, V159, DOI 10.1016/j.dsr.2020.103249
+CR  - Sawyer H, 2013, J APPL ECOL, V50, P68, DOI 10.1111/1365-2664.12013
+CR  - SERVHEEN C, 1983, J WILDLIFE MANAGE, V47, P1026, DOI 10.2307/3808161
+CR  - Shadwick EH, 2015, GLOBAL BIOGEOCHEM CY, V29, P223, DOI 10.1002/2014GB004906
+CR  - Shapiro GI, 2003, J GEOPHYS RES-OCEANS, V108, DOI 10.1029/2002JC001610
+CR  - Shaw AK, 2013, AM NAT, V181, P114, DOI 10.1086/668600
+CR  - Smith KL, 2013, P NATL ACAD SCI USA, V110, P19838, DOI 10.1073/pnas.1315447110
+CR  - Somveille M, 2019, ECOGRAPHY, V42, P225, DOI 10.1111/ecog.03531
+CR  - Spence AR, 2020, ECOGRAPHY, V43, P1571, DOI 10.1111/ecog.05170
+CR  - Spitz DB, 2020, J ANIM ECOL, V89, P1032, DOI 10.1111/1365-2656.13167
+CR  - Sprintall J, 2001, ENCYCL OCEAN SCI, V6, P3120, DOI DOI 10.1006/RWOS.2001.0149
+CR  - Thompson PA, 2015, ESTUAR COAST SHELF S, V162, P119, DOI 10.1016/j.ecss.2015.04.004
+CR  - Vitasse Y, 2018, P NATL ACAD SCI USA, V115, P1004, DOI 10.1073/pnas.1717342115
+CR  - White D, 1998, CAN J ZOOL, V76, P221, DOI 10.1139/cjz-76-2-221
+CR  - WHITTAKE.RH, 1968, J ECOL, V56, P523, DOI 10.2307/2258249
+CR  - Whittaker RH, 1970, COMMUNITIES ECOSYSTE
+CR  - Winger BM, 2019, BIOL REV, V94, P737, DOI 10.1111/brv.12476
+CR  - Zwickel F.C., 2003, BLUE GROUSE THEIR BI
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+DO  - 10.1111/ecog.05774
+AN  - WOS:000655927000001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  123
+ER  -
+

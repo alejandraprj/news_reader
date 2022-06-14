@@ -1,0 +1,286 @@
+﻿TY  - JOUR
+AU  - Khan, A
+AU  - Ande, D
+AU  - Raza, H
+TI  - Self-Responding Train Detection and Wildlife Alert System
+T2  - HELIX
+LA  - English
+KW  - Vibration Sensor
+KW  - Train Monitoring
+KW  - Wildlife
+AB  - The paper presents the methodology to overcome the problem of wildlife animal's deaths due to railway accidents. Self responding train detection system has been implemented by using high sensitive vibration sensor mounted on track. Vibration sensor captures the data while train crossing the sensor mounted area of track. Sufficient numbers of sensor are deployed before the wildlife reserve area. Arrival of train is sensed before it enters the reserve area by the sensor and information is transmitted towards the receiver placed at the monitoring site. Eventually actuators are activated to generate exasperation sound wave to scatter wildlife animals from the railway track.
+AD  - Govt Coll Engn, Dept Elect & Telecomn, Chandrapur, IndiaFU  - Chanda Fort, Chandrapur railway authority
+FX  - Support to this research paper was provided by Chanda Fort, Chandrapur railway authority to deploy the transceiver module on the rail track.
+CR  - Backsa J. A., WARNING SYSTEMS TRIG
+CR  - Becker Earl F., 1991, Alces, V27, P161
+CR  - Bolle1  Vinod, 2016, INT J ADV RES IDEAS, V2
+CR  - Datta1  Nirit, ERADICATION ELEPHANT
+CR  - Joshi V. V., 2014, INT J ENG RES TECHNO, V3
+CR  - Lai CC, 2012, J SENSORS, V2012, DOI 10.1155/2012/365165
+CR  - Lorestani, 2012, INT J COMPUT SCI ENG, V2, P1280
+CR  - Punetha D., 2012, INT J COMPUTER APPL, V49, P17
+CR  - Sonone1 Jayprakash D., 2014, INT J INNOVATIVE RES, V3
+PU  - BIOAXIS DNA RESEARCH CENTRE PRIVATE LIMITED
+PI  - HYDERBAD
+PA  - 13-51, SRI LAKSHMI NAGAR COLONY, BESIDES BLG BAZAR, NEAR KAMINENI HOSPITALS, GSI POST BANDAGUDA, HYDERBAD, 500068, INDIA
+PY  - 2018
+VL  - 8
+IS  - 6
+SP  - 4494
+EP  - 4497
+DO  - 10.29042/2018-4494-4497
+AN  - WOS:000460016500078
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - JOUR
+AU  - Backs, JAJ
+AU  - Nychka, JA
+AU  - St Clair, CC
+TI  - Warning systems triggered by trains could reduce collisions with wildlife
+T2  - ECOLOGICAL ENGINEERING
+LA  - English
+KW  - Railway
+KW  - Strikes
+KW  - Animals
+KW  - Associative learning
+KW  - Train detection
+KW  - Sensors
+KW  - Vibration
+KW  - Infrared
+KW  - Magnetism
+KW  - Machine learning
+KW  - WHEEL-RAIL NOISE
+KW  - UNITED-STATES
+KW  - DEER
+KW  - ROADS
+KW  - INFRASTRUCTURE
+KW  - REFLECTORS
+KW  - HABITAT
+KW  - LIGHT
+KW  - BEARS
+KW  - RISK
+AB  - Ecosystems are degraded by transportation infrastructure partly because wildlife mortality from collisions with vehicles can threaten the viability of sensitive populations and alter ecosystem dynamics. This problem has attracted extensive study and mitigation on roads, but little similar work has been done for railways despite the occurrence of wildlife-train collisions worldwide. We propose a method for reducing wildlife losses on railways by providing animals with warning signals that are triggered by approaching trains, particularly in areas of high strike risk. Analogous to the warning signals provided for people at road-rail crossings, our system emits flashes of light and bell sounds approximately 20 s before train arrival at the location where the system is deployed. Learning theory predicts that animals will associate these warning signals with train arrival if the warning signal (conditioned stimulus) consistently precedes train arrival (unconditioned stimulus). We tested two designs for a warning system: one that detects passing trains and wirelessly relays this information to warning devices further along the track, and one that integrates detection of trains at a distance with warning signals in a single device. The most reliable design detected passing trains with magnetic or vibration sensors and relayed the information to warning devices. We have developed an affordable and publicly available prototype of this design that can be built for a material cost of US$225. With refinement, this technology could become an inexpensive means of protecting wildlife and people around the world from fatal train strikes wherever strike risk is known or predicted to be unusually high. (C) 2017 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license
+AD  - Univ Alberta, Dept Chem & Mat Engn, Edmonton, AB T6G 1H9, CanadaAD  - Univ Alberta, Dept Biol Sci, Edmonton, AB T6G 2E9, CanadaC3  - University of AlbertaC3  - University of AlbertaFU  - Joint Initiative for Grizzly Bear Conservation of Parks Canada; Canadian Pacific; Natural Sciences and Engineering Research Council of Canada (NSERC) [CRDPJ/441928-2012]; NSERC (Discovery Grants program); NSERC [CGSD2-475709-2015]; Alberta Innovates - Technology Futures; University of Alberta
+FX  - We are grateful for funding and extensive logistical support from the Joint Initiative for Grizzly Bear Conservation of Parks Canada and Canadian Pacific with matching funds from a Collaborative Research and Development Grant provided by the Natural Sciences and Engineering Research Council of Canada (NSERC; CRDPJ/441928-2012). Additional support was provided by NSERC (Discovery Grants program and CGSD2-475709-2015), Alberta Innovates - Technology Futures, and the University of Alberta. We appreciated assistance from individuals at Parks Canada (Brianna Burley, Anne Forshner, Blair Fyten, Dave Garrow, Don Gorrie, Simon Ham, Bill Hunt, Tom Hurd, Rick Kubian, Kris McCleary, Steve Michel, Saundi Norris, Dan Rafla, Jesse Whittington), Canadian Pacific (Chris Bunce, Perry Busse, Ken Roberge, Lorne Hoffman, Joe Van Humbeck, Roy Mcllveen, Joshua Pemberton, Tim Stroh, Dave Waldhauser, Doug Younger), and NSERC (Theresa Anderson). For assistance with field work, data analysis, equipment design, valuable discussions, and manuscript preparation we thank Stan Backs, Sarah Fassina, Alyssa Friesen, Aditya Gangadharan, Patrick Gilhooly, Liam Harrap, Richard Hull, Brittany Jackson, Julia Jackson, Kathy Janzen, Megan Kinley, Isabella Lin, Cole Lord-May, Breda Moriarty, Sonya Pollock, Laurens Put, and Hong Zhang. We also thank three anonymous reviewers for suggestions that improved this manuscript.
+CR  - Ahnelt PK, 2000, PROG RETIN EYE RES, V19, P711, DOI 10.1016/S1350-9462(00)00012-4
+CR  - Babinska-Werka J, 2015, TRANSPORT RES D-TR E, V38, P6, DOI 10.1016/j.trd.2015.04.021
+CR  - Baker SE, 2007, APPL ANIM BEHAV SCI, V102, P410, DOI 10.1016/j.applanim.2006.05.039
+CR  - Becker Earl F., 1991, Alces, V27, P161
+CR  - Benitez-Lopez A, 2010, BIOL CONSERV, V143, P1307, DOI 10.1016/j.biocon.2010.02.009
+CR  - Bertch B., 2009, GRIZZLY BEAR MONITOR
+CR  - Blackwell BF, 2009, J WILDLIFE MANAGE, V73, P128, DOI 10.2193/2008-014
+CR  - BOYLE KJ, 1987, WATER RESOUR RES, V23, P943, DOI 10.1029/WR023i005p00943
+CR  - Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+CR  - Clevenger AP, 2001, WILDLIFE SOC B, V29, P646
+CR  - Coates A., 2011, J MACHINE LEARNING R, V15, P215
+CR  - Cohen BS, 2014, WILDLIFE SOC B, V38, P480, DOI 10.1002/wsb.438
+CR  - Conover MR, 1997, WILDLIFE SOC B, V25, P298
+CR  - COST 341 Management Committee, 2000, HAB FRAGM TRANSP INF
+CR  - D'Angelo GJ, 2008, CAN J ZOOL, V86, P735, DOI 10.1139/Z08-050
+CR  - D'Angelo GJ, 2006, WILDLIFE SOC B, V34, P1175, DOI 10.2193/0091-7648(2006)34[1175:EOWWRF]2.0.CO;2
+CR  - Domjan M., 2005, ESSENTIALS CONDITION
+CR  - Dorsey B. P, 2011, THESIS
+CR  - Dorsey B, 2015, HANDBOOK OF ROAD ECOLOGY, P219
+CR  - Dulac J., 2013, TECH REP
+CR  - Fahrig L, 2009, ECOL SOC, V14
+CR  - Fay R.R., 1988, HEARING VERTEBRATES
+CR  - Gilsdorf Jason M., 2003, Integrated Pest Management Reviews, V7, P29, DOI 10.1023/A:1025760032566
+CR  - Glista DJ, 2009, LANDSCAPE URBAN PLAN, V91, P1, DOI 10.1016/j.landurbplan.2008.11.001
+CR  - Gundersen H, 1998, WILDLIFE BIOL, V4, P103, DOI 10.2981/wlb.1998.007
+CR  - Gunson KE, 2011, J ENVIRON MANAGE, V92, P1074, DOI 10.1016/j.jenvman.2010.11.027
+CR  - Hedeen Stanley E., 1999, Herpetological Review, V30, P57
+CR  - Heffner H, 2010, J ACOUST SOC AM, V127, pEL111, DOI 10.1121/1.3284546
+CR  - Huber D, 1998, URSUS-SERIES, V10, P167
+CR  - Huijser M. P., 2006, 3076 FED HIGHW ADM
+CR  - Huijser MP, 2009, ECOL SOC, V14
+CR  - Jacobs GH, 2010, OPHTHAL PHYSL OPT, V30, P422, DOI 10.1111/j.1475-1313.2010.00719.x
+CR  - Kaczmarski M, 2016, ACTA HERPETOL, V11, P227, DOI 10.13128/Acta_Herpetol-17922
+CR  - Kloppers EL, 2005, ECOL SOC, V10
+CR  - KOLB HH, 1984, J APPL ECOL, V21, P161, DOI 10.2307/2403044
+CR  - Kuhn M., 2019, R PACKAGE VERSION 60, P2021
+CR  - Langbein J., 2011, 20113 DEER IN
+CR  - Lehnert ME, 1997, WILDLIFE SOC B, V25, P809
+CR  - Liaw A, 2002, FOREST@, V2, P18, DOI DOI 10.1177/154405910408300516
+CR  - Lichenstein R, 2012, INJURY PREV, V18, P287, DOI 10.1136/injuryprev-2011-040161
+CR  - Lima SL, 2015, BIOL REV, V90, P60, DOI 10.1111/brv.12093
+CR  - Loveday PW, 2012, J NONDESTRUCT EVAL, V31, P303, DOI 10.1007/s10921-012-0145-9
+CR  - Mandal M., 2007, CONTINUOUS DISCRETE
+CR  - Mertens J.J., 1955, Optica Acta, V2, P134
+CR  - Morelli F, 2014, TRANSPORT RES D-TR E, V30, P21, DOI 10.1016/j.trd.2014.05.006
+CR  - Moron D, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0101297
+CR  - Morse G., 2014, ANAL RISK ANIMALS LI
+CR  - Mulka E., 2009, THINKING HIGHWAYS, V3, P68
+CR  - Nielsen SE, 2006, BIOL CONSERV, V130, P217, DOI 10.1016/j.biocon.2005.12.016
+CR  - Niessner C, 2016, SCI REP-UK, V6, DOI 10.1038/srep21848
+CR  - Poot H, 2008, ECOL SOC, V13
+CR  - Rea Roy V., 2010, Alces, V46, P183
+CR  - REMINGTON PJ, 1976, J SOUND VIB, V46, P419, DOI 10.1016/0022-460X(76)90864-6
+CR  - Richards S. H., 1990, TRANSP RES REC, V1254
+CR  - Rose JL, 2004, NDT&E INT, V37, P153, DOI 10.1016/j.ndteint.2003.04.001
+CR  - RUDD MJ, 1976, J SOUND VIB, V46, P381, DOI 10.1016/0022-460X(76)90862-2
+CR  - Rytwinski T, 2012, BIOL CONSERV, V147, P87, DOI 10.1016/j.biocon.2011.11.023
+CR  - Schwabe KA, 2002, WILDLIFE SOC B, V30, P609
+CR  - Seiler A., 2011, KLOVVILTOLYCKOR PAJA
+CR  - Shalev-Shwartz S, 2012, FOUND TRENDS MACH LE, V4, P107, DOI 10.1561/2200000018
+CR  - Team RC, 2013, R LANG ENV STAT COMP
+CR  - Ujvari M, 1998, J WILDLIFE MANAGE, V62, P1094, DOI 10.2307/3802562
+CR  - Valitzski SA, 2009, J WILDLIFE MANAGE, V73, P1072, DOI 10.2193/2007-581
+CR  - Van Der Grift E. A., 1999, Lutra, V42, P77
+CR  - van der Ree R, 2015, HANDBOOK OF ROAD ECOLOGY, P1
+CR  - Vollrath F, 2002, NATURWISSENSCHAFTEN, V89, P508, DOI 10.1007/s00114-002-0375-2
+CR  - Waller JS, 2005, J WILDLIFE MANAGE, V69, P985, DOI 10.2193/0022-541X(2005)069[0985:EOTIOG]2.0.CO;2
+CR  - Wells P., 1999, P 3 INT C WILDL EC T, P85
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+DA  - SEP
+PY  - 2017
+VL  - 106
+SP  - 563
+EP  - 569
+DO  - 10.1016/j.ecoleng.2017.06.024
+AN  - WOS:000405512600059
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  15
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - Zhang, HX
+AU  - Wu, XP
+AU  - Pan, YJ
+AU  - Azam, A
+AU  - Zhang, ZT
+TI  - A novel vibration energy harvester based on eccentric semicircular rotor for self-powered applications in wildlife monitoring
+T2  - ENERGY CONVERSION AND MANAGEMENT
+LA  - English
+KW  - Vibration energy harvesting
+KW  - Eccentric rotor
+KW  - Self-powered
+KW  - Wildlife monitoring
+KW  - TRIBOELECTRIC NANOGENERATOR
+KW  - ELECTROMAGNETIC GENERATOR
+KW  - SENSOR NETWORK
+KW  - GPS TELEMETRY
+KW  - DESIGN
+KW  - SYSTEM
+KW  - EFFICIENCY
+KW  - COLLARS
+KW  - DRIVEN
+KW  - INFORMATION
+AB  - Wildlife monitoring has become increasingly crucial for better examination and protection of wildlife. However, existing monitoring devices are limited and less effective due to battery life limitations. This paper proposes a novel vibration energy harvester (VEH) for self-powered applications in wildlife monitoring. An eccentric semicircular rotor was designed and developed to effectively convert the random movements of wild animals into energy. The proposed vibration energy harvester mainly consists of four components: vibration input module, electromagnetic generation module, power management module, and work module. The electromagnetic power generation module converts the kinetic energy of wildlife harvested by the eccentric semicircular rotor into electrical energy. The power management module converts the generated AC power into DC power; the electricity is stored in a lithium battery to provide power for the wildlife monitoring system. Experiments were conducted to record the harvested power from human and animal kinetic energy. The installed VEH on the leg of the tester produced 25.8 mW output power at the speed of 15 km/h, whereas sika deer resulted in 19.66 mW while running. Finally, an estimation analysis was conducted for sika deer, and found that 212.08 J/day can be harvested for the wildlife tag to work for 15 days.
+AD  - Southwest Jiaotong Univ, Sch Mech Engn, Chengdu 610031, Peoples R ChinaC3  - Southwest Jiaotong UniversityFU  - National Natural Foundation of China [51975490, 5177424]; Science and Technology Projects of Sichuan [2021JDRC0118, 2021JDRC0096]; Sichuan Science and Technology Pro-gram [2020JDTD0027]
+FX  - This work was supported by the National Natural Foundation of China under Grants Nos. 51975490 and 5177424; and by the Science and Technology Projects of Sichuan under Grants Nos. 2021JDRC0118 and 2021JDRC0096; and by the Sichuan Science and Technology Pro-gram under Grant No. 2020JDTD0027. The asterisk indicates the cor-responding author.
+CR  - Aktakka EE, 2011, J MICROMECH MICROENG, V21, DOI 10.1088/0960-1317/21/9/095016
+CR  - Baumker E., 2020, THERMAL ENERGY HARVE, P1, DOI 10.1109/
+CR  - Block BA, 2005, NATURE, V434, P1121, DOI 10.1038/nature03463
+CR  - Bohmann K, 2014, TRENDS ECOL EVOL, V29, P358, DOI 10.1016/j.tree.2014.04.003
+CR  - Butchart SHM, 2010, SCIENCE, V328, P1164, DOI 10.1126/science.1187512
+CR  - Cagnacci F, 2008, ENVIRON MODELL SOFTW, V23, P957, DOI 10.1016/j.envsoft.2008.01.003
+CR  - Cha YS, 2016, RENEW ENERG, V86, P449, DOI 10.1016/j.renene.2015.07.077
+CR  - Dai D, 2014, FRONT ENERGY, V8, P173, DOI 10.1007/s11708-014-0301-2
+CR  - Dennis TE, 2012, J APPL ANIM WELF SCI, V15, P189, DOI 10.1080/10888705.2012.683755
+CR  - Di Orio AP, 2003, WILDLIFE SOC B, V31, P372
+CR  - Dyo V, 2012, ACM T SENSOR NETWORK, V8, DOI 10.1145/2240116.2240118
+CR  - Foley CJ, 2020, METHODS ECOL EVOL, V11, P553, DOI 10.1111/2041-210X.13369
+CR  - Garcia-Sanchez AJ, 2010, SENSORS-BASEL, V10, P7236, DOI 10.3390/s100807236
+CR  - Gholikhani M, 2021, ENERG CONVERS MANAGE, V230, DOI 10.1016/j.enconman.2020.113804
+CR  - Gonzalez LF, 2016, SENSORS-BASEL, V16, DOI 10.3390/s16010097
+CR  - Halim MA, 2018, APPL ENERG, V217, P66, DOI 10.1016/j.apenergy.2018.02.093
+CR  - Halim MA, 2015, ENERG CONVERS MANAGE, V106, P393, DOI 10.1016/j.enconman.2015.09.065
+CR  - Halim MA, 2015, SENSOR ACTUAT A-PHYS, V229, P50, DOI 10.1016/j.sna.2015.03.024
+CR  - Hou C, 2019, NANO ENERGY, V63, DOI 10.1016/j.nanoen.2019.103871
+CR  - Izadgoshasb I, 2019, ENERG CONVERS MANAGE, V184, P559, DOI 10.1016/j.enconman.2019.02.001
+CR  - Johnson CJ, 2002, WILDLIFE BIOL, V8, P153, DOI 10.2981/wlb.2002.011
+CR  - Lee J, 2014, ENERG CONVERS MANAGE, V78, P32, DOI 10.1016/j.enconman.2013.09.054
+CR  - Lee S, 2013, NANO ENERGY, V2, P1113, DOI 10.1016/j.nanoen.2013.08.007
+CR  - Lehner M, 2015, 2015 IEEE 6TH INTERNATIONAL SYMPOSIUM ON MICROWAVE, ANTENNA, PROPAGATION, AND EMC TECHNOLOGIES (MAPE), P577, DOI 10.1109/MAPE.2015.7510385
+CR  - Lin ZM, 2017, ACS NANO, V11, P8830, DOI 10.1021/acsnano.7b02975
+CR  - Linchant J, 2015, MAMMAL REV, V45, P239, DOI 10.1111/mam.12046
+CR  - Liu L, 2013, IEEE T COMMUN, V61, P3990, DOI 10.1109/TCOMM.2013.071813.130105
+CR  - Maccurdy R., 2016, IMECE200868082, V8082, P1
+CR  - Mahmoud M, 2020, ENERG CONVERS MANAGE, V210, DOI 10.1016/j.enconman.2020.112670
+CR  - Moen R, 1996, J WILDLIFE MANAGE, V60, P659, DOI 10.2307/3802085
+CR  - Paul S., MECH SYST SIGNAL PR, V2021, P151
+CR  - Paul S, 2019, ENERG CONVERS MANAGE, V197, DOI 10.1016/j.enconman.2019.111868
+CR  - Qi LF, 2018, ENERG CONVERS MANAGE, V165, P748, DOI 10.1016/j.enconman.2018.04.003
+CR  - Recio MR., 2011, LIGHTWEIGHT GPS TAGS, V6, DOI [10.1371/ journal.pone.0028225, DOI 10.1371/JOURNAL.PONE.0028225]
+CR  - Schlinquer T, 2017, IFAC PAPERSONLINE, V50, P14600, DOI 10.1016/j.ifacol.2017.08.2111
+CR  - Shafer MW, 2015, SMART MATER STRUCT, V24, DOI 10.1088/0964-1726/24/2/025031
+CR  - Siddique AM, 2017, ENERG CONVERS MANAGE, V133, P399, DOI 10.1016/j.enconman.2016.10.059
+CR  - Siddique AM, 2015, ENERG CONVERS MANAGE, V106, P728, DOI 10.1016/j.enconman.2015.09.071
+CR  - Society W, 2016, SOLAR PANELS ENERGY, V37, P236
+CR  - Sun C, 2021, REMOTE SENS ECOL CON, V7, P666, DOI 10.1002/rse2.222
+CR  - Toledo S, 2015, IET WIREL SENS SYST, V5, P235, DOI 10.1049/iet-wss.2014.0042
+CR  - Wang W, 2017, ENERG CONVERS MANAGE, V132, P189, DOI 10.1016/j.enconman.2016.11.026
+CR  - Wang YJ, 2013, IEEE-ASME T MECH, V18, P754, DOI 10.1109/TMECH.2012.2183640
+CR  - Woias P, 2014, J PHYS CONF SER, V557, DOI 10.1088/1742-6596/557/1/012084
+CR  - Wu Y, 2014, PROC SPIE, V9057, DOI 10.1117/12.2045139
+CR  - Zhang XT, 2016, ENERG CONVERS MANAGE, V118, P287, DOI 10.1016/j.enconman.2016.04.012
+CR  - Zheng P, 2021, ENERGY, V227, DOI 10.1016/j.energy.2021.120446
+CR  - Zhou M, 2018, RENEW SUST ENERG REV, V82, P3582, DOI 10.1016/j.rser.2017.10.102
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+DA  - NOV 1
+PY  - 2021
+VL  - 247
+DO  - 10.1016/j.enconman.2021.114674
+AN  - WOS:000704370600002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  48
+ER  -
+
+TY  - CPAPER
+AU  - Begum, HM
+AU  - Janeera, DA
+AU  - Kumar, AGA
+A1  - IEEE
+TI  - Internet of Things based Wild Animal Infringement Identification, Diversion and Alert System
+T2  - PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON INVENTIVE COMPUTATION TECHNOLOGIES (ICICT-2020)
+LA  - English
+CP  - 5th International Conference on Inventive Computation Technologies (ICICT)
+KW  - Wi-Fi
+KW  - IoT
+KW  - Energia IDE
+KW  - Animal Intrusion Detection
+KW  - Python Server
+KW  - wireless microcontroller
+KW  - INTRUSION DETECTION
+AB  - In places with high population and human mobility, intrusion of wildlife is lethal for humans as well as the animals. Due to the diverse nature of movement and physical sizes of wild animals, it is a challenging talk to track these animals or perform surveillance. As a solution to this issue, this paper proposes a system that can help in identification of intrusion of wild animals at agricultural farms by means of Internet of things and a Wi-Fi based wireless microcontroller unit. Prototyping is performed using Energia IDE for transmission of information to the forest officer from the transmitter node. Pillars consisting of an electronic unit with buzzer, vibration sensor, laser detector, laser diode, RF transceiver and ultra low power microcontrollers are placed at the corners of the field. On infringement, an alert message is transmitted by the Wi-Fi module. An animal database is used for testing of the proposed system. The forest officer is alerted by means of a Python server. Prevention of casualties in areas where there is a higher rate of interaction between humans and wild animals is enabled through this system.
+AD  - Sri Krishna Coll Engn & Technol, Dept ECE, Coimbatore, Tamil Nadu, IndiaAD  - Ericsson India Ltd, Coimbatore, Tamil Nadu, IndiaC3  - Sri Krishna College of Engineering & TechnologyCR  - Aiswarya M, 2018, INTELLIGENT AGR INTR, P8
+CR  - Andavarapu Nagaraju, 2017, INT J COMPUTATIONAL, V13, P2247
+CR  - Arunashantha H. A. S., 2015, WILD ANIMAL INTRUSIO
+CR  - Bapat V, 2017, COMPUT ELECTRON AGR, V133, P88, DOI 10.1016/j.compag.2016.12.007
+CR  - Distefano E., 2005, HUMAN WILDLIFE CONFL
+CR  - Druta Cristian, 2015, EVALUATION BURIED CA
+CR  - Huijser Marcel P, 2009, FHWAMT090025048 MONT
+CR  - Ibrahim, 2012, INT J FUTURE COMPUT, V1, P24, DOI 10.7763/IJFCC.2012.V1.7
+CR  - Inayat Z, 2017, ARAB J SCI ENG, V42, P399, DOI 10.1007/s13369-016-2400-3
+CR  - Kim SH, 2018, ANN NUCL ENERGY, V112, P845, DOI 10.1016/j.anucene.2017.11.026
+CR  - Maheswari P. Uma, 2016, IJARBEST C, V2
+CR  - Manohar N., 2018, International Journal of Computer Vision and Image Processing, V8, P15, DOI 10.4018/IJCVIP.2018010102
+CR  - Patel K. K., 2016, INT J ENG SCI COMPUT, V6
+CR  - Santhiya S, 2018, INT RES J ENG TECHNO
+CR  - Sharma Rakesh, 2019, International Journal of Advanced Networking and Applications, V10, P3925
+CR  - Supreeth J, 2019, IOT WILDLIFE MONITOR
+CR  - Thirgood S, 2005, CONSERV BIOL SER, V9, P13
+CR  - Wang XT, 2017, ICCREM 2017: PREFABRICATED BUILDINGS, INDUSTRIALIZED CONSTRUCTION, AND PUBLIC-PRIVATE PARTNERSHIPS, P1
+CR  - Yin CL, 2017, IEEE ACCESS, V5, P21954, DOI 10.1109/ACCESS.2017.2762418
+CR  - Zhang Geng Dahua, 2016, INT J SIMULATION SYS, V17
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+PY  - 2020
+SP  - 801
+EP  - 805
+AN  - WOS:000566949800153
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  20
+ER  -
+

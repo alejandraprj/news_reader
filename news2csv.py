@@ -1,17 +1,28 @@
-import pandas as pd
-import feedparser, re, sys, os
-from urllib.parse import quote
+# Python 3.9
+# Program to obtain feeds w/ search results from Google News
+  # and similar open access platforms
+# Execute  : In the command line, write: 
+           # python3 news2csv.py <source> <path>
+# <source> : CSV source location for "Tag" and corresponding "Query"
+# <path>   : directory where CSV results files will be located in
+# Author   : Alejandra J. Perea Rojas
 
-# to exec - command line: python3 news2csv.py <source> <path>
-  # <source> : CSV file where the tag and links are 
-    # *links lead to the google news search results pages
-  # <path> : directory where CSV feed results will go
+import pandas as pd
+import feedparser
+import re
+import sys
+import os
+from urllib.parse import quote
 
 base_url = "https://news.google.com/rss/search?q="
 end_url = "&hl=en-US&gl=US&ceid=US%3Aen"
 
-queries = pd.read_csv(sys.argv[1], sep=',')
-dir = sys.argv[2]
+try:
+  queries = pd.read_csv(sys.argv[1], sep=',')
+  dir = sys.argv[2]
+except FileNotFoundError:
+  print("Source file not found.")
+  sys.exit()
 
 # Create directory to store CSV files
 if not os.path.exists(dir):
@@ -60,6 +71,7 @@ def tocsv(tag, RSS_url):
   
   path = dir + "/" + tag + ".csv"
   print("Reading now: ", tag)
+  print(RSS_url)
 
   # Feed dataframe
   df = pd.DataFrame(readFeed(tag, RSS_url),\

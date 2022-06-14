@@ -1,12 +1,8 @@
 import feedparser
-import time
-import sys
 import pandas as pd
 import re
 import urllib
-import urllib.request as ur
 import argparse
-import bs4
 
 # Feed URL
 base_url = 'https://news.google.com/rss/search?q='
@@ -31,15 +27,6 @@ parser.add_argument('-p', action='append', dest='locations', nargs='+',
 
 parser.add_argument('--version', action='version', version='%(prog)s 1.0')
 
-# Get Alexa Rank - remember it only works from USA so you need a proxy
-def getMetrics(url):
-    cleanDomain = '/'.join(url.split('/')[:3])
-    try:
-        alexa_rank = bs4.BeautifulSoup(ur.urlopen("http://data.alexa.com/data?cli=10&dat=s&url="+ url), "xml").find("REACH")["RANK"]
-    except:
-        alexa_rank = None
-    return alexa_rank
- 
 # HTML cleanup function
 def cleanhtml(raw_html):
   cleanr = re.compile('<.*?>')
@@ -50,7 +37,7 @@ def cleanhtml(raw_html):
 d = []
 
 # Access the feed and store data in d
-def readFeed(url,query):
+def readFeed(url, query):
 
     feed = feedparser.parse(url)
 
@@ -65,13 +52,9 @@ def readFeed(url,query):
 
         description = cleanhtml(post.summary)
         source = post.source.title
-        # Get Alexa Rank
-        alexa_rank = getMetrics(link)
-        d.append((title, link, pubDate, description, source, query, alexa_rank))
-        print(d)
+        d.append((title, link, pubDate, description, source, query))
+        #print(d)
     
-    # Add delay between calls
-    time.sleep(2)
     return d
 
 # Get the parameters
@@ -117,7 +100,7 @@ else:
 cleanQuery = re.sub('\W+','', query)
 file_name = cleanQuery + ".csv"
 
-df = pd.DataFrame(d, columns=('Title', 'Link', 'pubDate', 'Description','Source', 'Query', 'Alexa Rank'))
+df = pd.DataFrame(d, columns=('Title', 'Link', 'pubDate', 'Description','Source', 'Query'))
 
 # Remove all rows with the same link - you might want to comment this when using different keywords
 df.drop_duplicates(subset ="Link", 

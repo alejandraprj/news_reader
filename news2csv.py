@@ -22,24 +22,18 @@ base_url = "https://news.google.com/rss/search?q="
 og_url = "https://news.google.com/search?q="
 end_url = "&hl=en-US&gl=US&ceid=US%3Aen"
 
+# Read source file and name result directory
 try:
-  queries = pd.read_csv(sys.argv[1], sep=',')
+  rows = pd.read_csv(sys.argv[1], sep=',')
   dir = sys.argv[2]
+  # Create directory to store CSV files
+  if not os.path.exists(dir):
+    os.makedirs(dir)
 except FileNotFoundError:
   print("Source file not found.")
   sys.exit()
 
-# Create directory to store CSV files
-if not os.path.exists(dir):
-  os.makedirs(dir)
-
-# HTML cleanup function for description field
-def cleanhtml(raw_html):
-  cleanr = re.compile('<.*?>')
-  cleantext = re.sub(cleanr, '', raw_html)
-  return cleantext
-
-# Merge encoded query to make RSS Feed Link
+# Encodes query and returns links to be read
 def toRSS(tag, query):
   try:
     encoded = quote(query) + end_url
@@ -50,7 +44,13 @@ def toRSS(tag, query):
     print("Missing query from", tag + ". Stopping now.\n") 
     sys.exit()
 
-# Reads feed and stores data in dataframe
+# Cleans HTML for description field
+def cleanhtml(raw_html):
+  cleanr = re.compile('<.*?>')
+  cleantext = re.sub(cleanr, '', raw_html)
+  return cleantext
+
+# Reads feed and returns dataframe
 def readFeed(tag, RSS_url):
   
   # Prepare the data frame to store the items
@@ -61,25 +61,29 @@ def readFeed(tag, RSS_url):
 
   # Loop items in the feed
   for post in feed.entries:
+
     title = post.title
     link = post.link
-    pubDate = "%d/%d/%d" % (post.published_parsed.tm_mon,\
+    pubDate = "%d/%d/%d" % \
+             (post.published_parsed.tm_mon, \
               post.published_parsed.tm_mday,\
               post.published_parsed.tm_year)
     description = cleanhtml(post.summary)
     source = post.source.title
-    data.append((title, link, pubDate, description, source, tag))
+
+    data.append((title, link, pubDate,\
+                 description, source, tag))
 
   return data
 
-# Converts to CSV
+# Converts to CSV and stores it
 def tocsv(tag, RSS_url, og):
   
   path = dir + "/" + tag + ".csv"
-  print("Reading now: ", tag)
-  print("Reading now: ", tag, file=log)
-  print(og)
-  print(og, file=log)
+
+  # Prints and saves processing log 
+  print("Reading now: ", tag, "\n", og)
+  print("Reading now: ", tag, "\n", og, file=log)
 
   # Feed dataframe
   df = pd.DataFrame(readFeed(tag, RSS_url),\
@@ -92,11 +96,12 @@ def tocsv(tag, RSS_url, og):
   
   # Store CSV file
   df.to_csv(path, encoding='utf-8', index=False)
+
+  # Print and save number of articles for a tag
   print(len(df), "Articles saved on", tag + ".csv\n")
   print(len(df), "Articles saved on", tag + ".csv\n", file=log)
 
-print("\n")
 # Iterate through each row and index
-for row in queries.index:
-  tag, RSS_url, og = toRSS(queries['Tag'][row], queries['Query'][row])
-  tocsv(tag, RSS_url, og)
+for row in rows.index:
+  tag, RSS_link, og = toRSS(rows['Tag'][row], rows['Query'][row])
+  tocsv(tag, RSS_link, og)
